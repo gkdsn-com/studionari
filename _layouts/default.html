@@ -7,7 +7,7 @@
   <meta name="description" content="{% if page.overall.seo-description %}{{ page.overall.seo-description }}{% elsif site.data.seo.description %}{{ site.data.seo.description }}{% else %}{{ site.description }}{% endif %}">
   <link rel="canonical" href="{{ site.url }}{{ page.url}}">
   <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
-  <link rel="shortcut icon" href="/assets/images/favicon.png" type="image/png" id="icon">
+  <link rel="shortcut icon" href="/assets/images/favicon/N.png" type="image/png" id="icon">
   {% include font-preload.html %}
   <link type="text/css" rel="stylesheet" href="/assets/css/app.css">
   <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
@@ -30,7 +30,6 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
   <script>
     let schemeCookie = $.cookie('dark');
-    console.log(schemeCookie);
     if (schemeCookie === 'dark') {
         $('body').addClass('dark');
     }
@@ -55,6 +54,20 @@
   data-message="{{ site.data.cookie.body }}"
   data-linkmsg="{{ site.data.cookie.btn }}">
   </script>
+  <script>
+    function iconChange() {
+    setTimeout(function(){ document.getElementById("icon").href = "/assets/images/favicon/N.png";}, 600);
+    setTimeout(function(){ document.getElementById("icon").href = "/assets/images/favicon/A.png";}, 1200);
+    setTimeout(function(){ document.getElementById("icon").href = "/assets/images/favicon/R.png";}, 1800); 
+    setTimeout(function(){ document.getElementById("icon").href = "/assets/images/favicon/I.png";}, 2400); 
+    }
+      window.onload = function() {
+        iconChange();
+    setInterval(function() {
+    iconChange();
+    }, 2401);
+    };
+</script>
   <!-- Begin CMS body -->
   {{ site.data.code.body.code }}
   <!-- End CMS body -->
