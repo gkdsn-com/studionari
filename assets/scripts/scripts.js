@@ -1,5 +1,4 @@
 window.onload = (event) => {
-    colourCookie();
 };
   
 colourSwitch = function(){
@@ -9,13 +8,6 @@ colourSwitch = function(){
     }
     else {
         $.removeCookie('dark')
-    }
-}
-colourCookie = function(){
-    let schemeCookie = $.cookie('dark');
-    console.log(schemeCookie);
-    if (schemeCookie === 'dark') {
-        $('body').addClass('dark');
     }
 }
 
