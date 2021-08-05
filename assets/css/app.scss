@@ -25,6 +25,8 @@ main {
 svg {
     display: inline-block;
 }
-
+div.cookiebanner {
+    border-top: 1px solid $black !important;
+}
 @import 'responsive';
 @import 'shame';
