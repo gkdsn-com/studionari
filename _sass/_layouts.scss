@@ -1,0 +1,144 @@
+section.projects {
+    display:block;
+    &.hidden {
+        display:none;
+    }
+    //Grid View Project
+    &.grid-view {
+        padding: $ui-height;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        column-gap: $ui-height;
+        row-gap: $ui-height;
+        .homepage-project {
+            h2 {
+                padding-left: 0px;
+                position:relative;
+                display:block;
+                &::before {
+                    content: '';
+                    display: block;
+                    position:absolute;
+                    top: calc(50% - 2px);
+                    left: 0;
+                    height: 0px;
+                    width:0px;
+                    background-color: $black;
+                }
+            }
+            img {
+                margin-bottom: 8px;
+                border: 1px solid $white;
+                vertical-align: bottom
+            }
+            &:hover {
+                h2 {
+                    padding-left: 9px;
+                    &::before {
+                        height: 3px;
+                        width:3px;
+                    }
+                }
+                img {
+                    border: 1px solid $black;
+                }
+            }
+        }
+        &.hidden {
+            display:none;
+        }
+    }
+    // Full View Project
+    &.full-view {
+        margin-top: -1px;
+        position:relative;
+        .project-item {
+            .project-full-title {
+                .title {
+                    padding-left: 0px;
+                    position:relative;
+                    display:block;
+                    &::before {
+                        content: '';
+                        display: block;
+                        position:absolute;
+                        top: calc(50% - 2px);
+                        left: 0;
+                        height: 0px;
+                        width:0px;
+                        background-color: $black;
+                    }
+                }
+                .desc {
+                    justify-self: flex-end;
+                }
+            }
+            &:hover {
+                .project-full-title {
+                    .title {
+                        padding-left: 9px;
+                        &::before {
+                            height: 3px;
+                            width:3px;
+                        }
+                    }
+                }
+            }
+        }
+        .homepage-project {
+            margin:0;
+            img {
+                width: 100%;
+                margin:0;
+                vertical-align: bottom
+            }
+        }
+        .project-full-title {
+            padding: 4px 16px 0;
+            height: $ui-height;
+            @include flex(center, space-between);
+            border-bottom: 1px solid $black;
+            border-top: 1px solid $black;
+            background-color: $white;
+
+            position: sticky;
+            top:39px;
+        }
+    }
+    //List view project
+    &.list-view {
+        position:relative;
+        .proj-list-item {
+            display: grid;
+            grid-template-columns: 2fr 4fr 1fr 1fr;
+            align-content: center;
+            height: $ui-height;
+            padding: 4px 16px 0;
+            border-bottom: 1px solid $black;
+            .proj-list-img {
+                position:fixed;
+                width: 160px;
+                z-index: -1;
+                top:0;
+                left:0;
+                opacity:0;
+                transform: translate3d(calc(-50% + var(--cursorX)), calc(-50% + var(--cursorY)), 0);
+                transition: transform 0.05s linear;
+            }
+            h3:last-child {
+                justify-self: end;
+                text-align: right;
+            }
+            &.proj-list-title {
+                position:sticky;
+                top: $ui-height;
+                background-color: $white;
+            }
+            &:hover {
+                .proj-list-img {
+                    opacity: 100%;
+                }
+            }
+        }
+    }
+}

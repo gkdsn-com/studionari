@@ -15,9 +15,12 @@ body {
     color: $black;
 }
 main {
-    padding: $ui-height 0 0;
+    padding: $ui-height 0 $ui-height;
     opacity:100%;
     transition: opacity 0.4s linear;
+}
+img {
+    max-width: 100%;
 }
 svg {
     display: inline-block;

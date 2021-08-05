@@ -1,3 +1,18 @@
-<footer>
+{% assign footerType = page.footer %}
+<footer {% if footerType != 'index' %}class="padding"{% endif %}>
     <div class="colour-switch js-colour-switch"></div>
+    {% if footerType == 'index' %}
+        <div class="view-list">
+            <a href="?grid" class="nav-link js-view-link" data-view="grid">Grid View</a>
+            <a href="?list" class="nav-link js-view-link" data-view="list">List View</a>
+            <a href="?full" class="nav-link js-view-link" data-view="full">Full View</a>
+        </div>
+    {% elsif footerType == 'project' %}
+            This is the project footer
+    {% else %}
+        <div class="view-list">
+            <a href="#" class="footer-link"><h3>Privacy Policy</h3></a>
+            <a href="#" class="footer-link"><h3>Cookie Policy</h3></a>
+        </div>
+    {% endif %}
 </footer>

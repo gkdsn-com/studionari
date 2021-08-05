@@ -1,0 +1,32 @@
+{% assign type = include.type %}
+{% assign img = include.img %}
+{% assign title = include.title %}
+{% assign desc = include.desc %}
+{% assign projDate = include.projDate %}
+{% assign client = include.client %}
+{% if type == 'list' %}
+    <a href="#" class="proj-list-item">
+        <img src="{{ img }}" alt="" class="proj-list-img">
+        <h3>{{ title }}</h3>
+        <h3>{{ desc }}</h3>
+        <h3>{{ client }}</h3>
+        <h3>{{ projDate }}</h3>
+    </a>
+{% elsif type == 'full' %}
+    <div class="project-item">
+        <div class="project-full-title">
+            <h3 class="title">{{ title }}</h3>
+            <h3 class="desc">{{ desc }}</h3>
+            <h3>{{ projDate }}</h3>
+        </div>
+        <a href="/" class="homepage-project">
+            <img src="{{ img }}" alt="">
+        </a>
+    </div>
+{% else %}
+    <a href="/" class="homepage-project">
+        <img src="{{ img }}" alt="">
+        <h2>{{ title }}</h2>
+        <p>{{ desc }}</p>
+    </a>
+{% endif %}

@@ -30,13 +30,14 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
   <script>
     let schemeCookie = $.cookie('dark');
-    if (schemeCookie === 'dark') {
+    if (schemeCookie === 'true') {
         $('body').addClass('dark');
     }
   </script>
   <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
   <script src="//instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw"></script>
   <script src="/assets/scripts/scripts.js"></script>
+  <script src="/assets/scripts/mouse.js"></script>
   <script>
     if (window.netlifyIdentity) {
       window.netlifyIdentity.on("init", user => {

@@ -2,5 +2,49 @@
 layout: default
 permalink: /
 ---
+<section class="projects grid-view hidden js-projects-container" id="grid">
 
-{{ content }}
+    {% for i in (1..15) %}
+        {% include project-item.html 
+            type='grid'
+            img='/assets/images/test-image.jpg'
+            title='Project Title'
+            desc='Etiam a ante justo. Sed id vulputate tortor. Fusce non facilisis ex, a condimentum purus.'
+            projDate='2020'
+            client='Client'
+        %}
+    {% endfor %}
+
+</section>
+<section class="projects list-view hidden js-projects-container" id="list">
+    <div class="proj-list-item proj-list-title">
+        <h3>Project</h3>
+        <h3>Description</h3>
+        <h3>Client</h3>
+        <h3>Year</h3>
+    </div>
+
+    {% for i in (1..45) %}
+        {% include project-item.html 
+            type='list'
+            img='/assets/images/test-image.jpg'
+            title='Project Title'
+            desc='Etiam a ante justo. Sed id vulputate tortor. Fusce non facilisis ex, a condimentum purus.'
+            projDate='2020'
+            client='Client'
+        %}
+    {% endfor %}
+
+</section>
+<section class="projects full-view hidden js-projects-container" id="full">
+    {% for i in (1..10) %}
+        {% include project-item.html 
+            type='full'
+            img='/assets/images/test-image.jpg'
+            title='Project Title'
+            desc='Etiam a ante justo. Sed id vulputate tortor. Fusce non facilisis ex, a condimentum purus.'
+            projDate='2020'
+            client='Client'
+        %}
+    {% endfor %}
+</section>

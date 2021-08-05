@@ -1,5 +1,4 @@
 ---
 layout: index
+footer: index
 ---
-
-This is the homepage

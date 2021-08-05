@@ -8,6 +8,7 @@ header.nav {
     width:100vw;
     @include flex (center, space-between);
     padding: 0 0 0 16px;
+    background-color: $white;
     border-bottom: 1px solid $black;
     svg.logo {
         max-width: 48px;
@@ -52,7 +53,11 @@ footer {
     width:100vw;
     @include flex (center, space-between);
     padding: 0 0 0 16px;
+    background-color: $white;
     border-top: 1px solid $black;
+    &.padding {
+        padding: 0 16px;
+    }
     .colour-switch {
         width: 24px;
         height:12px;
@@ -69,6 +74,18 @@ footer {
             left:0;
             transform: translateX(0%);
             transition: transform 0.1s linear;
+        }
+    }
+    .view-list {
+        @include flex (center, center);
+        flex-direction: row-reverse;
+        .footer-link {
+            margin:0;
+            margin-left: 16px;
+            text-decoration: none;
+        }
+        h3 {
+            margin:0;
         }
     }
 }
