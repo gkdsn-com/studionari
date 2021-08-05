@@ -142,3 +142,37 @@ section.projects {
         }
     }
 }
+
+//Contact Pull Out
+section.contact {
+    position: fixed;
+    top:$ui-height;
+    right:0;
+    height:calc(100vh - 80px);
+    width: 25vw;
+    padding: 32px;
+    z-index:9999;
+    background-color: $white;
+    border-left: 1px solid $black;
+    transform: translateX(100%);
+    transition: transform 0.5s $transition;
+}
+.contact-active {
+    section.contact {
+        transform: translateX(0%);
+    }
+    main {
+        transform: translateX(-25vw);
+    }
+    header.nav {
+        .nav-link {
+            opacity: 30%;
+        }
+        #contact {
+            opacity: 100%;
+        }
+    }
+    section.projects.list-view .proj-list-item:hover .proj-list-img {
+        opacity: 0%;
+    }
+}

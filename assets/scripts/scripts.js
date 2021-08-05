@@ -39,8 +39,13 @@ projectViewLoad = function(){
         $('.js-view-link[data-view=grid]').addClass('current');
     }
 }
-
+contact = function(e) {
+    e.preventDefault();
+    $('body').toggleClass('contact-active');
+    $('header.nav #contact').toggleClass('current');
+}
   
 
 $(document).on('click', '.js-colour-switch', colourSwitch);
 $(document).on('click', '.js-view-link', projectView);
+$(document).on('click', '#contact', contact);

@@ -17,7 +17,7 @@ body {
 main {
     padding: $ui-height 0 $ui-height;
     opacity:100%;
-    transition: opacity 0.4s linear;
+    transition: opacity 0.4s linear, transform 0.5s $transition;
 }
 img {
     max-width: 100%;
