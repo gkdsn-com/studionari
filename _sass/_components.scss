@@ -3,7 +3,7 @@ header.nav {
     position:fixed;
     top:0;
     left:0;
-    z-index: 9999;
+    z-index: 99;
     height: $ui-height;
     width:100vw;
     @include flex (center, space-between);
@@ -47,7 +47,7 @@ footer {
     position:fixed;
     bottom:0;
     left:0;
-    z-index: 9999;
+    z-index: 99;
     height: $ui-height;
     width:100vw;
     @include flex (center, space-between);
