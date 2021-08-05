@@ -1,0 +1,4 @@
+head:
+  code: <!-- This is some custom code -->
+body:
+  code: <!-- This is some custom body tag code -->
