@@ -1,0 +1,34 @@
+body.dark {
+    color: $white;
+    background-color: $black;
+    //Navigation
+    header.nav {
+        border-bottom: 1px solid $white;
+        svg.logo {
+            path {
+                fill: $white;
+            }
+        }
+    }
+    .nav-link {
+        color: $white;
+        &::before {
+            background-color: $black;
+            border: 1px solid $white;
+        }
+        &.current {
+            &::before {
+                background-color: $white;
+            }
+        }
+    }
+    footer {
+        border-top: 1px solid $white;
+        .colour-switch {
+            &::before {
+                background-color: $white;
+                transform:translateX(100%);
+            }
+        }
+    }
+}

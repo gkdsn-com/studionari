@@ -1,13 +1,14 @@
 <!doctype html>
 <html>
 <head>
-  <title>{% if site.data.seo.title %}{{ site.data.seo.title }}{% else %}{{ site.title }}{% endif %}{% if page.overall.title %} - {{ page.overall.title }}{% else %}- {{ page.title }}{% endif %}</title>
+  <title>{% if site.data.seo.title %}{{ site.data.seo.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="description" content="{% if page.overall.seo-description %}{{ page.overall.seo-description }}{% elsif site.data.seo.description %}{{ site.data.seo.description }}{% else %}{{ site.description }}{% endif %}">
   <link rel="canonical" href="{{ site.url }}{{ page.url}}">
   <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
   <link rel="shortcut icon" href="/assets/images/favicon.png" type="image/png" id="icon">
+  {% include font-preload.html %}
   <link type="text/css" rel="stylesheet" href="/assets/css/app.css">
   <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
   <!-- Begin CMS head -->
@@ -18,6 +19,7 @@
 </head>
 <body>
   {% include header.html %}
+  {% include footer.html %}
   <main role="main">
     {{ content }}
   </main>
@@ -42,7 +44,7 @@
   </script>
   <script type="text/javascript" id="cookiebanner"
   src="https://cdn.jsdelivr.net/gh/dobarkod/cookie-banner@1.2.2/dist/cookiebanner.min.js"
-  data-position="bottom" data-fg="#000000" data-bg="#ffffff" data-link="rgba(0,0,0,0.4)" data-padding="32px" data-font-family="NARI, sans-serif" data-z-index="9999999" data-font-size="13px"
+  data-position="bottom" data-fg="#000000" data-bg="#ffffff" data-link="rgba(0,0,0,0.4)" data-padding="32px" data-font-family="NARI, sans-serif" data-z-index="9999999" data-font-size="14px" data-height="40px"
   data-message="{{ site.data.cookie.body }}"
   data-linkmsg="{{ site.data.cookie.btn }}">
   </script>

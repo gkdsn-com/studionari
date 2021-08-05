@@ -8,17 +8,14 @@
 @import 'components';
 @import 'layouts';
 @import 'interactivity';
+@import 'colourscheme';
 
 body {
     background-color: $white;
     color: $black;
-    &.dark {
-        background-color: $black;
-        color: $white;
-    }
 }
 main {
-    padding: 160px 0 0;
+    padding: $ui-height 0 0;
     opacity:100%;
     transition: opacity 0.4s linear;
 }
