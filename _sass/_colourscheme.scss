@@ -36,4 +36,47 @@ body.dark {
             }
         }
     }
+    section.projects {
+        &.grid-view {
+            .homepage-project {
+                h2 {
+                    &::before {
+                        background-color: $white;
+                    }
+                }
+                img {
+                    border: 1px solid $black;
+                }
+                &:hover {
+                    img {
+                        border: 1px solid $white;
+                    }
+                }
+            }
+        }
+        &.full-view {
+            .project-item {
+                .project-full-title {
+                    .title {
+                        &::before {
+                            background-color: $white;
+                        }
+                    }
+                }
+            }
+            .project-full-title {
+                border-bottom: 1px solid $white;
+                border-top: 1px solid $white;
+                background-color: $black;
+            }
+        }
+        &.list-view {
+            .proj-list-item {
+                border-bottom: 1px solid $white;
+                &.proj-list-title {
+                    background-color: $black;
+                }
+            }
+        }
+    }
 }
