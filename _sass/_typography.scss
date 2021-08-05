@@ -1,3 +1,89 @@
+//HIGHLIGHT COLOURS
+*::-moz-selection {background: $select}
+*::selection {background: $select}
+*::-moz-selection {background: $select}
+
 html {
     font-family: $font;
+}
+h1,h2,h3,h4,h5,h6, .nav-link {
+    font-weight: normal;
+}
+h1 {
+    font-size: 24px;
+    letter-spacing: 0.05em;
+}
+h2 {
+    font-size: 18px;
+    letter-spacing: 0.05em;
+}
+h3, .nav-link {
+    font-size: 14px;
+    letter-spacing: 0.05em;
+    text-decoration: none;
+    color: $black;
+}
+.nav-link {
+    line-height: 14px;
+}
+h4 {
+    font-size: 12px;
+    letter-spacing: 0.05em;
+    text-decoration: none;
+}
+p {
+    text-align: justify;
+    line-height: 1.6;
+    font-size: 16px;
+    margin:0;
+    letter-spacing: 0.02em;
+    span, a {
+        font-weight: 700;
+        text-transform: uppercase;
+        font-size: 12px;
+        letter-spacing: 0.1em;
+    }
+    a {
+        text-decoration: underline;
+        &:hover {
+            color: #555;
+        }
+    }
+    &:last-child {
+        margin-bottom: 0;
+    }
+    &.lede {
+        font-size: 18px;
+    }
+    strong {
+        font-weight: 700;
+        text-transform: uppercase;
+        font-size: 12px;
+        letter-spacing: 0.1em;
+    }
+}
+p.small {
+    font-size: 14px;
+    span, a {
+        font-size: 12px;
+    }
+}
+strong, b {
+    font-weight: 700;
+}
+em, i {
+    font-style: italic;
+}
+h1,h2,h3,h4,h5,h6,p,figcaption {
+    margin: 0;
+    margin-bottom: 8px;
+    &.align-center {
+        text-align: center;
+    }
+    &.align-right {
+        text-align: right;
+    }
+    &.align-left {
+        text-align: left;
+    }
 }

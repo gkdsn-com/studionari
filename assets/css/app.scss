@@ -23,7 +23,7 @@ main {
     transition: opacity 0.4s linear;
 }
 svg {
-    display: block;
+    display: inline-block;
 }
 
 @import 'responsive';

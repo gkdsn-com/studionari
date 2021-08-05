@@ -1,0 +1,39 @@
+//Navigation
+header.nav {
+    position:fixed;
+    top:0;
+    left:0;
+    height: $ui-height;
+    width:100vw;
+    @include flex (center, space-between);
+    padding: 0 0 0 16px;
+    border-bottom: 1px solid $black;
+    svg.logo {
+        max-width: 48px;
+    }
+    nav {
+        @include flex (flex-start, flex-end);
+        flex-direction: row-reverse;
+    }
+}
+.nav-link {
+    margin-right: 16px;
+    padding-left: 12px;
+    position: relative;
+    &::before {
+        content: '';
+        display: block;
+        position:absolute;
+        top: calc(50% - 2px);
+        left: 0;
+        height: 4px;
+        width:4px;
+        background-color: $white;
+        border: 1px solid $black;
+    }
+    &.current {
+        &::before {
+            background-color: $black;
+        }
+    }
+}
