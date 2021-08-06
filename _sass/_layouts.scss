@@ -217,10 +217,14 @@ section.news {
     .news-item {
         img {
             margin-bottom: 8px;
+            border: 1px solid $white;
         }
         &:hover {
             * {
                 text-decoration: underline;
+            }
+            img {
+                border: 1px solid $black;
             }
         }
     }
