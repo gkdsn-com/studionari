@@ -115,15 +115,30 @@ section.projects {
             height: $ui-height;
             padding: 4px 16px 0;
             border-bottom: 1px solid $black;
+            h3.title {
+                padding-left: 0px;
+                position:relative;
+                display:block;
+                &::before {
+                    content: '';
+                    display: block;
+                    position:absolute;
+                    top: calc(50% - 2px);
+                    left: 0;
+                    height: 0px;
+                    width:0px;
+                    background-color: $black;
+                }
+            }
             .proj-list-img {
                 position:fixed;
-                width: 160px;
+                width: 200px;
                 z-index: -1;
                 top:0;
                 left:0;
                 opacity:0;
                 transform: translate3d(calc(-50% + var(--cursorX)), calc(-50% + var(--cursorY)), 0);
-                transition: transform 0.05s linear;
+                transition: transform 0.05s linear, opacity 0.1s linear;
             }
             h3:last-child {
                 justify-self: end;
@@ -133,10 +148,24 @@ section.projects {
                 position:sticky;
                 top: $ui-height;
                 background-color: $white;
+                z-index:99;
+            }
+            &.faded {
+                * {
+                    opacity: 20%;
+                }
             }
             &:hover {
                 .proj-list-img {
                     opacity: 100%;
+                }
+                .title {
+                    padding-left: 9px;
+                    &::before {
+                        height: 3px;
+                        width:3px;
+                        background-color: $black;
+                    }
                 }
             }
         }
@@ -174,5 +203,25 @@ section.contact {
     }
     section.projects.list-view .proj-list-item:hover .proj-list-img {
         opacity: 0%;
+    }
+}
+
+// News Layout
+section.news {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 12.5vw;
+    row-gap: 10vw;
+    padding: 10vw;
+    align-items: center;
+    .news-item {
+        img {
+            margin-bottom: 8px;
+        }
+        &:hover {
+            * {
+                text-decoration: underline;
+            }
+        }
     }
 }

@@ -73,6 +73,11 @@ body.dark {
         &.list-view {
             .proj-list-item {
                 border-bottom: 1px solid $white;
+                h3.title {
+                    &::before {
+                        background-color: $white;
+                    }
+                }
                 &.proj-list-title {
                     background-color: $black;
                 }

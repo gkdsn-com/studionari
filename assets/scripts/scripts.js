@@ -44,6 +44,16 @@ contact = function(e) {
     $('body').toggleClass('contact-active');
     $('header.nav #contact').toggleClass('current');
 }
+const $listItem = document.querySelectorAll(".js-list-item")
+$listItem.forEach(hover => {
+    hover.addEventListener("mouseover", function () {
+      $('.js-list-item').addClass('faded');
+      $(this).removeClass('faded');
+    })
+    hover.addEventListener("mouseout", function () {
+        $('.js-list-item').removeClass('faded');
+    })
+})
   
 
 $(document).on('click', '.js-colour-switch', colourSwitch);
