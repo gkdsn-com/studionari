@@ -1,35 +1,14 @@
 ---
 layout: default
 ---
+{% assign sortedNews = site.news | sort:"date" | reverse | date: "%d %B %Y" %}
 <section class="news">
-    {% include news-item.html 
-        type='text'
-        img='/assets/images/test-image.jpg'
-        title="News Item Title That's Quite Long"
-        desc='Etiam a ante justo. Sed id vulputate tortor. Fusce non facilisis ex, a condimentum purus.'
-        linkUrl='https://itsnicethat.com'
-    %}
-    {% include news-item.html 
-        type='img'
-        img='/assets/images/test-image.jpg'
-        title="News Item Title That's Quite Long"
-        desc='Etiam a ante justo. Sed id vulputate tortor. Fusce non facilisis ex, a condimentum purus.'
-        linkUrl='https://itsnicethat.com'
-    %}
-    {% include news-item.html 
-        type='text'
-        img='/assets/images/test-image.jpg'
-        title="News Item Title That's Even Longer Than The Other One Like This"
-        desc='Etiam a ante justo. Sed id vulputate tortor. Fusce non facilisis ex, a condimentum purus.'
-        linkUrl='https://itsnicethat.com'
-    %}
-    {% for i in (1..15) %}
+    {% for news in sortedNews %}
         {% include news-item.html 
-            type='img'
-            img='/assets/images/test-image.jpg'
-            title="News Item"
-            desc='Etiam a ante justo. Sed id vulputate tortor. Fusce non facilisis ex, a condimentum purus.'
-            linkUrl='https://itsnicethat.com'
+            img=news.image
+            title=news.title
+            desc=news.content
+            linkUrl=news.linkURL
         %}
     {% endfor %}
 </section>

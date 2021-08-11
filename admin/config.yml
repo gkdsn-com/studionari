@@ -210,6 +210,7 @@ collections:
     editor:
       preview: false
     fields:
+      - {label: Link URL, name: url, widget: string}
       - {label: Heading, name: title, widget: string}
       - {label: Body, name: body, widget: markdown, modes: ['rich_text']}
       - {label: "Optional image", name: "image", widget: "image", hint: Leaving this blank will mean a larger title, required: false}

@@ -1,12 +1,12 @@
 {% assign type = include.type %}
-{% assign img = include.img %}
+{% assign img = include.img | default: '' %}
 {% assign title = include.title %}
 {% assign desc = include.desc %}
 {% assign linkUrl = include.linkUrl %}
 <a href="{{ linkUrl }}" target="_blank" class="news-item">
-    {% if type == 'text' %}
+    {% if img == '' %}
         <h1>{{ title }}</h1>
-        <p>{{ desc }}</p>
+        <p>{{ desc }}</p>  
     {% else %}
         <img src="{{ img }}" alt="">
         <h3>{{ title }}</h3>
