@@ -18,3 +18,11 @@ sass:
 collections:
   projects:
     output: true
+  clients:
+    output: true
+  sectors:
+    output: true
+  services:
+    output: true
+  years:
+    output: true

@@ -1,0 +1,225 @@
+backend:
+  name: test-repo
+  # branch: master
+media_folder: "assets/uploads"
+site_url: https://studionari.netlify.app
+logo_url: https://studionari.netlify.app/assets/images/logo.svg
+display_url: https://studionari.com
+local_backend:
+  # when using a custom proxy server port
+  url: http://localhost:4000/api/v1
+  # when accessing the local site from a host other than 'localhost' or '127.0.0.1'
+  allowed_hosts: ['192.168.0.1']
+publish_mode: editorial_workflow
+collections:
+  - label: "Main Pages"
+    label_singular: "Page"
+    name: "pages"
+    files:
+      - label: "Homepage"
+        name: "index"
+        file: "index.markdown"
+        editor:
+          preview: false
+        fields:
+          - {label: Page Name, name: title, widget: string, default: "Home"}
+          - {label: SEO Page Description, name: seo-description, widget: string, required: false}
+          - label: Homepage Introduction Feature
+            name: intro
+            widget: object
+            collapsed: false
+            summary: Use this for the mouse movement homepage feature
+            fields:
+              - {label: Turn the introduction on or off?, name: toggle, widget: boolean, default: true}
+              - {label: Text for introduction hover, name: text, widget: string, default: "Click to enter"}
+              - label: Introduction Images and Videos
+                label_singular: Item
+                name: content
+                widget: list
+                min: 5
+                max: 5
+                hint: Use this to change the images or videos that display in the introduction item - only use the default switch on ONE item
+                types:
+                  - label: "Image"
+                    name: "introimage"
+                    widget: "object"
+                    fields:
+                      - {label: 'Do you want this to be the default item?', name: toggle, widget: boolean}
+                      - { label: "Image", name: "image", widget: "image" }
+                      - { label: "Short Description", name: "desc", widget: "string", required: false}
+                  - label: "Video"
+                    name: "introvideo"
+                    widget: "object"
+                    fields:
+                      - {label: 'Do you want this to be the default item?', name: toggle, widget: boolean}
+                      - { label: "Video", name: "video", widget: "file" }
+                      - { label: "Short Description", name: "desc", widget: "string", required: false}
+          - label: Homepage Text Fields
+            name: text
+            widget: object
+            collapsed: false
+            hint: Use this to change some of the text elements that are only on the Homepage
+            fields:
+              - {label: Filters Title, name: filters, widget: string, default: "Filters"}
+              - {label: Full View Title, name: full, widget: string, default: "Full View"}
+              - {label: List View Title, name: list, widget: string, default: "List View"}
+              - {label: Grid View Title, name: grid, widget: string, default: "Grid View"}
+              - {label: Project Title, name: project, widget: string, default: "Project"}
+              - {label: Description Title, name: description, widget: string, default: "Description"}
+              - {label: Client Title, name: client, widget: string, default: "Client"}
+              - {label: Year Title, name: year, widget: string, default: "Year"}
+      - label: "About"
+        name: "about"
+        file: "about.markdown"
+        editor:
+          preview: false
+        fields:
+          - {label: Page Name, name: title, widget: string, default: "About"}
+          - {label: SEO Page Description, name: seo-description, widget: string, required: false}
+          - label: About Sections
+            label_singular: Section
+            name: content
+            widget: list
+            hint: Add sections to the About page
+            summary: '{{fields.title}}'
+            fields:
+              - { label: "Section Title", name: "title", widget: "string"}
+              - label: "Section Body"
+                name: "body"
+                widget: "markdown"
+                modes: ['rich_text']
+  - name: "projects"
+    label: "Projects"
+    label_singular: "Project"
+    identifier_field: '{{fields.title}}'
+    folder: "_projects/"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - {label: Layout, name: layout, widget: hidden, default: project}
+      - {label: Project Title, name: title, widget: string}
+      - {label: Project Slug, name: permalink, widget: string, hint: Use this to change the URL of the project if you don't want to use the Project Title}
+      - {label: Short Decsription, name: desc, widget: string, hint: Keep this to a maximum of 80 characters including spaces}
+      # Insert the relation to Client, Sector, Services and Years here
+      - label: Project Content
+        label_singular: Content
+        name: content
+        widget: list
+        types:
+          - label: "Image"
+            name: "_section_image"
+            widget: "object"
+            summary: "{{fields.meaningful}}"
+            fields:
+              - { label: "Meaningful Name", name: "meaningful", widget: "string", hint: This will make organising the content easier}
+              - label: Size
+                name: size
+                widget: select
+                options:
+                  - { label: "Fit to space", value: "fit" }
+                  - { label: "Fill all the space", value: "fill" }
+                default: fit
+              - { label: "Image", name: "image", widget: "image" }
+              - { label: "Description", name: "desc", widget: "string", required: false}
+          - label: "Video"
+            name: "_section_video"
+            widget: "object"
+            summary: "{{fields.meaningful}}"
+            fields:
+              - { label: "Meaningful Name", name: "meaningful", widget: "string", hint: This will make organising the content easier}
+              - label: Size
+                name: size
+                widget: select
+                options:
+                  - { label: "Fit to space", value: "fit" }
+                  - { label: "Fill all the space", value: "fill" }
+                default: fit
+              - { label: "Video", name: "video", widget: "file" }
+              - { label: "Description", name: "desc", widget: "string", required: false}
+          - label: "Duo Image"
+            name: "_section_duo"
+            widget: "object"
+            summary: "{{fields.meaningful}}"
+            fields:
+              - { label: "Meaningful Name", name: "meaningful", widget: "string", hint: This will make organising the content easier}
+              - { label: "Image One", name: "imageOne", widget: "image" }
+              - { label: "Image Two", name: "imageTwo", widget: "image" }
+              - { label: "Description", name: "desc", widget: "string", required: false}
+          - label: "Text"
+            name: "_section_text"
+            widget: "object"
+            summary: "{{fields.meaningful}}"
+            fields:
+              - { label: "Meaningful Name", name: "meaningful", widget: "string", hint: This will make organising the content easier}
+              - label: Columns
+                name: size
+                widget: select
+                options:
+                  - { label: "One Column", value: "one" }
+                  - { label: "Two Columns", value: "two" }
+                default: one
+              - { label: "Text One", name: "textOne", widget: "markdown", modes: ['rich_text'], hint: This will be the first column if you select Two Columns }
+              - { label: "Text Two", name: "textTwo", widget: "markdown", modes: ['rich_text'], hint: This will be the second column if you select Two Columns but leave blank if only using One Column, required: false}
+  - name: clients
+    label: "Project Clients"
+    label_singular: "Client"
+    identifier_field: '{{fields.title}}'
+    folder: "_clients/"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - {label: Client Name, name: title, widget: string}
+  - name: sectors
+    label: "Project Sectors"
+    label_singular: "Sector"
+    identifier_field: '{{fields.title}}'
+    folder: "_sectors/"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - {label: Sector Title, name: title, widget: string}
+  - name: services
+    label: "Project Services"
+    label_singular: "Service"
+    identifier_field: '{{fields.title}}'
+    folder: "_services/"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - {label: Service Title, name: title, widget: string}
+  - name: years
+    label: "Project Years"
+    label_singular: "Year"
+    identifier_field: '{{fields.year}}'
+    folder: "_years/"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - {label: Year, name: year, widget: number, default: 2021, value_type: int, min: 2000, max: 2040, step: 1}
+  - name: 'config'
+    label: 'Site Settings'
+    editor:
+      preview: false
+    files:
+      - label: 'Site Navigation'
+        name: 'navigation'
+        file: '_data/navigation.yml'
+        summary: 'For the main navigation at the top of the page'
+        fields:
+          - label: 'Navigation Items'
+            name: 'items'
+            widget: 'list'
+            max: 7
+            min: 1
+            summary: '{{fields.name}}'
+            fields:
+              - { label: Name, name: name, widget: string }
+              - label: Link
+                name: link
+                widget: string
+                default: /

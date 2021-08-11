@@ -84,4 +84,16 @@ body.dark {
             }
         }
     }
+    section.news {
+        .news-item {
+            img {
+                border: 1px solid $black;
+            }
+            &:hover {
+                img {
+                    border: 1px solid $white;
+                }
+            }
+        }
+    }
 }
