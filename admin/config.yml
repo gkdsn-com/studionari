@@ -1,6 +1,6 @@
 backend:
-  name: test-repo
-  # branch: master
+  name: git-gateway
+  branch: master
 media_folder: "assets/uploads"
 site_url: https://studionari.netlify.app
 logo_url: https://studionari.netlify.app/assets/images/logo.svg
