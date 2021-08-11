@@ -7,7 +7,7 @@ logo_url: https://studionari.netlify.app/assets/images/logo.svg
 display_url: https://studionari.com
 local_backend:
   # when using a custom proxy server port
-  url: http://localhost:4000/api/v1
+  url: http://localhost:4000/
   # when accessing the local site from a host other than 'localhost' or '127.0.0.1'
   allowed_hosts: ['192.168.0.1']
 publish_mode: editorial_workflow
@@ -201,6 +201,18 @@ collections:
       preview: false
     fields:
       - {label: Year, name: year, widget: number, default: 2021, value_type: int, min: 2000, max: 2040, step: 1}
+  - name: news
+    label: "News"
+    label_singular: "News Item"
+    identifier_field: '{{fields.title}}'
+    folder: "_years/"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - {label: Heading, name: title, widget: string}
+      - {label: Body, name: body, widget: markdown, modes: ['rich_text']}
+      - { label: "Optional image", name: "image", widget: "image", hint: Leaving this blank will mean a larger title, required: false }
   - name: 'config'
     label: 'Site Settings'
     editor:

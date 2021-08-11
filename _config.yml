@@ -26,3 +26,5 @@ collections:
     output: true
   years:
     output: true
+  news:
+    output: true
