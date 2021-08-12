@@ -4,7 +4,7 @@
     </a>
     <nav>
         {% for item in site.data.navigation.items %}
-            <a href="{{ item.link }}" class="nav-link {% if page.url == item.link %}current{% endif %}" id="{{ item.name | slugify }}">{{ item.name }}</a>
+            <a href="{{ item.link }}" class="nav-link{% if page.url == item.link %} current{% endif %} {% if forloop.first == true and page.layout == 'project' %} current{% endif %}" id="{{ item.name | slugify }}">{{ item.name }}</a>
         {% endfor %}
     </nav>
 </header>

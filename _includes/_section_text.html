@@ -1,3 +1,6 @@
 <div class="text-section {{ include.size }}-column">
-    {{ include.textOne | markdownify }}
+    <div class="text">{{ include.textOne | markdownify }}</div>
+    {% if include.size == 'two' %}
+        <div class="text two">{{ include.textTwo | markdownify }}</div>
+    {% endif %}
 </div>

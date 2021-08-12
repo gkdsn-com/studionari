@@ -417,11 +417,19 @@ section.project-content {
         right:0;
         border-left: 1px solid $black;
     }
+    &-disabled {
+        h3 {
+            opacity: 20%;
+        }
+    }
 }
 .swiper-pagination {
     position: fixed !important; 
     bottom: 13px !important;
     z-index: 99999 !important;
+    width: auto !important;
+    left: 50% !important;
+    transform: translateX(-50%) !important;
     .swiper-pagination-bullet {
         background: $white;
         border: 1px solid $black;
@@ -432,5 +440,44 @@ section.project-content {
         &-active {
             background: $black;
         }
+    }
+}
+
+.text-section {
+    @include flex(center, center);
+    .text {
+        width: 35vw;
+        &.two {
+            margin-left: 2.5vw;
+        }
+    }
+    &.two-column {
+        .text {
+            width: 30vw;
+        }
+    }
+}
+.image-section, .duoimage-section {
+    height:100%;
+    width:100%;
+    @include flex(center, center);
+    img {
+        max-height: 100%;
+        max-width: 100%;
+        pointer-events: none;
+    }
+    &.fill {
+        overflow:hidden;
+        img {
+            min-width: 100%;
+            min-height: 100%;
+            object-fit: cover;
+        }
+    }
+}
+.duoimage-section {
+    padding: 40px 0;
+    img:last-child {
+        margin-left: 40px;
     }
 }

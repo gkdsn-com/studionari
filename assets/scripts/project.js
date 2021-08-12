@@ -6,6 +6,7 @@ const swiper = new Swiper('.project-swiper-container', {
     pagination: {
       el: '.swiper-pagination',
     },
+    mousewheel: true,
   
     // Navigation arrows
     navigation: {
