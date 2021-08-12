@@ -6,13 +6,13 @@ permalink: /
 <section class="about">
     <div class="about-filters">
         {% for item in page.aboutBuilder %}
-            <a href="#" class="nav-link js-about-link{% if forloop.first == true %} current{% endif %}">{{ item.title }}</a>
+            <a href="#" class="nav-link js-about-link{% if forloop.first == true %} current{% endif %}" data-section="{{ item.title | slugify }}">{{ item.title }}</a>
         {% endfor %}
     </div>
     <div class="about-content">
         <div class="about-items">
             {% for item in page.aboutBuilder %}
-                <div class="about-item">
+                <div class="about-item" id="{{ item.title | slugify }}">
                     <div class="about-title"><h3>{{ item.title }}</h3></div>
                     <div class="about-item-body">{{ item.body | markdownify }}</div>
                 </div>

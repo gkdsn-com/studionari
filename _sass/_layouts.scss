@@ -270,6 +270,23 @@ section.about {
         white-space: nowrap;
         user-select: none;
         font-size: 0;
+        /* width */
+        &::-webkit-scrollbar {
+            width: 10px;
+            border-top: 1px solid $black;
+        }
+        /* Track */
+        &::-webkit-scrollbar-track {
+            background: $white;
+        }
+        /* Handle */
+        &::-webkit-scrollbar-thumb {
+            background: $black;
+        }
+        /* Handle on hover */
+        &::-webkit-scrollbar-thumb:hover {
+            background: #555;
+        }
     }
     .about-item {
         width: 40vw;
@@ -278,6 +295,7 @@ section.about {
         border-right: 1px solid $black;
         display: inline-flex;
         flex-direction: column;
+        position:relative;
         &:last-child {
             border-right: 0px;
         }

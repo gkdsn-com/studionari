@@ -24,9 +24,13 @@ $aboutItems.addEventListener('mousemove', (e) => {
 });
 
 aboutClick = function(e) {
+    let sectionName = $(this).attr('data-section'),
+        $section = document.querySelector('#'+ sectionName),
+        sectionOffset = $section.offsetLeft;
     e.preventDefault();
     $aboutLink.removeClass('current')
     $(this).addClass('current')
+    $aboutItems.scrollLeft = sectionOffset + 1;
 }
 
 $(document).on('click', '.js-about-link', aboutClick);
