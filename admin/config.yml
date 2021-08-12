@@ -136,6 +136,7 @@ collections:
                   - { label: "Fill all the space", value: "fill" }
                 default: fit
               - { label: "Video", name: "video", widget: "file" }
+              - { label: "Does the video need sound?", name: "sound", widget: "boolean" }
               - { label: "Description", name: "desc", widget: "string", required: false}
           - label: "Duo Image"
             name: "_section_duo"
@@ -243,3 +244,9 @@ collections:
         summary: 'For the main navigation at the top of the page'
         fields:
           - { label: Content, name: body, widget: markdown }
+      - label: 'Cookie Banner'
+        name: 'cookie'
+        file: '_data/cookie.yml'
+        fields:
+          - {label: Cookie Banner Main Text, name: body, widget: string, default: 'We use cookies to improve your browsing experience.'}
+          - {label: Cookie Banner Button Text, name: btn, widget: string, default: 'Learn More'}
