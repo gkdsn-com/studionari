@@ -96,4 +96,62 @@ body.dark {
             }
         }
     }
+    // About Layout
+    .about-filters {
+        border-right: 1px solid $white;
+        background-color: $black;
+    }
+    .about-content {
+        .about-items {
+            /* width */
+            &::-webkit-scrollbar {
+                border-top: 1px solid $white;
+            }
+            /* Track */
+            &::-webkit-scrollbar-track {
+                background: $black;
+            }
+            /* Handle */
+            &::-webkit-scrollbar-thumb {
+                background: $white;
+            }
+        }
+        .about-item {
+            border-left: 1px solid $white;
+            border-bottom: 1px solid $white;
+            .about-title {
+                border-bottom: 1px solid $white;
+            }
+        }
+    }
+    // Project Page Layouts
+    section.project-content {
+        .project-info-top {
+            border-bottom: 1px solid $white;
+        }
+    }
+    .swiper-button {
+        background-color:$black;
+        color: $white;
+        &.prev {
+            border-right: 1px solid $white;
+        }
+        &.next {
+            border-left: 1px solid $white;
+        }
+    }
+    .swiper-pagination {
+        .swiper-pagination-bullet {
+            background: $black;
+            border: 1px solid $white;
+            &-active {
+                background: $white;
+            }
+        }
+    }
+    //Contact Pull Out
+    section.contact {
+        background-color: $black;
+        border-left: 1px solid $white;
+    }
 }

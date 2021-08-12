@@ -68,6 +68,7 @@ collections:
               - {label: Description Title, name: description, widget: string, default: "Description"}
               - {label: Client Title, name: client, widget: string, default: "Client"}
               - {label: Year Title, name: year, widget: string, default: "Year"}
+              - {label: Services Title, name: service, widget: string, default: "Year"}
       - label: "About"
         name: "about"
         file: "about.markdown"

@@ -54,8 +54,18 @@ $listItem.forEach(hover => {
         $('.js-list-item').removeClass('faded');
     })
 })
+projectFilters = function(e) {
+    $('.js-projects-filters').toggleClass('active');
+    console.log('clicked')
+}
+projectFilter = function(e) {
+    e.preventDefault();
+    $(this).toggleClass('current')
+}
   
 
 $(document).on('click', '.js-colour-switch', colourSwitch);
 $(document).on('click', '.js-view-link', projectView);
 $(document).on('click', '#contact', contact);
+$(document).on('click', '.js-project-filter', projectFilters);
+$(document).on('click', '.js-filter-btn', projectFilter);

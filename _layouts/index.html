@@ -2,6 +2,7 @@
 layout: default
 permalink: /
 ---
+{% include homepage-filters.html %}
 <section class="projects grid-view hidden js-projects-container" id="grid">
     {% for project in site.projects %}
         {% include project-item.html 
