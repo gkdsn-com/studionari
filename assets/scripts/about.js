@@ -30,7 +30,7 @@ aboutClick = function(e) {
     e.preventDefault();
     $aboutLink.removeClass('current')
     $(this).addClass('current')
-    $aboutItems.scrollLeft = sectionOffset + 1;
+    $aboutItems.scrollLeft = sectionOffset + 2;
 }
 
 $(document).on('click', '.js-about-link', aboutClick);

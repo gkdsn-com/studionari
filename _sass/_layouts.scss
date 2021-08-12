@@ -292,12 +292,13 @@ section.about {
         width: 40vw;
         height:100%;
         margin:0;
-        border-right: 1px solid $black;
+        border-left: 1px solid $black;
+        border-bottom: 1px solid $black;
         display: inline-flex;
         flex-direction: column;
         position:relative;
-        &:last-child {
-            border-right: 0px;
+        &:first-child {
+            border-left: 0px;
         }
         .about-title {
             width:100%;
