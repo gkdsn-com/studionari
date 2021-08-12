@@ -99,7 +99,7 @@ collections:
     fields:
       - {label: Layout, name: layout, widget: hidden, default: project}
       - {label: Project Title, name: title, widget: string}
-      - {label: Project Slug, name: permalink, widget: string, hint: Use this to change the URL of the project if you don't want to use the Project Title}
+      - { label: "Featured Image", name: "featuredImage", widget: "image", hint: This is the image that is used on the project page - these should all be the same ratio and size using a template }
       - {label: Short Decsription, name: desc, widget: string, hint: Keep this to a maximum of 80 characters including spaces}
       # Insert the relation to Client, Sector, Services and Years here
       - label: "Client"

@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Test Project One
-permalink: one
+featuredImage: '/assets/images/test-image.jpg'
 desc: This is a short description of the project
 client: Test Client One
 sectors:

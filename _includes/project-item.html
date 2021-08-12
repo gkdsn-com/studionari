@@ -4,8 +4,11 @@
 {% assign desc = include.desc %}
 {% assign projDate = include.projDate %}
 {% assign client = include.client %}
+{% assign sectors = include.sectors %}
+{% assign services = include.services %}
+{% assign projectURL = include.projectURL %}
 {% if type == 'list' %}
-    <a href="#" class="proj-list-item js-list-item">
+    <a href="{{ projectURL }}" class="proj-list-item js-list-item" data-year="{{ projDate }}" data-client="{{ client | slugify }}">
         <img src="{{ img }}" alt="" class="proj-list-img">
         <h3 class="title">{{ title }}</h3>
         <h3>{{ desc }}</h3>
@@ -19,12 +22,12 @@
             <h3 class="desc">{{ desc }}</h3>
             <h3>{{ projDate }}</h3>
         </div>
-        <a href="/" class="homepage-project">
+        <a href="{{ projectURL }}" class="homepage-project">
             <img src="{{ img }}" alt="">
         </a>
     </div>
 {% else %}
-    <a href="/" class="homepage-project">
+    <a href="{{ projectURL }}" class="homepage-project">
         <img src="{{ img }}" alt="">
         <h2>{{ title }}</h2>
         <p>{{ desc }}</p>
