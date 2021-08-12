@@ -23,6 +23,7 @@ projectView = function(e) {
     $projectContainer.addClass('hidden');
     $('#' + view).removeClass('hidden');
     window.history.replaceState(null, null, href);
+    $(window).scrollTop(0);
 }
 projectViewLoad = function(){
     if (window.location.href.indexOf('?') != -1) {
