@@ -102,6 +102,42 @@ collections:
       - {label: Project Slug, name: permalink, widget: string, hint: Use this to change the URL of the project if you don't want to use the Project Title}
       - {label: Short Decsription, name: desc, widget: string, hint: Keep this to a maximum of 80 characters including spaces}
       # Insert the relation to Client, Sector, Services and Years here
+      - label: "Client"
+        name: "client"
+        widget: "relation"
+        collection: "clients"
+        search_fields: ["title"]
+        display_fields: ["title"]
+        value_field: title
+        required: false
+        multiple: false
+      - label: "Sectors"
+        name: "sectors"
+        widget: "relation"
+        collection: "sectors"
+        search_fields: ["title"]
+        display_fields: ["title"]
+        value_field: title
+        required: false
+        multiple: true
+      - label: "Services"
+        name: "services"
+        widget: "relation"
+        collection: "services"
+        search_fields: ["title"]
+        display_fields: ["title"]
+        value_field: title
+        required: false
+        multiple: true
+      - label: "Year"
+        name: "year"
+        widget: "relation"
+        collection: "years"
+        search_fields: ["year"]
+        display_fields: ["year"]
+        value_field: year
+        required: false
+        multiple: false
       - label: Project Content
         label_singular: Content
         name: projectBuilder
