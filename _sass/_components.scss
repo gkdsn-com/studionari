@@ -12,6 +12,7 @@ header.nav {
     border-bottom: 1px solid $black;
     svg.logo {
         max-width: 48px;
+        vertical-align: bottom;
         path {
             fill: $black;
         }
@@ -83,6 +84,9 @@ footer {
             margin:0;
             margin-left: 16px;
             text-decoration: none;
+            &:hover {
+                text-decoration: underline;
+            }
         }
         h3 {
             margin:0;

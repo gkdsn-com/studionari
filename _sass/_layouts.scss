@@ -90,7 +90,7 @@ section.projects {
             img {
                 width: 100%;
                 margin:0;
-                vertical-align: bottom
+                vertical-align: bottom;
             }
         }
         .project-full-title {
@@ -192,6 +192,7 @@ section.contact {
     }
     main {
         transform: translateX(-25vw);
+        opacity: 24%;
     }
     header.nav {
         .nav-link {
@@ -282,6 +283,7 @@ section.about {
         /* Handle */
         &::-webkit-scrollbar-thumb {
             background: $black;
+            width:10px;
         }
         /* Handle on hover */
         &::-webkit-scrollbar-thumb:hover {
@@ -289,7 +291,7 @@ section.about {
         }
     }
     .about-item {
-        width: 40vw;
+        width: 560px;
         height:100%;
         margin:0;
         border-left: 1px solid $black;
