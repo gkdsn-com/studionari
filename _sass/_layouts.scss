@@ -117,6 +117,9 @@ section.projects {
             height: $ui-height;
             padding: 4px 16px 0;
             border-bottom: 1px solid $black;
+            &:last-child {
+                border-bottom: 0px;
+            }
             h3.title {
                 padding-left: 0px;
                 position:relative;
@@ -184,7 +187,7 @@ div.projects-filters {
     width:100vw;
     height: 40vh;
     border-top: 1px solid $black;
-    transform: translateY(calc(100% - 40px));
+    transform: translateY(calc(100% - 39px));
     transition: transform 0.4s $transition;
     .title {
         height: $ui-height;
@@ -243,6 +246,9 @@ div.projects-filters-container {
     }
     .project-filter-item {
         border-right: 1px solid $black;
+        &:last-child {
+            border-right: 0px;
+        }
     }
 }
 
