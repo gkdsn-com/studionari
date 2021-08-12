@@ -1,6 +1,6 @@
-const swiper = new Swiper('.swiper-container', {
+const swiper = new Swiper('.project-swiper-container', {
     // Optional parameters
-    loop: true,
+    loop: false,
   
     // If we need pagination
     pagination: {
@@ -9,7 +9,7 @@ const swiper = new Swiper('.swiper-container', {
   
     // Navigation arrows
     navigation: {
-      nextEl: '.swiper-button-next',
-      prevEl: '.swiper-button-prev',
+      nextEl: '.swiper-button.next',
+      prevEl: '.swiper-button.prev',
     },
   });

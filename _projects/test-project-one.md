@@ -32,7 +32,7 @@ projectBuilder:
     desc: This is a test image that fits the space and is Portrait
   - type: _section_duo
     meaningful: Test Duo Image
-    imageOne: /assets/uploads/duo_placeholder.jpg
+    image: /assets/uploads/duo_placeholder.jpg
     imageTwo: /assets/uploads/duo_placeholder.jpg
     desc: This is a test duo image block
   - type: _section_video

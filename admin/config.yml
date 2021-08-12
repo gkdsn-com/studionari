@@ -180,7 +180,7 @@ collections:
             summary: "{{fields.meaningful}}"
             fields:
               - { label: "Meaningful Name", name: "meaningful", widget: "string", hint: This will make organising the content easier}
-              - { label: "Image One", name: "imageOne", widget: "image" }
+              - { label: "Image One", name: "image", widget: "image" }
               - { label: "Image Two", name: "imageTwo", widget: "image" }
               - { label: "Description", name: "desc", widget: "string", required: false}
           - label: "Text"
