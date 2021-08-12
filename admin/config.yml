@@ -237,3 +237,9 @@ collections:
                 name: link
                 widget: string
                 default: /
+      - label: 'Contact Drawer'
+        name: 'contact'
+        file: '_data/contact.yml'
+        summary: 'For the main navigation at the top of the page'
+        fields:
+          - { label: Content, name: body, widget: markdown }
