@@ -78,7 +78,7 @@ collections:
           - {label: SEO Page Description, name: seo-description, widget: string, required: false}
           - label: About Sections
             label_singular: Section
-            name: content
+            name: aboutBuilder
             widget: list
             hint: Add sections to the About page
             summary: '{{fields.title}}'
@@ -104,7 +104,7 @@ collections:
       # Insert the relation to Client, Sector, Services and Years here
       - label: Project Content
         label_singular: Content
-        name: content
+        name: projectBuilder
         widget: list
         types:
           - label: "Image"
@@ -210,7 +210,7 @@ collections:
     editor:
       preview: false
     fields:
-      - {label: Link URL, name: url, widget: string}
+      - {label: Link URL, name: linkURL, widget: string}
       - {label: Heading, name: title, widget: string}
       - {label: Body, name: body, widget: markdown, modes: ['rich_text']}
       - {label: "Optional image", name: "image", widget: "image", hint: Leaving this blank will mean a larger title, required: false}

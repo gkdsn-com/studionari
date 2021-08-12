@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /about/
 footer: default
-content:
+aboutBuilder:
   - title: Test Section One
     body: >-
       Metus egestas turpis sapien a, nulla metus. Nec neque, pharetra, sit
@@ -58,5 +58,3 @@ content:
 
       Auctor nec cras molestie arcu mi et id sit ante. Adipiscing malesuada massa facilisi eros. Eu ut ut fermentum erat imperdiet nulla mauris consequat lorem. Platea risus tortor ultricies nunc. Eleifend fusce elementum nibh auctor. Cras lacus ipsum, orci hendrerit tellus. Mi morbi arcu suscipit elementum mauris mauris. Etiam egestas facilisis et eu tincidunt. Nisl tempor elit dui lectus pellentesque.
 ---
-
-This is the about page
