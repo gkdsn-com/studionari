@@ -5,7 +5,7 @@ section.projects {
     }
     //Grid View Project
     &.grid-view {
-        padding: $ui-height;
+        padding: $ui-height $ui-height 80px;
         display: grid;
         grid-template-columns: 1fr 1fr;
         column-gap: $ui-height;
@@ -50,6 +50,7 @@ section.projects {
     }
     // Full View Project
     &.full-view {
+        padding-bottom: $ui-height;
         margin-top: -1px;
         position:relative;
         .project-item {
@@ -107,6 +108,7 @@ section.projects {
     }
     //List view project
     &.list-view {
+        padding-bottom: $ui-height;
         position:relative;
         .proj-list-item {
             display: grid;
