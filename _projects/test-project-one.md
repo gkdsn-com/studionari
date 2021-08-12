@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Test Project One
-featuredImage: /assets/images/test-image.jpg
+featuredImage: /assets/uploads/project_placholder.jpg
 desc: This is a short description of the project
 client: Test Client One
 sectors:
