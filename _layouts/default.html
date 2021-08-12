@@ -10,7 +10,9 @@
   <link rel="shortcut icon" href="/assets/images/favicon/N.png" type="image/png" id="icon">
   {% include font-preload.html %}
   <link type="text/css" rel="stylesheet" href="/assets/css/app.css">
-  <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+  {% if page.layout == 'project' %}
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+  {% endif %}
   <!-- Begin CMS head -->
   {{ site.data.code.head.code }}
   <!-- End CMS head -->
@@ -35,7 +37,10 @@
         $('body').addClass('dark');
     }
   </script>
-  <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+{% if page.layout == 'project' %}
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+    <script src="/assets/scripts/project.js"></script>
+{% endif %}
   <script src="//instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw"></script>
   <script src="/assets/scripts/scripts.js"></script>
   <script src="/assets/scripts/mouse.js"></script>
