@@ -320,6 +320,12 @@ section.about {
                 font-size: 13px;
                 li {
                     margin-bottom: 8px;
+                    a {
+                        text-decoration: underline;
+                        &:hover {
+                            color: #555;
+                        }
+                    }
                 }
             }
             img {
