@@ -154,4 +154,25 @@ body.dark {
         background-color: $black;
         border-left: 1px solid $white;
     }
+    // Projects Filters Layout
+    div.projects-filters {
+        background: $black;
+        border-top: 1px solid $white;
+        .title {
+            border-bottom: 1px solid $white;
+        }
+        .plus {
+            &:before, &:after {
+                background: $white;
+            }
+        }
+    }
+    div.projects-filters-container {
+        .project-filter-item {
+            border-right: 1px solid $white;
+            &:last-child {
+                border-right: 0px;
+            }
+        }
+    }
 }
