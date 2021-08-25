@@ -178,6 +178,17 @@ section.projects {
     }
 }
 // Projects Filters Layout
+
+.reset {
+    position: fixed;
+    bottom: 11px;
+    left: 64px;
+    z-index: 10000;
+    cursor: pointer;
+    h3 {
+        margin: 0;
+    }
+}
 div.projects-filters {
     position:fixed;
     z-index:98;

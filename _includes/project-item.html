@@ -8,7 +8,7 @@
 {% assign services = include.services %}
 {% assign projectURL = include.projectURL %}
 {% if type == 'list' %}
-    <a href="{{ projectURL }}" class="proj-list-item js-list-item" data-year="{{ projDate }}" data-client="{{ client | slugify }}">
+    <a href="{{ projectURL }}" class="proj-list-item js-list-item js-project-item" data-year="{{ projDate }}" data-client="{{ client | slugify }}" data-sector="{% for sector in sectors %}{% if forloop.last == true %}{{ sector | slugify }}{% else %}{{ sector | slugify }} {% endif %}{% endfor %}" data-service="{% for service in services %}{% if forloop.last == true %}{{ service | slugify }}{% else %}{{ service | slugify }} {% endif %}{% endfor %}">
         <img src="{{ img }}" alt="" class="proj-list-img">
         <h3 class="title">{{ title }}</h3>
         <h3>{{ desc }}</h3>
@@ -16,7 +16,7 @@
         <h3>{{ projDate }}</h3>
     </a>
 {% elsif type == 'full' %}
-    <div class="project-item">
+    <div class="project-item js-project-item" data-year="{{ projDate }}" data-client="{{ client | slugify }}" data-sector="{% for sector in sectors %}{% if forloop.last == true %}{{ sector | slugify }}{% else %}{{ sector | slugify }} {% endif %}{% endfor %}" data-service="{% for service in services %}{% if forloop.last == true %}{{ service | slugify }}{% else %}{{ service | slugify }} {% endif %}{% endfor %}">
         <div class="project-full-title">
             <h3 class="title">{{ title }}</h3>
             <h3 class="desc">{{ desc }}</h3>
@@ -27,7 +27,7 @@
         </a>
     </div>
 {% else %}
-    <a href="{{ projectURL }}" class="homepage-project">
+    <a href="{{ projectURL }}" class="homepage-project js-project-item" data-year="{{ projDate }}" data-client="{{ client | slugify }}" data-sector="{% for sector in sectors %}{% if forloop.last == true %}{{ sector | slugify }}{% else %}{{ sector | slugify }} {% endif %}{% endfor %}" data-service="{% for service in services %}{% if forloop.last == true %}{{ service | slugify }}{% else %}{{ service | slugify }} {% endif %}{% endfor %}">
         <img src="{{ img }}" alt="">
         <h2>{{ title }}</h2>
         <p>{{ desc }}</p>

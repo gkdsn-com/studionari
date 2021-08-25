@@ -1,3 +1,5 @@
+
+<div class="reset js-reset"><h3>{{ page.text.clear | default: 'Clear Filters' }}</h3></div>
 <div class="projects-filters js-projects-filters">
     <div class="title js-project-filter">
         <h3>{{ page.text.filters | default: 'Filters' }}</h3>
@@ -9,11 +11,9 @@
                 <h3>{{ page.text.client | default: "Client" }}</h3>
             </div>
             <div class="content">
-                {% for i in (1..5) %}
                     {% for item in site.clients %}
-                        <a href="#" class="nav-link js-filter-btn" data-filter="{{ item.title | slugify }}">{{ item.title }}</a>
+                        <a href="#" class="nav-link js-filter-btn js-filter-client" data-filter="{{ item.title | slugify }}">{{ item.title }}</a>
                     {% endfor %}
-                {% endfor %}
             </div>
         </div>
         <div class="project-filter-item">
@@ -21,11 +21,9 @@
                 <h3>{{ page.text.sector | default: "Sector" }}</h3>
             </div>
             <div class="content">
-                {% for i in (1..5) %}
                     {% for item in site.sectors %}
-                        <a href="#" class="nav-link js-filter-btn" data-filter="{{ item.title | slugify }}">{{ item.title }}</a>
+                        <a href="#" class="nav-link js-filter-btn js-filter-sector" data-filter="{{ item.title | slugify }}">{{ item.title }}</a>
                     {% endfor %}
-                {% endfor %}
             </div>
         </div>
         <div class="project-filter-item">
@@ -33,11 +31,9 @@
                 <h3>{{ page.text.service | default: "Services" }}</h3>
             </div>
             <div class="content">
-                {% for i in (1..5) %}
                     {% for item in site.services %}
-                        <a href="#" class="nav-link js-filter-btn" data-filter="{{ item.title | slugify }}">{{ item.title }}</a>
+                        <a href="#" class="nav-link js-filter-btn js-filter-service" data-filter="{{ item.title | slugify }}">{{ item.title }}</a>
                     {% endfor %}
-                {% endfor %}
             </div>
         </div>
         <div class="project-filter-item">
@@ -46,7 +42,7 @@
             </div>
             <div class="content">
                 {% for item in site.years %}
-                    <a href="#" class="nav-link js-filter-btn" data-filter="{{ item.year }}">{{ item.year }}</a>
+                    <a href="#" class="nav-link js-filter-btn js-filter-year" data-filter="{{ item.year }}">{{ item.year }}</a>
                 {% endfor %}
             </div>
         </div>
