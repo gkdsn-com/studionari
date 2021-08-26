@@ -5,9 +5,33 @@ var years
 let $projectItems = $('.js-project-item'),
     $filterItems = $('.js-filter-btn');
 
+// On load run the reset script for the Reset Filters button
 $(function() {
     resetFunction();
 });
+// If any filter buttons are active, show the reset filters button - if not hide it
+resetFunction = function() {
+    if($filterItems.hasClass('current')){
+        $('.reset').show();
+    } else {
+        $('.reset').hide();
+    }
+}
+// When clicking the reset filters button, remove the current class from all filter buttons
+resetButton = function() {
+    $filterItems.removeClass('current');
+    $(window).scrollTop(0);
+    filtersHaystack();
+}
+// When clicking a filter button, toggle if the class is active, hide all project items, then run full filtering script
+projectFilter = function(e) {
+    e.preventDefault();
+    $(this).toggleClass('current')
+    $(window).scrollTop(0);
+    $projectItems.hide();
+    filtersHaystack();
+}
+// For each button that is currently active, push it to the array for that category
 filtersHaystack = function() {
     var clients = new Array()
     var sectors = new Array()
@@ -26,12 +50,12 @@ filtersHaystack = function() {
         services.push(service);
     })
     $('.js-filter-year.current').each(function() {
-        var year = $(this).data('filter');
-        year = year.toString();
+        var year = $(this).data('filter').toString();
         years.push(year);
     })
     filterEach(clients, sectors, services, years);
 }
+// For each project item, compare each category to the haystack array and return true if there's a match (also true if the haystack array is empty)
 filterEach = function(clients, sectors, services, years) {
     $projectItems.each(function(){
         let client = $(this).data('client'),
@@ -58,105 +82,13 @@ filterEach = function(clients, sectors, services, years) {
         if (services.length == 0) {
             serviceBoolean = true;
         }
-
+        // Show the project items if all categories return true
         if (clientBoolean == true && yearBoolean == true && sectorBoolean == true && serviceBoolean == true) {
             $(this).show();
         }
     })
     resetFunction()
 }
-resetFunction = function() {
-    if($filterItems.hasClass('current')){
-        console.log('active')
-        $('.reset').show();
-    } else {
-        console.log('not active')
-        $('.reset').hide();
-    }
-}
-resetButton = function() {
-    $filterItems.removeClass('current');
-    $(window).scrollTop(0);
-    filtersHaystack();
-}
-projectFilter = function(e) {
-    e.preventDefault();
-    $(this).toggleClass('current')
-    $(window).scrollTop(0);
-    $projectItems.hide();
-    filtersHaystack();
-}
 
 $(document).on('click', '.js-filter-btn', projectFilter);
 $(document).on('click', '.js-reset', resetButton);
-
-
-// var $filterCheckboxes = $('input[type="checkbox"]');
-
-// $filterCheckboxes.on('change', function() {
-
-// 	var selectedFilters = {};
-// 	var selected = new Array();
-
-// 	$filterCheckboxes.filter(':checked').each(function() {
-		
-// 		selected.push(this.value);
-
-// 		if (!selectedFilters.hasOwnProperty(this.name)) {
-// 			selectedFilters[this.name] = [];
-// 		}
-
-// 		selectedFilters[this.name].push(this.value);
-		
-// 	});
-	
-// 	if(window.location.href == 'https://bureauborsche.com/projects/' || window.location.href == 'https://bureauborsche.com/projects'){
-// 		window.history.pushState("String", "Title", 'https://bureauborsche.com/projects/filter:' + selected);
-// 	} else {
-// 		window.history.pushState("String", "Title", 'https://bureauborsche.com/projects/filter:' + selected);
-// 	}
-
-// 	var $filteredResults = $('.list table tbody tr, .thumbs .project');
-
-// 	$.each(selectedFilters, function(name, filterValues) {
-
-// 		$filteredResults = $filteredResults.filter(function() {
-
-// 			var matched = false,
-// 			currentFilterValues = $(this).data('category').split(' ');
-
-// 			$.each(currentFilterValues, function(_, currentFilterValue) {
-	
-// 				if ($.inArray(currentFilterValue, filterValues) != -1) {
-// 					matched = true;
-// 					return false;
-// 				}
-// 			});
-							
-// 			return matched;
-
-// 		});
-// 	});
-
-// 	$('.list table tbody tr, .thumbs .project').hide().filter($filteredResults).show();
-	  
-// 	if($('.filter input').is(':checked')){
-// 		$('.reset').show();
-// 		$('.mobile-filter').html('Apply Filter');
-// 	} else {
-// 		$('.reset').hide(); 
-// 		$('.mobile-filter').html('Close');
-// 		window.history.pushState("String", "Title", 'http://bureauborsche.com/projects');
-// 	}
-
-// });
-
-// $('.filter .reset').on('click', function(){
-// 	$filterCheckboxes.prop( "checked", false );
-// 	$(this).hide();
-// 	$('.list table tbody tr, .thumbs .project').show();
-// 	$('.mobile-filter').html('Close');
-// 	window.history.pushState("String", "Title", 'http://bureauborsche.com/projects');
-// });
-
-// var url = window.location.href;
