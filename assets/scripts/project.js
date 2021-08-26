@@ -17,10 +17,7 @@ const swiper = new Swiper('.project-swiper-container', {
 
 let $allVideos = $('.js-project-video');
 swiper.on('transitionEnd', function () {
-    // Go through every video on the page and pause it
     $allVideos.each(function(){
-        let video = $(this).get(0);
-        video.pause();
         // If the video is active, play it
         if ($(this).parents('.swiper-slide-active').length) {
             let activeVideo = $('.swiper-slide-active video').get(0);
@@ -28,16 +25,29 @@ swiper.on('transitionEnd', function () {
             console.log('playing video')
         }
     })
-
+    // Change the description to the current slide
     let descText = $('.swiper-slide-active').data('desc');
     console.log(descText);
     $('.js-slide-description').html(descText);
-
+    // Change the numerical indicators to the current numbers
     let slideNumber = $('.swiper-slide-active').attr('aria-label')
     $('.js-slide-number').html(slideNumber)
 });
+// Once the DOM has loaded, update the numerical indicators and if there is a video as the first item, play it
 $(function() {
-    let slideNumber = $('.swiper-slide-active').attr('aria-label')
+    let slideNumber = $('.swiper-slide-active').attr('aria-label');
     $('.js-slide-number').html(slideNumber)
+    $allVideos.each(function(){
+        if ($(this).parents('.swiper-slide-active').length) {
+            let activeVideo = $('.swiper-slide-active video').get(0);
+            activeVideo.play();
+        }
+    })
 });
-
+// Go through every video on the page and pause it when transition starts
+swiper.on('transitionStart', function () {
+    $allVideos.each(function(){
+        let video = $(this).get(0);
+        video.pause();
+    })
+});
