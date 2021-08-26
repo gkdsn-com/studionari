@@ -15,13 +15,18 @@ const swiper = new Swiper('.project-swiper-container', {
     },
 });
 let $allVideos = $('.js-project-video');
-swiper.on('slideChange', function () {
+swiper.on('transitionEnd', function () {
     $allVideos.each(function(){
         let video = $(this).get(0);
         console.log(video);
         video.pause();
+        if ($(this).parents('.swiper-slide-active').length) {
+            let activeVideo = $('.swiper-slide-active video').get(0);
+            activeVideo.play();
+            console.log('active slide')
+        }
     })
-    let $activeVideo = $('.swiper-slide-active .js-project-video').get(0);
-    $activeVideo.play();
-    console.log('slide changed');
+    // let $activeVideo = $('.swiper-slide-active .js-project-video');
+    // $activeVideo.get(0).play();
+    // console.log('slide changed');
 });
