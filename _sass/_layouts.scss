@@ -439,6 +439,9 @@ section.about {
         }
     }
 }
+section.mobile-about {
+    display:none;
+}
 
 // Project Page Layouts
 section.project-content {
@@ -513,6 +516,9 @@ section.project-content {
         h3 {
             opacity: 20%;
         }
+    }
+    .mobile-text {
+        display: none;
     }
 }
 .swiper-pagination {

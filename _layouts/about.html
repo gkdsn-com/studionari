@@ -20,3 +20,15 @@ permalink: /
         </div>
     </div>
 </section>
+<section class="mobile-about">
+    <div class="about-content">
+        <div class="about-items">
+            {% for item in page.aboutBuilder %}
+                <div class="about-item" id="{{ item.title | slugify }}">
+                    <div class="about-title"><h3>{{ item.title }}</h3></div>
+                    <div class="about-item-body">{{ item.body | markdownify }}</div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>

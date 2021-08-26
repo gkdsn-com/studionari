@@ -1,16 +1,185 @@
-// REMOVE THIS AFTER TESTING
-// section.dynamic-content {
-//     display:none;
-// }
-
 @include breakpoint(smallDesktop) {
-    
+    //Contact Pull Out
+    section.contact {
+        width: 40vw;
+    }
+    .contact-active {
+        main {
+            transform: translateX(-40vw);
+        }
+    }
 }
 @include breakpoint(tablet) {
-    
+    // News Layout
+    section.news {
+        grid-template-columns: 1fr 1fr;
+        column-gap: 10vw;
+        row-gap: 10vw;
+        padding: 10vw;
+    }
 }
 @include breakpoint(mobileLandscape) {
-    
+    // Projects Filters Layout
+    .reset {
+        display:none;
+        height:0px;
+    }
+    div.projects-filters {
+        display:none;
+    }
+    section.projects {
+        //Grid View Project
+        &.grid-view {
+            padding: 32px 16px;
+            column-gap: 32px;
+            row-gap: 32px;
+        }
+        // Full View Project
+        &.full-view {
+            padding-bottom: 0;
+        }
+        //List view project
+        &.list-view {
+            padding-bottom: 0;
+        }
+    }
+    //Contact Pull Out
+    section.contact {
+        width: 60vw;
+        padding: 16px 32px;
+    }
+    .contact-active {
+        main {
+            transform: translateX(-60vw);
+        }
+    }
+    // About Layout
+    section.about {
+        display:none;
+    }
+    section.mobile-about {
+        display: block;
+    }
+    .about-content {
+        height: auto;
+        width: auto;
+        overflow-x: auto;
+        overflow-y: auto;
+        margin-left: 0;
+        cursor: auto;
+        position:relative;
+        border-bottom: 0px;
+        .about-items {
+            position: relative;
+            width: 100%;
+            height:auto;
+            overflow-x: auto;
+            overflow-y: auto;
+            white-space: wrap;
+            user-select: none;
+            font-size: 0;
+        }
+        .about-item {
+            width: auto;
+            height:auto;
+            margin:0;
+            border-left: 0;
+            display: block;
+            position: relative;
+            .about-item-body {
+                padding: 24px 10vw;
+            }
+            &:last-child {
+                border-bottom: 0px;
+            }
+        }
+    }
+    // Project Page Layouts
+    section.project-content {
+        .project-info-top {
+            width:100%;
+            @include flex(center, space-between);
+            padding: 0 16px;
+            height: $ui-height;
+            .project-desc {
+                top:40px;
+                left:0;
+                width:100vw;
+                padding: 13px 0;
+                border-bottom: 1px solid $black;
+                @include flex(center, center);
+                z-index: 10000;
+                background-color: $white;
+                transform: translate3d(0 , 0, 0);
+                text-align: center;
+            }
+        }
+    }
+    .project-swiper-container {
+        width:100%;
+        height:calc(100% - 120px);
+        margin-top: 80px;
+        .swiper-wrapper {
+            .swiper-slide {
+                padding: 0 32px;
+            }
+        }
+    }
+    .swiper-button {
+        top:120px;
+        height:calc(100vh - 200px);
+        width: 32px;
+        .desktop-text {
+            display: none;
+        }
+        .mobile-text {
+            display:block;
+        }
+    }
+    .text-section {
+        @include flex(center, center);
+        max-height: 100%;
+        overflow-y: scroll;
+        flex-direction: column;
+        justify-content: flex-start;
+        padding: 24px 0;
+        .text {
+            width: 90%;
+            &.two {
+                margin-left: 0;
+                margin-top: 24px;
+            }
+        }
+        &.two-column {
+            flex-direction: column;
+            justify-content: flex-start;
+            padding: 24px 0;
+            .text {
+                width: 90%;
+            }
+        }
+    }
+    .duoimage-section {
+        padding: 40px 0;
+        img {
+            max-width: 40%;
+            &:last-child {
+                margin-left: 40px;
+            }
+        }
+    }
+    .slide-description {
+        position:absolute;
+        bottom: 40px;
+        left: 0;
+        width: 100vw;
+        height: $ui-height;
+        border-top: 1px solid $black;
+        @include flex(center, center);
+        h3 {
+            margin: 0;
+        }
+    }
 }
 @include breakpoint(mobilePortrait) {
     //Navigation
@@ -32,23 +201,24 @@
     section.projects {
         //Grid View Project
         &.grid-view {
-            padding: $mobile-padding $mobile-padding 40px;
+            padding: 16px 16px 32px;
             grid-template-columns: 1fr;
             column-gap: 0;
             row-gap: 32px;
         }
         // Full View Project
         &.full-view {
-            padding-bottom: 0;
             .project-full-title {
                 padding: 8px 16px 0;
                 height: auto;
                 @include flex(center, space-between);
+                .desc {
+                    padding: 0 8px;
+                }
             }
         }
         //List view project
         &.list-view {
-            padding-bottom: 0;
             .proj-list-item {
                 grid-template-columns: 3fr 2fr 1fr;
                 height: auto;
@@ -58,5 +228,41 @@
     }
     .mobile-hidden {
         display:none;
+    }
+    //Contact Pull Out
+    section.contact {
+        width: 85vw;
+    }
+    .contact-active {
+        main {
+            transform: translateX(-85vw);
+        }
+    }
+    // News Layout
+    section.news {
+        grid-template-columns: 1fr;
+        column-gap: 32px;
+        row-gap: 32px;
+        padding: 32px;
+    }
+    // About Layout
+    .about-content {
+        .about-item {
+            .about-item-body {
+                padding: 16px;
+            }
+        }
+    }
+    .duoimage-section {
+        padding: 24px 0;
+        flex-direction: column;
+        justify-content: space-between;
+        img {
+            max-width: 100%;
+            max-height: calc(50% - 12px);
+            &:last-child {
+                margin-left: 0px;
+            }
+        }
     }
 }

@@ -175,4 +175,20 @@ body.dark {
             }
         }
     }
+
+    // Responsive
+    @include breakpoint(mobileLandscape) {
+        // Project Page Layouts
+        section.project-content {
+            .project-info-top {
+                .project-desc {
+                    border-bottom: 1px solid $white;
+                    background-color: $black;
+                }
+            }
+        }
+        .slide-description {
+            border-top: 1px solid $white;
+        }
+    }
 }
