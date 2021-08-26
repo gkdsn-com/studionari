@@ -11,17 +11,17 @@ services:
   - Test Service Two
 year: 2021
 projectBuilder:
-  - type: _section_image
-    size: fill
-    meaningful: Test Image - Fit Landscape
-    image: /assets/uploads/fitland_placeholder.jpg
-    desc: This is a landscape image that fills the space
   - type: _section_video
     size: fit
     meaningful: Video With Sound
     video: /assets/uploads/04_full_lineup_-_square_v02.mp4
     sound: true
     desc: This is a video that has sound
+  - type: _section_image
+    size: fill
+    meaningful: Test Image - Fit Landscape
+    image: /assets/uploads/fitland_placeholder.jpg
+    desc: This is a landscape image that fills the space
   - type: _section_text
     size: one
     meaningful: Test Single Column
