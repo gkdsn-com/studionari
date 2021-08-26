@@ -200,7 +200,7 @@ collections:
                 default: one
               - { label: "Text One", name: "textOne", widget: "markdown", modes: ['rich_text'], hint: This will be the first column if you select Two Columns }
               - { label: "Text Two", name: "textTwo", widget: "markdown", modes: ['rich_text'], hint: This will be the second column if you select Two Columns but leave blank if only using One Column, required: false}
-  - name: pages
+  - name: secondarypages
     label: "Secondary Pages"
     label_singular: "Page"
     identifier_field: '{{fields.title}}'
@@ -209,9 +209,10 @@ collections:
     editor:
       preview: false
     fields:
-      - {label: Page Name, name: title, widget: string, default: "Home"}
+      - {label: Page Name, name: title, widget: string}
+      - {label: Page Name, name: layout, widget: hidden, default: page}
       - {label: SEO Page Description, name: seo-description, widget: string, required: false}
-      - { label: "Page Content", name: body, widget: "markdown", modes: ['rich_text'] }
+      - { label: "Page Content", name: content, widget: "markdown", modes: ['rich_text'] }
   - name: clients
     label: "Project Clients"
     label_singular: "Client"
