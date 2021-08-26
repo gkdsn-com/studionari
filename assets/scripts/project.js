@@ -14,19 +14,19 @@ const swiper = new Swiper('.project-swiper-container', {
       prevEl: '.swiper-button.prev',
     },
 });
+
 let $allVideos = $('.js-project-video');
 swiper.on('transitionEnd', function () {
+    // Go through every video on the page and pause it
     $allVideos.each(function(){
         let video = $(this).get(0);
-        console.log(video);
         video.pause();
+        // If the video is active, play it
         if ($(this).parents('.swiper-slide-active').length) {
             let activeVideo = $('.swiper-slide-active video').get(0);
             activeVideo.play();
-            console.log('active slide')
+            console.log('playing video')
         }
     })
-    // let $activeVideo = $('.swiper-slide-active .js-project-video');
-    // $activeVideo.get(0).play();
-    // console.log('slide changed');
 });
+
