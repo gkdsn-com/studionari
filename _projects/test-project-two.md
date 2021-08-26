@@ -16,6 +16,12 @@ projectBuilder:
     meaningful: Test Image - Fit Landscape
     image: /assets/uploads/fitland_placeholder.jpg
     desc: This is a landscape image that fills the space
+  - type: _section_video
+    size: fit
+    meaningful: Video With Sound
+    video: /assets/uploads/04_full_lineup_-_square_v02.mp4
+    sound: true
+    desc: This is a video that has sound
   - type: _section_text
     size: one
     meaningful: Test Single Column
@@ -72,11 +78,5 @@ projectBuilder:
 
 
       Sed leo elementum enim sed aliquam feugiat sed pulvinar id. Etiam sit lacus eget aliquam vulputate maecenas amet. Sit morbi vivamus quam sem pharetra, scelerisque sollicitudin convallis. Pulvinar sit justo lorem molestie. Sed aliquet nibh nunc ullamcorper at mattis. Ante orci, orci, natoque duis. Maecenas nunc arcu ac etiam nulla gravida. Curabitur et convallis ullamcorper aliquet. Pellentesque interdum felis tempor elit dignissim eu odio duis consequat. Aenean ornare ac eget ultricies amet malesuada dignissim. Neque, nunc morbi mus in. Vel a, diam nullam vel quisque non metus lobortis. Enim, semper in proin sem id posuere.
-  - type: _section_video
-    size: fit
-    meaningful: Video With Sound
-    video: /assets/uploads/04_full_lineup_-_square_v02.mp4
-    sound: true
-    desc: This is a video that has sound
 footer: project
 ---
