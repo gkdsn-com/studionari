@@ -1,0 +1,62 @@
+// REMOVE THIS AFTER TESTING
+// section.dynamic-content {
+//     display:none;
+// }
+
+@include breakpoint(smallDesktop) {
+    
+}
+@include breakpoint(tablet) {
+    
+}
+@include breakpoint(mobileLandscape) {
+    
+}
+@include breakpoint(mobilePortrait) {
+    //Navigation
+    .nav-link {
+        margin-right: 8px;
+        &:first-child {
+            margin-right: 16px;
+        }
+    }
+
+    //Footer
+    footer {
+        .view-list {
+            .footer-link {
+                margin-left: 8px;
+            }
+        }
+    }
+    section.projects {
+        //Grid View Project
+        &.grid-view {
+            padding: $mobile-padding $mobile-padding 40px;
+            grid-template-columns: 1fr;
+            column-gap: 0;
+            row-gap: 32px;
+        }
+        // Full View Project
+        &.full-view {
+            padding-bottom: 0;
+            .project-full-title {
+                padding: 8px 16px 0;
+                height: auto;
+                @include flex(center, space-between);
+            }
+        }
+        //List view project
+        &.list-view {
+            padding-bottom: 0;
+            .proj-list-item {
+                grid-template-columns: 3fr 2fr 1fr;
+                height: auto;
+                padding: 8px 16px 0;
+            }
+        }
+    }
+    .mobile-hidden {
+        display:none;
+    }
+}

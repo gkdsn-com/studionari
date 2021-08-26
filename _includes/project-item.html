@@ -9,9 +9,9 @@
 {% assign projectURL = include.projectURL %}
 {% if type == 'list' %}
     <a href="{{ projectURL }}" class="proj-list-item js-list-item js-project-item" data-year="{{ projDate }}" data-client="{{ client | slugify }}" data-sector="{% for sector in sectors %}{% if forloop.last == true %}{{ sector | slugify }}{% else %}{{ sector | slugify }} {% endif %}{% endfor %}" data-service="{% for service in services %}{% if forloop.last == true %}{{ service | slugify }}{% else %}{{ service | slugify }} {% endif %}{% endfor %}">
-        <img src="{{ img }}" alt="" class="proj-list-img">
+        <img loading=lazy src="{{ img }}" alt="" class="proj-list-img">
         <h3 class="title">{{ title }}</h3>
-        <h3>{{ desc }}</h3>
+        <h3 class="mobile-hidden desc">{{ desc }}</h3>
         <h3>{{ client }}</h3>
         <h3>{{ projDate }}</h3>
     </a>
@@ -23,12 +23,12 @@
             <h3>{{ projDate }}</h3>
         </div>
         <a href="{{ projectURL }}" class="homepage-project">
-            <img src="{{ img }}" alt="">
+            <img loading=lazy src="{{ img }}" alt="">
         </a>
     </div>
 {% else %}
     <a href="{{ projectURL }}" class="homepage-project js-project-item" data-year="{{ projDate }}" data-client="{{ client | slugify }}" data-sector="{% for sector in sectors %}{% if forloop.last == true %}{{ sector | slugify }}{% else %}{{ sector | slugify }} {% endif %}{% endfor %}" data-service="{% for service in services %}{% if forloop.last == true %}{{ service | slugify }}{% else %}{{ service | slugify }} {% endif %}{% endfor %}">
-        <img src="{{ img }}" alt="">
+        <img loading=lazy src="{{ img }}" alt="">
         <h2>{{ title }}</h2>
         <p>{{ desc }}</p>
     </a>

@@ -22,12 +22,10 @@ swiper.on('transitionEnd', function () {
         if ($(this).parents('.swiper-slide-active').length) {
             let activeVideo = $('.swiper-slide-active video').get(0);
             activeVideo.play();
-            console.log('playing video')
         }
     })
     // Change the description to the current slide
     let descText = $('.swiper-slide-active').data('desc');
-    console.log(descText);
     $('.js-slide-description').html(descText);
     // Change the numerical indicators to the current numbers
     let slideNumber = $('.swiper-slide-active').attr('aria-label')
