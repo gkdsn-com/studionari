@@ -28,5 +28,16 @@ swiper.on('transitionEnd', function () {
             console.log('playing video')
         }
     })
+
+    let descText = $('.swiper-slide-active').data('desc');
+    console.log(descText);
+    $('.js-slide-description').html(descText);
+
+    let slideNumber = $('.swiper-slide-active').attr('aria-label')
+    $('.js-slide-number').html(slideNumber)
+});
+$(function() {
+    let slideNumber = $('.swiper-slide-active').attr('aria-label')
+    $('.js-slide-number').html(slideNumber)
 });
 

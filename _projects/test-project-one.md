@@ -1,5 +1,6 @@
 ---
 layout: project
+footer: project
 title: Test Project One
 featuredImage: /assets/uploads/project_placholder.jpg
 desc: This is a short description of the project

@@ -582,3 +582,17 @@ section.project-content {
         max-height: 100%;
     }
 }
+.slide-description {
+    position: fixed;
+    bottom: 12px;
+    left: 5vw;
+    z-index: 9999;
+    h3 {
+        margin: 0;
+    }
+}
+.text-slider-indicator {
+    h3 {
+        margin:0;
+    }
+}

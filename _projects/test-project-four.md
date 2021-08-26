@@ -1,5 +1,6 @@
 ---
 layout: project
+footer: project
 title: Test Project Four
 featuredImage: /assets/uploads/project_placholder4.jpg
 desc: Lorem ipsum dolor sit amet

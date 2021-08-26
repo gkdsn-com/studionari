@@ -10,7 +10,7 @@ layout: default
     <div class="project-swiper-container">
         <div class="swiper-wrapper">
             {% for item in page.projectBuilder %}
-                <div class="swiper-slide">
+                <div class="swiper-slide" data-desc="{{ item.desc }}">
                     {% include {{ item.type | append: '.html' }}
                         type=item.type
                         size=item.size
@@ -30,3 +30,12 @@ layout: default
         <div class="swiper-button next"><h3>Next</h3></div>
     </div>
 </section>
+<div class="slide-description">
+    <h3 class="js-slide-description">
+    {% for item in page.projectBuilder %}
+        {% if forloop.first == true %}
+            {{ item.desc }}
+        {% endif %}
+    {% endfor %}
+    </h3>
+</div>

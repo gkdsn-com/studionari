@@ -1,5 +1,6 @@
 ---
 layout: project
+footer: project
 title: Test Project Three
 featuredImage: /assets/uploads/project_placholder3.jpg
 desc: This is a short description of the project that is mid length

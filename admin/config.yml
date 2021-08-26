@@ -99,6 +99,7 @@ collections:
       preview: false
     fields:
       - {label: Layout, name: layout, widget: hidden, default: project}
+      - {label: Footer, name: footer, widget: hidden, default: project}
       - {label: Project Title, name: title, widget: string}
       - { label: "Featured Image", name: "featuredImage", widget: "image", hint: This is the image that is used on the project page - these should all be the same ratio and size using a template }
       - {label: Short Decsription, name: desc, widget: string, hint: Keep this to a maximum of 80 characters including spaces}
