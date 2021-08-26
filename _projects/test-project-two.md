@@ -45,8 +45,8 @@ projectBuilder:
   - type: _section_video
     size: fit
     desc: This is a placeholder video
-    meaningful: Test Video
-    video: /assets/uploads/video_placeholder.mp4
+    meaningful: Nari Test video
+    video: /assets/uploads/d_ad_teasers_insta.mp4
     sound: false
   - type: _section_text
     size: two
