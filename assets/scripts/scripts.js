@@ -58,9 +58,15 @@ $listItem.forEach(hover => {
 projectFilters = function(e) {
     $('.js-projects-filters').toggleClass('active');
 }
+
+homepageFeature = function() {
+    $('.homepage-feature').remove();
+    $.cookie('feature', 'true', { expires: 1, path: '/' })
+}
   
 
 $(document).on('click', '.js-colour-switch', colourSwitch);
+$(document).on('click', '.feature-item', homepageFeature);
 $(document).on('click', '.js-view-link', projectView);
 $(document).on('click', '#contact', contact);
 $(document).on('click', '.js-project-filter', projectFilters);

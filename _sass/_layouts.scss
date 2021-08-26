@@ -610,3 +610,67 @@ section.project-content {
 section.page-content {
     margin: 40px 25vw;
 }
+
+// Homepage Feature
+section.homepage-feature {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    top:0;
+    left:0;
+    z-index: 999999999;
+    display: grid;
+    grid-template-columns: 20vw 20vw 20vw 20vw 20vw;
+    svg {
+        position:absolute;
+        top:50%;
+        left:50%;
+        max-width: 20vw;
+        transform: translate3d(-50%, -50%, 0);
+        pointer-events: none;
+        path {
+            fill: $white;
+        }
+    }
+    .mouse-follower {
+        position: fixed;
+        left: var(--cursorX);
+        top: var(--cursorY);
+        transform: translate3d(-50%, -50%, 0);
+        pointer-events: none;
+        color: $white;
+        white-space: nowrap;
+        mix-blend-mode: difference;
+    }
+    .feature-background {
+        @include flex(center, center);
+        position: fixed;
+        width: 100vw;
+        height: 100vh;
+        top:0;
+        left:0;
+        opacity:0%;
+        pointer-events: none;
+        img {
+            min-width: 100%;
+            min-height: 100%;
+            object-fit: cover;
+        }
+        video {
+            min-width: 100%;
+            min-height: 100%;
+            object-fit: cover;
+        }
+        &.default {
+            opacity:100%;
+            z-index:-1;
+        }
+    }
+    .feature-item {
+        &:hover {
+            .feature-background {
+                opacity: 100%;
+            }
+        }
+    }
+}

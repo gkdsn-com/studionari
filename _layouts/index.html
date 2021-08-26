@@ -2,6 +2,11 @@
 layout: default
 permalink: /
 ---
+{% if page.intro.toggle == true %}
+    {% include homepage-feature.html 
+        intro=page.intro
+    %}
+{% endif %}
 {% include homepage-filters.html %}
 <section class="projects grid-view hidden js-projects-container" id="grid">
     {% for i in (1..5) %}

@@ -32,9 +32,13 @@
   crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
   <script>
-    let schemeCookie = $.cookie('dark');
+    let schemeCookie = $.cookie('dark'),
+        featureCookie = $.cookie('feature');
     if (schemeCookie === 'true') {
         $('body').addClass('dark');
+    }
+    if (featureCookie === 'true') {
+        $('.homepage-feature').remove();
     }
   </script>
 {% if page.layout == 'project' %}
