@@ -211,7 +211,7 @@ collections:
     fields:
       - {label: Page Name, name: title, widget: string, default: "Home"}
       - {label: SEO Page Description, name: seo-description, widget: string, required: false}
-      - { label: "Page Content", name: "content", widget: "markdown", modes: ['rich_text'] }
+      - { label: "Page Content", name: body, widget: "markdown", modes: ['rich_text'] }
   - name: clients
     label: "Project Clients"
     label_singular: "Client"
