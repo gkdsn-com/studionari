@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy
+title: Cookie Policy
 layout: page
 richcontent: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eleifend dolor

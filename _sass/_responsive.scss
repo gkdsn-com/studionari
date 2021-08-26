@@ -180,6 +180,10 @@
             margin: 0;
         }
     }
+    // Secondary Page
+    section.page-content {
+        margin: 40px 15vw;
+    }
 }
 @include breakpoint(mobilePortrait) {
     //Navigation
@@ -264,5 +268,9 @@
                 margin-left: 0px;
             }
         }
+    }
+    // Secondary Page
+    section.page-content {
+        margin: 40px 5vw;
     }
 }

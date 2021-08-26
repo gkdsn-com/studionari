@@ -212,7 +212,7 @@ collections:
       - {label: Page Name, name: title, widget: string}
       - {label: Page Name, name: layout, widget: hidden, default: page}
       - {label: SEO Page Description, name: seo-description, widget: string, required: false}
-      - { label: "Page Content", name: content, widget: "markdown", modes: ['rich_text'] }
+      - { label: "Page Content", name: richcontent, widget: "markdown", modes: ['rich_text'] }
   - name: clients
     label: "Project Clients"
     label_singular: "Client"
