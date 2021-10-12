@@ -1,7 +1,7 @@
 ---
 layout: project
 footer: project
-title: D&AD New Blood
+title: Moodelier
 featuredImage: /assets/uploads/moodelier_nari_proj_00-01.png
 desc: Galvanising the creative spirit through uncertain times.
 client: Test Client Two
