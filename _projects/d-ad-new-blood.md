@@ -44,4 +44,19 @@ projectBuilder:
     image: /assets/uploads/newblood_nari-11.jpg
     meaningful: Butterfly Effect objects
     desc: Butterfly Effect objects
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/d-ad_cfeteals_insta-2.mp4
+    meaningful: Call for entry animation
+    desc: Call for entry animation
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/newblood_nari-03.jpg
+    meaningful: Tote bags
+    desc: Tote bags
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/comp_d-ad_cfeoranges_insta-1-.mp4
+    meaningful: Call for entry animation
+    desc: Call for entry animation
 ---
