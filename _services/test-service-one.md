@@ -1,3 +1,3 @@
 ---
-title: Test Service One
+title: Brand Strategy
 ---
