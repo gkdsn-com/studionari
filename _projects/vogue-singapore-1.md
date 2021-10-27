@@ -79,4 +79,9 @@ projectBuilder:
     meaningful: Vanda specimen
     desc: Vanda specimen
     image: /assets/uploads/vogue_nari-13.jpg
+  - type: _section_video
+    size: fit
+    meaningful: Vanda in motion
+    desc: Vanda in motion
+    video: /assets/uploads/00-arise-master-.mp4
 ---
