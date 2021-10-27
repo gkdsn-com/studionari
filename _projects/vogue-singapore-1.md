@@ -54,4 +54,24 @@ projectBuilder:
     image: /assets/uploads/vogue_nari-11.jpg
     meaningful: Vogue runway
     desc: Vogue runway
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/vogue_nari-14.jpg
+    meaningful: Vogue studio
+    desc: Vogue studio
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/vogue_nari-04.jpg
+    meaningful: Vanda in use
+    desc: Vanda in use
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/vogue_nari-12.jpg
+    meaningful: Vanda boxes
+    desc: Vanda boxes
+  - type: _section_image
+    size: fit
+    meaningful: Vanda specimen
+    desc: Vanda specimen
+    image: /assets/uploads/vogue_nari-13.jpg
 ---
