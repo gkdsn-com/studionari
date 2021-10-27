@@ -82,23 +82,62 @@ projectBuilder:
     meaningful: Mob Weekly newsletter
     desc: Mob Weekly newsletter
   - type: _section_video
-    size: fit
+    size: fill
     video: /assets/uploads/m-logo-in-2_1.mp4
     meaningful: Mob ident
     desc: Mob ident
   - type: _section_image
     size: fill
     image: /assets/uploads/mob_vi_nari_21-19.jpg
-    meaningful: Mob mark
+    meaningful: Mark
     desc: Mob mark
   - type: _section_image
     size: fill
     image: /assets/uploads/mob_vi_nari_21-04.jpg
-    meaningful: Mob brand guideline
+    meaningful: Brand guideline
     desc: Mob brand guideline
   - type: _section_video
-    size: fit
+    size: fill
     video: /assets/uploads/m-logo-in-3_1.mp4
     meaningful: Mob ident
     desc: Mob ident
+  - type: _section_image
+    size: fill
+    image: /assets/uploads/mob_vi_nari_21-20.jpg
+    meaningful: Stickers
+    desc: Mob Stickers
+  - type: _section_image
+    size: fill
+    image: /assets/uploads/mob_vi_nari_21-08.jpg
+    meaningful: Tote
+    desc: Tote
+  - type: _section_image
+    size: fill
+    image: /assets/uploads/mob_vi_nari_21-14.jpg
+    meaningful: Mob Monthly recipe book
+    desc: Mob monthly recipe book
+  - type: _section_image
+    size: fill
+    image: /assets/uploads/mob_vi_nari_21-17.jpg
+    meaningful: "4"
+  - type: _section_image
+    size: fill
+    meaningful: Overview of all series identities
+    desc: Series identity for Overview of all series identities
+    image: /assets/uploads/mob_vi_nari_21-18.jpg
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/mob_vi_nari_21-24.jpg
+    meaningful: Instagram
+    desc: Instagram
+  - type: _section_image
+    size: fit
+    meaningful: Series identity for Street
+    desc: Series identity for Street
+    image: /assets/uploads/mob_vi_nari_21-22.jpg
+  - type: _section_image
+    size: fill
+    meaningful: Series identity for Hot Takes
+    image: /assets/uploads/mob_vi_nari_21-21.jpg
+    desc: Series identity for Hot Takes
 ---
