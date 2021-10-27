@@ -19,4 +19,9 @@ projectBuilder:
     image: /assets/uploads/vogue_nari-01.jpg
     desc: Vanda in use on cover
     meaningful: cover
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/vogue_nari-02.jpg
+    desc: Vanda specimen
+    meaningful: "2"
 ---
