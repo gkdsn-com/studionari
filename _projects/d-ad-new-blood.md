@@ -22,7 +22,7 @@ projectBuilder:
   - type: _section_video
     size: fit
     video: /assets/uploads/d-ad_teasers_insta-2.mp4
-    meaningful: Call for entry animations
+    meaningful: Call for entry animation
     desc: Call for entry animations
   - type: _section_image
     size: fit
