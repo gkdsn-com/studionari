@@ -1,7 +1,7 @@
 ---
-title: This is a news item headline
-image: /assets/uploads/news_placeholder.jpg
-date: 2021-08-11T16:04:02.351Z
-linkURL: 'https://itsnicethat.com'
+linkURL: https://www.itsnicethat.com/news/mob-kitchen-initially-only-wanted-a-brand-refresh-studio-nari-gave-it-a-whole-new-identity
+title: It's Nice That features the new Mob
+image: /assets/uploads/mob_vi_nari_21-15.jpg
+date: 2021-10-27T17:40:14.639Z
 ---
-Etiam a ante justo. Sed id vulputate tortor. Fusce non facilisis ex, a condimentum purus.
+"Mob Kitchen initially only wanted a brand refresh; Studio Nari gave it a whole new identity"
