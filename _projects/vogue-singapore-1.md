@@ -13,4 +13,10 @@ services:
   - Editorial Design
   - Typeface
 year: 2020
+projectBuilder:
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/vogue_nari-01.jpg
+    desc: Vanda in use on cover
+    meaningful: cover
 ---
