@@ -1,3 +1,3 @@
 ---
-title: Test Sector One
+title: Editorial
 ---
