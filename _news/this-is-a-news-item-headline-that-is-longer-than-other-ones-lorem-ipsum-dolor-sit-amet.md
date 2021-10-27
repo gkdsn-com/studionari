@@ -1,8 +1,7 @@
 ---
-title: This is a news item headline that is longer than other ones lorem ipsum
-  dolor sit amet
-image: /assets/uploads/news_placeholder2.jpg
-date: 2021-08-09T16:04:22.128Z
-linkURL: 'https://itsnicethat.com'
+linkURL: https://www.itsnicethat.com/features/new-world-today-at-apple-creative-guide-studio-nari-caterina-bianchini-240321
+title: Our founder Caterina host a live workshop with Apple & It's Nice That
+image: /assets/uploads/artboard-10.png
+date: 2021-10-27T17:49:26.257Z
 ---
-Libero sapien ornare pulvinar eget feugiat quis viverra in enim. Faucibus amet bibendum ornare in. Mi quam mattis feugiat suspendisse venenatis, nisi etiam nulla tincidunt.
+Check out the Creative Guide created as part of the session.
