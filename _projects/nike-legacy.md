@@ -34,4 +34,39 @@ projectBuilder:
     meaningful: Legacy ident
     desc: Legacy ident
     video: /assets/uploads/05.mp4
+  - type: _section_image
+    size: fit
+    meaningful: Extended editorial type lock ups
+    desc: Extended editorial type lock ups
+    image: /assets/uploads/nike_legacy_nari-02.jpg
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/nike_legacy_nari-05.jpg
+    meaningful: Secondary mark
+    desc: Secondary mark
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/04.mp4
+    meaningful: Secondary mark animation
+    desc: Secondary mark animation
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/nike_legacy_nari-08.jpg
+    meaningful: Out of home
+    desc: Out of home
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/06.mp4
+    meaningful: Mark animation
+    desc: Mark animation
+  - type: _section_image
+    size: fill
+    image: /assets/uploads/nike_legacy_nari-09.jpg
+    meaningful: Type proposals
+    desc: Type proposals
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/nike_legacy_nari-04.jpg
+    meaningful: Out of Home
+    desc: Out of Home
 ---
