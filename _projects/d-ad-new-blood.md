@@ -71,12 +71,12 @@ projectBuilder:
     meaningful: New Blood festival animation
     desc: New Blood festival animation
   - type: _section_image
-    size: fit
+    size: fill
     image: /assets/uploads/newblood_nari-10.jpg
     meaningful: New Blood festival artwork
     desc: New Blood festival artwork
   - type: _section_image
-    size: fit
+    size: fill
     image: /assets/uploads/newblood_nari-08.jpg
     meaningful: New Blood festival artwork
     desc: New Blood festival artwork
