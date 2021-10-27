@@ -72,8 +72,8 @@ projectBuilder:
   - type: _section_image
     size: fit
     image: /assets/uploads/vogue_nari-12.jpg
-    meaningful: Vanda boxes
-    desc: Vanda boxes
+    meaningful: Vogue boxes
+    desc: Vogue boxes
   - type: _section_image
     size: fit
     meaningful: Vanda specimen
