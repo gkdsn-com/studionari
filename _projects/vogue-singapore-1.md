@@ -34,4 +34,8 @@ projectBuilder:
     image: /assets/uploads/vogue_nari-06.jpg
     meaningful: "3"
     desc: Vanda in print
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/00-arise-master-.mov
+    meaningful: arise video
 ---
