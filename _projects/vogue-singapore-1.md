@@ -34,6 +34,11 @@ projectBuilder:
     image: /assets/uploads/vogue_nari-06.jpg
     meaningful: "3"
     desc: Vanda in print
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/vogue_studio_comp.mov
+    meaningful: Vogue Studio
+    desc: Vogue Studio
   - type: _section_image
     size: fit
     image: /assets/uploads/vogue_nari-03.jpg
@@ -74,9 +79,4 @@ projectBuilder:
     meaningful: Vanda specimen
     desc: Vanda specimen
     image: /assets/uploads/vogue_nari-13.jpg
-  - type: _section_video
-    size: fit
-    video: /assets/uploads/vogue_studio_comp.mov
-    meaningful: Vogue Studio
-    desc: Vogue Studio
 ---
