@@ -1,3 +1,3 @@
 ---
-title: Test Service Two
+title: Editorial Design
 ---
