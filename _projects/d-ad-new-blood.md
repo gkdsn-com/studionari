@@ -11,6 +11,7 @@ sectors:
 services:
   - Bespoke Typography
   - Campaign
+  - 3D Design
 year: 2021
 projectBuilder:
   - type: _section_image
