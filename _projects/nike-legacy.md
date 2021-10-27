@@ -23,4 +23,15 @@ projectBuilder:
     meaningful: Legacy trailer
     video: /assets/uploads/01.mp4
     desc: Legacy trailer
+    sound: true
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/nike_legacy_nari-06.jpg
+    meaningful: Out of home
+    desc: Out of home
+  - type: _section_video
+    size: fit
+    meaningful: Legacy ident
+    desc: Legacy ident
+    video: /assets/uploads/05.mp4
 ---
