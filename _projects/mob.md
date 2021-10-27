@@ -2,7 +2,7 @@
 layout: project
 footer: project
 title: Mob
-featuredImage: /assets/uploads/cover.jpg
+featuredImage: /assets/uploads/cover54.jpg
 desc: Food You'll Actually Cook
 client: Mob
 sectors:
