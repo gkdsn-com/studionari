@@ -29,4 +29,9 @@ projectBuilder:
     image: /assets/uploads/vogue_nari-05.jpg
     desc: Vanda in print
     meaningful: "3"
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/vogue_nari-06.jpg
+    meaningful: "3"
+    desc: Vanda in print
 ---
