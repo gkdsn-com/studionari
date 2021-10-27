@@ -1,3 +1,3 @@
 ---
-title: V&A
+title: SKP Beijing
 ---
