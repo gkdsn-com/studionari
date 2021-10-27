@@ -74,4 +74,9 @@ projectBuilder:
     meaningful: Vanda specimen
     desc: Vanda specimen
     image: /assets/uploads/vogue_nari-13.jpg
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/vogue_studio_comp.mov
+    meaningful: Vogue Studio
+    desc: Vogue Studio
 ---
