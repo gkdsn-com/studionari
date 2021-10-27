@@ -40,7 +40,7 @@ projectBuilder:
     desc: Extended editorial type lock ups
     image: /assets/uploads/nike_legacy_nari-02.jpg
   - type: _section_image
-    size: fit
+    size: fill
     image: /assets/uploads/nike_legacy_nari-05.jpg
     meaningful: Secondary mark
     desc: Secondary mark
@@ -69,4 +69,14 @@ projectBuilder:
     image: /assets/uploads/nike_legacy_nari-04.jpg
     meaningful: Out of Home
     desc: Out of Home
+  - type: _section_image
+    size: fill
+    image: /assets/uploads/nike_legacy_nari-07.jpg
+    meaningful: Secondary mark
+    desc: Secondary mark
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/02-curved-ticker-angled.mp4
+    meaningful: Secondary mark loop animation
+    desc: Secondary mark loop animation
 ---
