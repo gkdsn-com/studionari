@@ -140,4 +140,9 @@ projectBuilder:
     meaningful: Series identity for Hot Takes
     image: /assets/uploads/mob_vi_nari_21-21.jpg
     desc: Series identity for Hot Takes
+  - type: _section_image
+    size: fill
+    image: /assets/uploads/mob_vi_nari_21-16.jpg
+    meaningful: Type treatment
+    desc: Type treatment
 ---
