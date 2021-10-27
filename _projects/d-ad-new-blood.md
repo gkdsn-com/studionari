@@ -32,7 +32,7 @@ projectBuilder:
   - type: _section_video
     size: fit
     sound: true
-    video: /assets/uploads/butterfly01_30s_intro_centred-perc-music.mp4
+    video: /assets/uploads/butterfly01_30s_intro_centred-perc-music-1-.mp4
     meaningful: Sound design and animation for New Blood ceremony
     desc: Sound design and animation for New Blood ceremony
   - type: _section_image
@@ -117,4 +117,9 @@ projectBuilder:
     image: /assets/uploads/newblood_nari-09.jpg
     meaningful: Academy welcome pack
     desc: Academy welcome pack
+  - type: _section_image
+    size: fit
+    meaningful: Tutor pack cover
+    desc: Tutor pack cover
+    image: /assets/uploads/newblood_nari-12.jpg
 ---
