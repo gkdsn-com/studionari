@@ -79,4 +79,41 @@ projectBuilder:
     image: /assets/uploads/newblood_nari-08.jpg
     meaningful: New Blood festival artwork
     desc: New Blood festival artwork
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/newblood_nari-02.jpg
+    meaningful: Out of home
+    desc: Out of home
+  - type: _section_video
+    size: fit
+    sound: true
+    video: /assets/uploads/disney.mp4
+    meaningful: Disney brief animation for New Blood ceremony
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/penguin.mp4
+    meaningful: Penguin brief animation for New Blood ceremony
+    sound: true
+    desc: Penguin brief animation for New Blood ceremony
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/newblood_nari-06.jpg
+    meaningful: Pencil Kitemarks
+    desc: Pencil Kitemarks
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/20052021_butterfly_04_stage_03_widescreen-1-.mp4
+    meaningful: Ceremony animation
+    sound: true
+    desc: Ceremony animation
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/pnecil_03-music-fx.mp4
+    meaningful: Pencil ceremony animation
+    desc: Pencil ceremony animation
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/newblood_nari-09.jpg
+    meaningful: Academy welcome pack
+    desc: Academy welcome pack
 ---
