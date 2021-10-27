@@ -59,4 +59,24 @@ projectBuilder:
     video: /assets/uploads/comp_d-ad_cfeoranges_insta-1-.mp4
     meaningful: Call for entry animation
     desc: Call for entry animation
+  - type: _section_image
+    size: fit
+    meaningful: Out of home
+    image: /assets/uploads/newblood_nari-04.jpg
+    desc: Out of home
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/d-ad_sn_b01_purple_1x1-1-.mp4
+    meaningful: New Blood festival animation
+    desc: New Blood festival animation
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/newblood_nari-10.jpg
+    meaningful: New Blood festival artwork
+    desc: New Blood festival artwork
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/newblood_nari-08.jpg
+    meaningful: New Blood festival artwork
+    desc: New Blood festival artwork
 ---
