@@ -1,3 +1,3 @@
 ---
-title: Editorial
+title: Culture
 ---
