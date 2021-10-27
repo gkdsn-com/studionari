@@ -2,7 +2,7 @@
 layout: project
 footer: project
 title: Nike Legacy
-featuredImage: /assets/uploads/cover.jpg
+featuredImage: /assets/uploads/cover3.jpg
 desc: Self Care = Community Care
 client: Nike
 sectors:
