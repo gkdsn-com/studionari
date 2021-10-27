@@ -11,6 +11,7 @@ sectors:
 services:
   - Bespoke Typography
   - Campaign
+  - 3D Design
 year: 2021
 projectBuilder:
   - type: _section_image
@@ -21,7 +22,7 @@ projectBuilder:
   - type: _section_video
     size: fit
     video: /assets/uploads/d-ad_teasers_insta-2.mp4
-    meaningful: Call for entry animations
+    meaningful: Call for entry animation
     desc: Call for entry animations
   - type: _section_image
     size: fit
@@ -31,16 +32,16 @@ projectBuilder:
   - type: _section_video
     size: fit
     sound: true
-    video: /assets/uploads/butterfly01_30s_intro_centred-perc-music.mp4
+    video: /assets/uploads/butterfly01_30s_intro_centred-perc-music-1-.mp4
     meaningful: Sound design and animation for New Blood ceremony
     desc: Sound design and animation for New Blood ceremony
   - type: _section_image
-    size: fit
+    size: fill
     image: /assets/uploads/newblood_nari-07.jpg
     meaningful: Out of Home
     desc: Out of Home
   - type: _section_image
-    size: fit
+    size: fill
     image: /assets/uploads/newblood_nari-11.jpg
     meaningful: Butterfly Effect objects
     desc: Butterfly Effect objects
@@ -50,7 +51,7 @@ projectBuilder:
     meaningful: Call for entry animation
     desc: Call for entry animation
   - type: _section_image
-    size: fit
+    size: fill
     image: /assets/uploads/newblood_nari-03.jpg
     meaningful: Tote bags
     desc: Tote bags
@@ -80,8 +81,8 @@ projectBuilder:
     meaningful: New Blood festival artwork
     desc: New Blood festival artwork
   - type: _section_image
-    size: fit
-    image: /assets/uploads/newblood_nari-02.jpg
+    size: fill
+    image: /assets/uploads/newblood_nari-02-02.jpg
     meaningful: Out of home
     desc: Out of home
   - type: _section_video
@@ -96,7 +97,7 @@ projectBuilder:
     sound: true
     desc: Penguin brief animation for New Blood ceremony
   - type: _section_image
-    size: fit
+    size: fill
     image: /assets/uploads/newblood_nari-06.jpg
     meaningful: Pencil Kitemarks
     desc: Pencil Kitemarks
@@ -112,8 +113,13 @@ projectBuilder:
     meaningful: Pencil ceremony animation
     desc: Pencil ceremony animation
   - type: _section_image
-    size: fit
+    size: fill
     image: /assets/uploads/newblood_nari-09.jpg
     meaningful: Academy welcome pack
     desc: Academy welcome pack
+  - type: _section_image
+    size: fit
+    meaningful: Tutor pack cover
+    desc: Tutor pack cover
+    image: /assets/uploads/newblood_nari-12.jpg
 ---
