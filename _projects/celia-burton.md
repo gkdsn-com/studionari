@@ -3,7 +3,8 @@ layout: project
 footer: project
 title: Celia Burton
 featuredImage: /assets/uploads/cover578.jpg
-desc: Needs to be added
+desc: "'Making Faces' - A humanist identity for one of Beauty's most charismatic
+  personalities"
 client: Celia Burton
 sectors:
   - Beauty
@@ -12,6 +13,19 @@ services:
   - Bespoke Typography
 year: 2019
 projectBuilder:
+  - type: _section_text
+    size: one
+    meaningful: Text block
+    textOne: >-
+      We partnered with award winning London based makeup artist, Celia Burton,
+      to create a visual identity for her growing beauty enterprise. As such a
+      charismatic character-in-and-amongst the straight-faced world of fashion,
+      it was important for her vivacious personality and bold working style to
+      exude from the core identity, yet seamlessly live in the world of beauty.
+
+
+      Our concept was ‘Making Faces’; an obvious reference to the core purpose of Celia’s practice but also a nod to the core identity’s playful and humanist graphic language. To further push this, the conventional yet approachable sans serif logotype would hold many forms, assembling in different structures or ‘faces’ across different environments.
+    textTwo: ""
   - type: _section_image
     size: fill
     image: /assets/uploads/celiaburton-page-layout-02.png
