@@ -3,7 +3,7 @@ layout: project
 footer: project
 title: Home
 featuredImage: /assets/uploads/cover-2.jpg
-desc: Where the heart is
+desc: Where the Heart is - A HOME from home for BIPOC creatives in London
 client: HOME
 sectors:
   - Art
@@ -12,6 +12,15 @@ services:
   - Visual Identity
 year: 2020
 projectBuilder:
+  - type: _section_text
+    size: one
+    textOne: "## We were asked to create the visual identity for HOME, a
+      multifunctional creative space, run and owned by photographer Ronan
+      McKenzie. The space itself was founded to create a distinct place with a
+      new set of understandings of how to contextualise a diverse range of
+      artists and provide a new infrastructure for creativity in BIPOC
+      communities."
+    meaningful: "Text block 1: Intro"
   - type: _section_image
     size: fit
     image: /assets/uploads/home-ronan-mckenzie-studio-nari-art-graphic-design-itsnicethat-11.gif
@@ -22,6 +31,15 @@ projectBuilder:
     image: /assets/uploads/home_nari_21-02.jpg
     meaningful: Out of home
     desc: Out of home
+  - type: _section_text
+    size: one
+    meaningful: "Text Block 2: Concept"
+    textOne: >-
+      ## We wanted to create an identity that embodied the feeling of Home - but
+      what and where is home - how do you capture this, aesthetically? 
+
+
+      ## We began with our overarching concept of “*Where the Heart Is*”. This was grounded in the idea that a home isn’t just where you are, it’s who you are, reflecting the composure of knowing you are already home wherever you are.
   - type: _section_image
     size: fit
     image: /assets/uploads/home_nari_21-06.jpg
