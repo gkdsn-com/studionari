@@ -9,19 +9,22 @@ permalink: /
 {% endif %}
 {% include homepage-filters.html %}
 <section class="projects grid-view hidden js-projects-container" id="grid">
-    {% for i in (1..5) %}
+    {% for item in page.order %}
+        {% assign projectName = item.project %}
         {% for project in site.projects %}
-            {% include project-item.html 
-                type='grid'
-                projectURL=project.url
-                img=project.featuredImage
-                title=project.title
-                desc=project.desc
-                projDate=project.year
-                client=project.client
-                sectors=project.sectors
-                services=project.services
-            %}
+            {% if projectName == project.title %}
+                {% include project-item.html 
+                    type='grid'
+                    projectURL=project.url
+                    img=project.featuredImage
+                    title=project.title
+                    desc=project.desc
+                    projDate=project.year
+                    client=project.client
+                    sectors=project.sectors
+                    services=project.services
+                %}
+            {% endif %}
         {% endfor %}
     {% endfor %}
 </section>
@@ -32,46 +35,42 @@ permalink: /
         <h3>Client</h3>
         <h3>Year</h3>
     </div>
-    {% for i in (1..5) %}
+    {% for item in page.order %}
+        {% assign projectName = item.project %}
         {% for project in site.projects %}
-            {% include project-item.html 
-                type='list'
-                projectURL=project.url
-                img=project.featuredImage
-                title=project.title
-                desc=project.desc
-                projDate=project.year
-                client=project.client
-                sectors=project.sectors
-                services=project.services
-            %}
+            {% if projectName == project.title %}
+                {% include project-item.html 
+                    type='list'
+                    projectURL=project.url
+                    img=project.featuredImage
+                    title=project.title
+                    desc=project.desc
+                    projDate=project.year
+                    client=project.client
+                    sectors=project.sectors
+                    services=project.services
+                %}
+            {% endif %}
         {% endfor %}
     {% endfor %}
 </section>
 <section class="projects full-view hidden js-projects-container" id="full">
-    {% for i in (1..5) %}
+    {% for item in page.order %}
+        {% assign projectName = item.project %}
         {% for project in site.projects %}
-            {% include project-item.html 
-                type='full'
-                projectURL=project.url
-                img=project.featuredImage
-                title=project.title
-                desc=project.desc
-                projDate=project.year
-                client=project.client
-                sectors=project.sectors
-                services=project.services
-            %}
+            {% if projectName == project.title %}
+                {% include project-item.html 
+                    type='full'
+                    projectURL=project.url
+                    img=project.featuredImage
+                    title=project.title
+                    desc=project.desc
+                    projDate=project.year
+                    client=project.client
+                    sectors=project.sectors
+                    services=project.services
+                %}
+            {% endif %}
         {% endfor %}
     {% endfor %}
-    <!-- {% for i in (1..10) %}
-        {% include project-item.html 
-            type='full'
-            img='/assets/images/test-image.jpg'
-            title='Project Title'
-            desc='Etiam a ante justo. Sed id vulputate tortor. Fusce non facilisis ex, a condimentum purus.'
-            projDate='2020'
-            client='Client'
-        %}
-    {% endfor %} -->
 </section>

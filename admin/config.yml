@@ -24,6 +24,13 @@ collections:
         fields:
           - {label: Page Name, name: title, widget: string, default: "Home"}
           - {label: SEO Page Description, name: seo-description, widget: string, required: false}
+          - label: Project Order
+            label_singular: Project
+            name: order
+            widget: list
+            hint: Order the projects on the home page
+            fields:
+              - { label: "Project", name: "project", widget: "relation", collection: "projects", search_fields: ["title"], display_fields: ["title"], value_field: title }
           - label: Homepage Introduction Feature
             name: intro
             widget: object
