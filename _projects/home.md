@@ -36,7 +36,7 @@ projectBuilder:
     meaningful: "Text Block 2: Concept"
     textOne: >-
       ## We wanted to create an identity that embodied the feeling of Home - but
-      what and where is home - how do you capture this, aesthetically? 
+      what and where is home - how do you capture this, aesthetically?
 
 
       ## We began with our overarching concept of “*Where the Heart Is*”. This was grounded in the idea that a home isn’t just where you are, it’s who you are, reflecting the composure of knowing you are already home wherever you are.
