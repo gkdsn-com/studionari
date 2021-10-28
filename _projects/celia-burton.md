@@ -36,7 +36,7 @@ projectBuilder:
   - type: _section_text
     size: one
     meaningful: Text Block 2
-    textOne: "# Our concept was ‘Making Faces’; an obvious reference to the core
+    textOne: "## Our concept was ‘Making Faces’; an obvious reference to the core
       purpose of Celia’s practice but also a nod to the core identity’s playful
       and humanist graphic language. To further push this, the conventional yet
       approachable sans serif logotype would hold many forms, assembling in
@@ -51,19 +51,19 @@ projectBuilder:
     image: /assets/uploads/youtube-slides-01.gif
     meaningful: Brand marks
     desc: Brand marks
-  - type: _section_image
+  - type: _section_video
     size: fill
-    image: /assets/uploads/celiaburton-page-layout2-04.jpg
+    video: /assets/uploads/celiaburton-page-layout2-04.jpg
     meaningful: Socials
     desc: Socials
-  - type: _section_image
+  - type: _section_video
     size: fill
-    image: /assets/uploads/celiaburton-page-layout-03.png
+    video: /assets/uploads/celiaburton-page-layout-03.png
     meaningful: Brand marks
     desc: Brand marks
-  - type: _section_image
+  - type: _section_video
     size: fit
-    image: /assets/uploads/youtube-slides-02.gif
+    video: /assets/uploads/youtube-slides-02.gif
     meaningful: Brand mark animation
     desc: Brand mark animation
   - type: _section_image
