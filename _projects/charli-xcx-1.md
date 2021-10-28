@@ -69,6 +69,6 @@ projectBuilder:
     meaningful: "10"
   - type: _section_image
     size: fit
-    image: /assets/uploads/_logo.gif
+    image: /assets/uploads/charli_logo.gif
     meaningful: "11"
 ---

@@ -12,9 +12,9 @@ services:
   - Visual Identity
 year: 2020
 projectBuilder:
-  - type: _section_video
+  - type: _section_image
     size: fit
-    video: /assets/uploads/home-ronan-mckenzie-studio-nari-art-graphic-design-itsnicethat-11.gif
+    image: /assets/uploads/home-ronan-mckenzie-studio-nari-art-graphic-design-itsnicethat-11.gif
     meaningful: Home Logotype
     desc: Home Logotype
   - type: _section_image

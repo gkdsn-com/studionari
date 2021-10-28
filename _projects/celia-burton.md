@@ -51,19 +51,19 @@ projectBuilder:
     image: /assets/uploads/youtube-slides-01.gif
     meaningful: Brand marks
     desc: Brand marks
-  - type: _section_video
+  - type: _section_image
     size: fill
-    video: /assets/uploads/celiaburton-page-layout2-04.jpg
+    image: /assets/uploads/celiaburton-page-layout2-04.jpg
     meaningful: Socials
     desc: Socials
-  - type: _section_video
+  - type: _section_image
     size: fill
-    video: /assets/uploads/celiaburton-page-layout-03.png
+    image: /assets/uploads/celiaburton-page-layout-03.png
     meaningful: Brand marks
     desc: Brand marks
-  - type: _section_video
+  - type: _section_image
     size: fit
-    video: /assets/uploads/youtube-slides-02.gif
+    image: /assets/uploads/youtube-slides-02.gif
     meaningful: Brand mark animation
     desc: Brand mark animation
   - type: _section_image
