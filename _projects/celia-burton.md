@@ -12,6 +12,11 @@ services:
   - Bespoke Typography
 year: 2019
 projectBuilder:
+  - type: _section_text
+    size: two
+    meaningful: Text block
+    textOne: gsdJHSDHJADGDAIEGAGUAIEEABF
+    textTwo: gsdJHSDHJADGDAIEGAGUAIEEABF
   - type: _section_image
     size: fill
     image: /assets/uploads/celiaburton-page-layout-02.png
