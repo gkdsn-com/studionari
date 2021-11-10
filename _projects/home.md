@@ -1,7 +1,7 @@
 ---
 layout: project
 footer: project
-title: Home
+title: HOME
 featuredImage: /assets/uploads/cover-2.jpg
 desc: Where the Heart is - A HOME from home for BIPOC creatives in London
 client: HOME
