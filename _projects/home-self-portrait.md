@@ -1,9 +1,9 @@
 ---
 layout: project
 footer: project
-title: HOME Self Portrait
+title: "HOME "
 featuredImage: /assets/uploads/homecover.jpg
-desc: need to add
+desc: Self Portrait
 client: HOME
 sectors:
   - Art
