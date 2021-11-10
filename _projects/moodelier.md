@@ -3,7 +3,7 @@ layout: project
 footer: project
 title: Moodelier
 featuredImage: /assets/uploads/cover56789.jpg
-desc: Set your mood
+desc: Setting the Mood -  Forming an identity for a first of its kind
 client: Moodelier
 sectors:
   - Design
@@ -15,6 +15,14 @@ services:
   - Website
 year: 2019
 projectBuilder:
+  - type: _section_text
+    size: one
+    meaningful: text block 1
+    textOne: "## **We collaborated with Moodelier, a new San Francisco based
+      experiential design company helping brands elevate their visuals across
+      both the physical and digital world. As a market first, Moodelier sells a
+      range of immersive pieces as well as offers an accompanying set of
+      courses, which guide their community to utilise their creative skills.**"
   - type: _section_image
     size: fill
     image: /assets/uploads/project_pages_all-01.jpg
@@ -30,6 +38,18 @@ projectBuilder:
     image: /assets/uploads/project_pages_all-04.jpg
     meaningful: Tote and brand imagery
     desc: Tote and brand imagery
+  - type: _section_text
+    size: one
+    meaningful: text block 2
+    textOne: "## As a full top-to-bottom branding project, our visual concept was
+      derived from the brand strategy and tone of voice, which set the core
+      pillars of the identity. These pillars helped form two visual focal
+      points; the first identifying Moodelier as the guide for their customers,
+      helping them unleash their inner creative flair. This was reflected in the
+      Logotype and Marque, which embody a guiding gesture with the M’s reaching
+      flourish. The brand language and color palette draw on the second focal
+      point; which identifies Moodelier as a vibrant immersive world, one can
+      explore and get lost within."
   - type: _section_image
     size: fill
     image: /assets/uploads/project_pages_all-05.jpg
