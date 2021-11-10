@@ -3,7 +3,8 @@ layout: project
 footer: project
 title: Drest
 featuredImage: /assets/uploads/cover5.jpg
-desc: Get Drest
+desc: Get Drest - Setting the standard for the world’s first luxury convergence
+  platform
 client: Drest
 sectors:
   - Fashion
@@ -12,6 +13,14 @@ services:
   - Visual Identity
 year: 2019
 projectBuilder:
+  - type: _section_text
+    size: one
+    meaningful: text block 1
+    textOne: "## **We collaborated with, Drest; a pioneering fashion gaming brand
+      created and founded by former editor-in-chief of Porter and NET-A-PORTER,
+      Lucy Yeomans. They asked us to set a visual identity system for the
+      world’s first luxury convergence platform, offering a combination of
+      gamification, shopping and entertainment to their users.**"
   - type: _section_video
     size: fill
     video: /assets/uploads/ezgif.com-gif-to-mp4-2.mp4
@@ -22,6 +31,14 @@ projectBuilder:
     image: /assets/uploads/drest_nari_01-02.jpg
     meaningful: Out of home
     desc: Out of home
+  - type: _section_text
+    size: one
+    meaningful: text block 2
+    textOne: "## **Our concept, ‘*Get Drest*’, aimed to create a fashion-orientated
+      core identity that included moments of *‘incompletion’.* This provided the
+      subtle semiotic of the game ‘*getting drest’*, acting as a visual call to
+      action for the user to play the game and be immersed in a ‘Drest fashion
+      world’.**"
   - type: _section_image
     size: fit
     image: /assets/uploads/drest_nari_01-03.jpg
