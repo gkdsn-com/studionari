@@ -3,7 +3,7 @@ layout: project
 footer: project
 title: "Celebrating Joy "
 featuredImage: /assets/uploads/cover1233jpg.jpg
-desc: Notion of Joy
+desc: Celebrating Joy - A street exhibition from the founders of HOME
 client: HOME
 sectors:
   - Art
