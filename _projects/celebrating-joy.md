@@ -1,7 +1,7 @@
 ---
 layout: project
 footer: project
-title: HOME
+title: HOME Celebrating Joy
 featuredImage: /assets/uploads/cover1233jpg.jpg
 desc: Celebrating Joy - A street exhibition from the founders of HOME
 client: HOME
