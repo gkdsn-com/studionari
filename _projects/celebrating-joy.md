@@ -1,7 +1,7 @@
 ---
 layout: project
 footer: project
-title: "Celebrating Joy "
+title: HOME
 featuredImage: /assets/uploads/cover1233jpg.jpg
 desc: Celebrating Joy - A street exhibition from the founders of HOME
 client: HOME
@@ -28,13 +28,13 @@ projectBuilder:
     desc: Celebrating Joy bespoke lock up
   - type: _section_text
     size: one
-    textOne: "## **Our rationale for Celebrating Joy was to simply channel the
-      feeling of Joy through type and colour, yet ensure the visual direction
-      did not detract from the art being showcased - moreover ‘*celebrate’* it.
-      Our concept *‘Celebration*’ maintained the image as the focal point of the
+    textOne: "## Our rationale for Celebrating Joy was to simply channel the feeling
+      of Joy through type and colour, yet ensure the visual direction did not
+      detract from the art being showcased - moreover ‘*celebrate’* it. Our
+      concept *‘Celebration*’ maintained the image as the focal point of the
       exhibition, taking tones from the piece to use as the palette, with the
       bespoke campaign typeface acting as the end-card to each set of duplicated
-      images.**"
+      images."
     meaningful: Text Block 2 - Home Celebrating Joy
   - type: _section_image
     size: fill
