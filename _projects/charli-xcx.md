@@ -3,7 +3,7 @@ layout: project
 footer: project
 title: Charli XCX
 featuredImage: /assets/uploads/cover.jpg
-desc: needs to be added
+desc: How Im Feeling Now
 client: Charli XCX
 sectors:
   - Editorial
@@ -14,6 +14,16 @@ services:
   - Editorial Design
 year: 2020
 projectBuilder:
+  - type: _section_text
+    size: one
+    meaningful: Text block
+    textOne: >-
+      ## We partnered with cult hero of future-pop, Charli XCX, to create a
+      limited edition book that documented the creation of her *“How Im Feeling
+      Now”* album over the first lockdown period. 
+
+
+      ## Our concept was for the book to be created to feel like a personal journal, containing a variety of editorial flexes conveying moments and feelings throughout her journey; including art from fans, handwritten lyrics from Charli and photography that captured the recording behind the scenes.
   - type: _section_image
     size: fill
     meaningful: Front and back cover
