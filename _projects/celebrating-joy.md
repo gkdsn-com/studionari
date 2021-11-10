@@ -12,11 +12,30 @@ services:
   - Bespoke Typography
 year: 2021
 projectBuilder:
+  - type: _section_text
+    size: one
+    textOne: "### We partnered with *HOME* founder, Ronan Mckenzie, who curated a UK
+      street exhibition exploring the notions of joy. We created the bespoke
+      typography and visual language for the exhibition, which showcased the
+      works from the likes of Christina Ebenezer, Theo Gould, and Justin Akomiah
+      in various cities across the country."
+    meaningful: Celebrating Joy Body Block 1
+    textTwo: ""
   - type: _section_image
     size: fill
     image: /assets/uploads/home_celebratingjoy_nari_21-01.jpg
     meaningful: Celebrating Joy bespoke lock up
     desc: Celebrating Joy bespoke lock up
+  - type: _section_text
+    size: one
+    textOne: "### **Our rationale for Celebrating Joy was to simply channel the
+      feeling of Joy through type and colour, yet ensure the visual direction
+      did not detract from the art being showcased - moreover ‘*celebrate’* it.
+      Our concept *‘Celebration*’ maintained the image as the focal point of the
+      exhibition, taking tones from the piece to use as the palette, with the
+      bespoke campaign typeface acting as the end-card to each set of duplicated
+      images.**"
+    meaningful: Text Block 2 - Home Celebrating Joy
   - type: _section_image
     size: fill
     image: /assets/uploads/home_celebratingjoy_nari_21-02.jpg
