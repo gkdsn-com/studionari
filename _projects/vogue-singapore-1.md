@@ -3,7 +3,7 @@ layout: project
 footer: project
 title: Vogue Singapore
 featuredImage: /assets/uploads/cover_image.jpg
-desc: Strange is Beautiful
+desc: Strange is Beautiful - Redefining conventions of beauty through type
 client: Vogue
 sectors:
   - Fashion
@@ -14,6 +14,15 @@ services:
   - Typeface
 year: 2020
 projectBuilder:
+  - type: _section_text
+    size: one
+    textOne: "## **We partnered with Vogue Singapore to create a bespoke typeface to
+      be used across all print and digital editions from 2020-2022. The brief
+      was to create something iconic and standalone, breaking the mold of a
+      standardised ‘beauty’ editorial aesthetic. Our response sought to
+      challenge the viewer’s perception of beauty through the creation of a
+      typeface that felt flawlessly flawed - odd, yet captivating.**"
+    meaningful: text block 1
   - type: _section_image
     size: fit
     image: /assets/uploads/vogue_nari-01.jpg
@@ -29,6 +38,14 @@ projectBuilder:
     image: /assets/uploads/vogue_nari-05.jpg
     desc: Vanda in print
     meaningful: "3"
+  - type: _section_text
+    size: one
+    meaningful: text block 2
+    textOne: "## **The typeface was inspired by the national flower of Singapore,
+      the Vanda orchid, with each character drawn to hold a bud-like form on its
+      crossbars and tails. This was then paired with a calligraphic style that
+      referenced the ancient sanskrit seen on the Singapore stone, one of
+      Singapore’s oldest typographic artefacts.**"
   - type: _section_image
     size: fit
     image: /assets/uploads/vogue_nari-06.jpg
