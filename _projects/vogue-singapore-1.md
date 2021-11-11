@@ -16,8 +16,8 @@ year: 2020
 projectBuilder:
   - type: _section_text
     size: one
-    textOne: "## **We partnered with Vogue Singapore to create a bespoke typeface to
-      be used across all print and digital editions from 2020-2022. The brief
+    textOne: "### **We partnered with Vogue Singapore to create a bespoke typeface
+      to be used across all print and digital editions from 2020-2022. The brief
       was to create something iconic and standalone, breaking the mold of a
       standardised ‘beauty’ editorial aesthetic. Our response sought to
       challenge the viewer’s perception of beauty through the creation of a
