@@ -3,7 +3,7 @@ layout: project
 footer: project
 title: Positiva
 featuredImage: /assets/uploads/positivacover2.jpg
-desc: needs to be added
+desc: "Music as Medicine - A refresh for a dance music veteran "
 client: Universal Music Group
 sectors:
   - Music
@@ -13,6 +13,15 @@ services:
   - "Merchandise "
 year: 2020
 projectBuilder:
+  - type: _section_text
+    size: one
+    meaningful: text block 1
+    textOne: "## **As one of the cornerstones of the UK dance scene, Positiva needed
+      an identity that allowed them to exist in more worlds than the
+      center-sticker of a vinyl record, whilst retaining the essence of their
+      iconic brand. We sought to undergo a refresh that re-aligned their core
+      values to a wide visual architecture, allowing them to connect with both
+      long-lasting fans and new ones across all visual touchpoints.**"
   - type: _section_video
     size: fill
     video: /assets/uploads/m-positiva-emitter-1.m4v
@@ -28,6 +37,16 @@ projectBuilder:
     video: /assets/uploads/m-positiva-2d-2-1.m4v
     meaningful: Logotype animation
     desc: Logotype animation
+  - type: _section_text
+    size: one
+    meaningful: text block 2
+    textOne: "## **Our concept, *“Music as Medicine”* took heed from the idea of
+      music having healing properties, whilst riffing off Positiva’s famous
+      pharma-esque ‘plus’ symbol. This was reflected in the redrawn minimalistic
+      and medicinal take on their original logotype, including the ‘plus’
+      alongside as a visual motif, rather than the previous container shape. The
+      visual language also took on a medicinal aesthetic, with paired back
+      typography and a refreshed more vibrant take on their hallmark blue.**"
   - type: _section_image
     size: fill
     image: /assets/uploads/positiva-page-layout-02.jpg
