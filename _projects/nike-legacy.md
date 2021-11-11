@@ -1,9 +1,10 @@
 ---
 layout: project
 footer: project
-title: Nike Legacy
+title: "Nike: Legacy Project"
 featuredImage: /assets/uploads/cover33.jpg
-desc: Self Care = Community Care
+desc: Self Care is Community Care -  Championing BIPOC female role models in LA
+  for Nike
 client: Nike
 sectors:
   - Contemporary Culture
@@ -13,6 +14,14 @@ services:
   - Campaign
 year: 2021
 projectBuilder:
+  - type: _section_text
+    size: one
+    meaningful: text block 1
+    textOne: "## We were asked to create an identity for Legacy Project, Nike LA’s
+      new community-focused program, run by influential female BIPOC leaders.
+      The program was set up to encourage the youth of LA to lead healthier and
+      more mindful lifestyles and create a tight-knit community of shared values
+      and principles."
   - type: _section_image
     size: fill
     image: /assets/uploads/nike_legacy_nari-03.jpg
@@ -24,6 +33,19 @@ projectBuilder:
     video: /assets/uploads/01.mp4
     desc: Legacy trailer
     sound: true
+  - type: _section_text
+    size: one
+    meaningful: text block 2
+    textOne: "## **We wanted to build an identity that transmitted strength and
+      togetherness from it’s core, whilst retaining a contemporary and
+      aspirational essence in order for the brand to sit seamlessly within
+      Nike’s portfolio. Our chosen concept was *“Fortitude”* which embodied the
+      spirit of those within a tight-knit community. Semiotics of the concept
+      were communicated through interlocking and supporting characters,
+      constructed to feel as though they were holding each other up i.e. without
+      one character the lock-up would not be able to hold its form. This
+      subliminally championed the unbreakable link between leaders and their
+      community.**"
   - type: _section_image
     size: fit
     image: /assets/uploads/nike_legacy_nari-06.jpg
