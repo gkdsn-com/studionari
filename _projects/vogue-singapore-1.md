@@ -41,11 +41,11 @@ projectBuilder:
   - type: _section_text
     size: one
     meaningful: text block 2
-    textOne: "## **The typeface was inspired by the national flower of Singapore,
-      the Vanda orchid, with each character drawn to hold a bud-like form on its
+    textOne: "## The typeface was inspired by the national flower of Singapore, the
+      Vanda orchid, with each character drawn to hold a bud-like form on its
       crossbars and tails. This was then paired with a calligraphic style that
       referenced the ancient sanskrit seen on the Singapore stone, one of
-      Singapore’s oldest typographic artefacts.**"
+      Singapore’s oldest typographic artefacts."
   - type: _section_image
     size: fit
     image: /assets/uploads/vogue_nari-06.jpg
