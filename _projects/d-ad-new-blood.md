@@ -18,12 +18,12 @@ projectBuilder:
   - type: _section_text
     size: one
     meaningful: text block 1
-    textOne: "## **As one of the creative industries most esteemed institutions for
+    textOne: "## As one of the creative industries most esteemed institutions for
       championing new talent, 2021’s pandemic provided an uncharted challenge
       for D&AD’s New Blood Awards. We saught to create a campaign that
       galvanised the creative spirit through these uncertain times, reminding
       the viewer that one small action can catalyse a multitude of magnificent
-      outcomes - *Your Butterfly Effect*.**"
+      outcomes - *Your Butterfly Effect*."
   - type: _section_image
     size: fit
     meaningful: Bespoke New Blood type
@@ -42,13 +42,13 @@ projectBuilder:
   - type: _section_text
     size: one
     meaningful: text block 2
-    textOne: "## **We thought about the decision process of entering an awards
+    textOne: "## We thought about the decision process of entering an awards
       ceremony for a young creative and how the current global climate might
       have increased inhibitions to do so. To counter this, we wanted to
       visualise how something small and unassuming could develop into something
       magnificent and multifaceted - a non-linear journey with unexpected
       outcomes. This provided an analogy of the step to enter the awards and the
-      creatives journey thereafter.**"
+      creatives journey thereafter."
   - type: _section_video
     size: fit
     sound: true
