@@ -12,22 +12,15 @@ aboutBuilder:
       design and allowing us to practice a humanistic and artistic approach.
   - title: Approach
     body: >-
-      ##### Art x Science. 
+      Art x Science - We combine artistic practice with branding, strategic and
+      psychological theory. This allows us to ensure any outcome is grounded in
+      truth, yet transmits those all-important humanistic and artistic values. 
 
 
-      We combine artistic practice with branding, strategic and psychological theory. This allows us to ensure any outcome is grounded in truth, yet transmits those all-important humanistic and artistic values. 
+      Our extended family - Something we pride ourself on is building bespoke teams for every project from our growing network of multi-disciplinary creatives. This ensures we have the right people on the right job and teams comprising of the most talented creatives in the industry
 
 
-      ##### Our extended family
-
-
-      Something we pride ourself on is building bespoke teams for every project from our growing network of multi-diciplinary creatives. This ensures we have the right people on the right job and teams comprising of the most talented creatives in the industry
-
-
-      **The best ideas come from conversations**
-
-
-      Whether it be in the form of workshops with our clients or internal sprints within our team, we try and structure our projects in a way that we can have as many of these moments as possible.
+      The best ideas come from conversations **\-** Whether it be in the form of workshops with our clients or internal sprints within our team, we try and structure our projects in a way that we can have as many of these moments as possible.
   - title: Clients
     body: |-
       * Client name
