@@ -36,7 +36,7 @@ projectBuilder:
   - type: _section_text
     size: one
     meaningful: text block 2
-    textOne: "## **We wanted to build an identity that transmitted strength and
+    textOne: "## We wanted to build an identity that transmitted strength and
       togetherness from it’s core, whilst retaining a contemporary and
       aspirational essence in order for the brand to sit seamlessly within
       Nike’s portfolio. Our chosen concept was *“Fortitude”* which embodied the
@@ -45,7 +45,7 @@ projectBuilder:
       constructed to feel as though they were holding each other up i.e. without
       one character the lock-up would not be able to hold its form. This
       subliminally championed the unbreakable link between leaders and their
-      community.**"
+      community."
   - type: _section_image
     size: fit
     image: /assets/uploads/nike_legacy_nari-06.jpg
