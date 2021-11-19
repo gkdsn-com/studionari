@@ -3,7 +3,7 @@ layout: project
 footer: project
 title: Selfridges & Co
 featuredImage: /assets/uploads/cover765.jpg
-desc: "needs to be added "
+desc: Through Thick and Thin - A bespoke typeface to transmit togetherness
 client: Selfridges & Co
 sectors:
   - Fashion
@@ -11,6 +11,16 @@ services:
   - Bespoke Typography
 year: 2019
 projectBuilder:
+  - type: _section_text
+    size: one
+    meaningful: Text block 1
+    textOne: "## In the midst of the pandemic, we were asked by Selfridges & Co to
+      create a bespoke typeface that encapsulated the word “together” - a
+      much-needed virtue in and amongst uncertain times. We approached this by
+      giving each character an individual stylistic approach whilst originating
+      from the same structure. Our intention with the final outcome was to
+      reference the beauty of diversity yet our inherent togetherness -
+      regardless of appearance."
   - type: _section_image
     size: fill
     image: /assets/uploads/selfridges_socials_nari.png
