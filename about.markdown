@@ -23,18 +23,21 @@ aboutBuilder:
       The best ideas come from conversations **\-** Whether it be in the form of workshops with our clients or internal sprints within our team, we try and structure our projects in a way that we can have as many of these moments as possible.
   - title: Clients
     body: |-
-      * Client name
-      * [Client name that's a link](https://google.com)
-      * Client name
-      * Client name
-      * Client name
-      * Client name
-      * Client name
-      * Client name
-      * Client nameClient name
-      * Client name
-      * Client nameClient name
-      * Client name
+      * Nike
+      * Apple
+      * YouTube
+      * Google
+      * Vogue
+      * V&A
+      * Selfridges & Co
+      * D&AD
+      * Somerset House
+      * Barbican
+      * Levi's
+      * Reebok
+      * Amore Pacific
+      * Mob
+      * Boiler Room
   - title: Jobs
     body: >-
       Metus egestas turpis sapien a, nulla metus. Nec neque, pharetra, sit
