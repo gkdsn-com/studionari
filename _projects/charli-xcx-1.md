@@ -17,11 +17,11 @@ projectBuilder:
   - type: _section_text
     size: one
     meaningful: Text block 1
-    textOne: '## **Our second collaboration with future-pop force, Charli XCX, was
-      to create a limited edition run of merchandise apparel to be released
+    textOne: '## Our second collaboration with future-pop force, Charli XCX, was to
+      create a limited edition run of merchandise apparel to be released
       alongside the launch of her single, *“Good Ones"*. Known for not being shy
       of the occasional cliche, our concept was to extrapolate this brash energy
-      across sweaters, jumpers, scarfs, totes, hats and tees.**'
+      across sweaters, jumpers, scarfs, totes, hats and tees.'
   - type: _section_image
     size: fill
     image: /assets/uploads/charliexcxmerch-page-layout-01.jpg
