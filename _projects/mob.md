@@ -3,7 +3,7 @@ layout: project
 footer: project
 title: Mob
 featuredImage: /assets/uploads/cover54.jpg
-desc: One Mob - An identity overhaul for food media giant
+desc: One Mob - An identity for a brand bringing food and people together
 client: Mob
 sectors:
   - Food
@@ -18,13 +18,13 @@ projectBuilder:
   - type: _section_text
     size: one
     meaningful: text block 1
-    textOne: "## **As one of the fastest growing food media platforms in the UK, Mob
+    textOne: "## As one of the fastest growing food media platforms in the UK, Mob
       Kitchen had outgrown their inaugural identity and felt disconnected from
       their core purpose - educating the youth on *food they’ll actually cook*.
       From brand strategy and tone of voice, to visual identity and motion, we
       saw an opportunity to reinforce the connection with their audience and
       create a visual architecture that emboldens young people to get creative
-      in the kitchen.**"
+      in the kitchen."
   - type: _section_video
     size: fill
     video: /assets/uploads/m-logo-in-1_1.mp4
@@ -38,12 +38,12 @@ projectBuilder:
   - type: _section_text
     size: one
     meaningful: text block 2
-    textOne: "## **Before addressing the visual identity, Mob needed to resync with
-      a strategy that reflected what was really important to them; people, food,
+    textOne: "## Before addressing the visual identity, Mob needed to resync with a
+      strategy that reflected what was really important to them; people, food,
       and the moments in which these worlds intertwine. Working closely with
       founder Ben Lebus, we uncovered and redefined their mission, vision,
       values, and voice - setting the foundations for what was to become a major
-      creative overhaul.**"
+      creative overhaul."
   - type: _section_video
     size: fit
     sound: true
@@ -63,13 +63,12 @@ projectBuilder:
   - type: _section_text
     size: one
     meaningful: text block three
-    textOne: "## **It was vital for us that Mob’s new identity not only resonated
-      with its current and future audience, but exuded the essence which makes
-      them so unique - that special ‘Mobness’. Akin to a dinner party with
-      friends, our concept was based on the vibrancy, mess and energy created
-      when like minded people + food come together. The one with sauce on their
-      shirt, the one who always adds ketchup, the one that gets deep - *one
-      Mob.***"
+    textOne: "## It was vital for us that Mob’s new identity not only resonated with
+      its current and future audience, but exuded the essence which makes them
+      so unique - that special ‘Mobness’. Akin to a dinner party with friends,
+      our concept was based on the vibrancy, mess and energy created when like
+      minded people + food come together. The one with sauce on their shirt, the
+      one who always adds ketchup, the one that gets deep - *one Mob.*"
   - type: _section_image
     size: fill
     image: /assets/uploads/mob_vi_nari_21-05.jpg
