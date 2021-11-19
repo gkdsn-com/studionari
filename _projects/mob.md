@@ -68,7 +68,7 @@ projectBuilder:
       so unique - that special ‘Mobness’. Akin to a dinner party with friends,
       our concept was based on the vibrancy, mess and energy created when like
       minded people + food come together. The one with sauce on their shirt, the
-      one who always adds ketchup, the one that gets deep - *one Mob.*"
+      one who always adds ketchup, the one that gets political - *one Mob.*"
   - type: _section_image
     size: fill
     image: /assets/uploads/mob_vi_nari_21-05.jpg
