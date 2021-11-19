@@ -18,11 +18,11 @@ projectBuilder:
   - type: _section_text
     size: one
     meaningful: text block 1
-    textOne: "## **We collaborated with Moodelier, a new San Francisco based
+    textOne: "## We collaborated with Moodelier, a new San Francisco based
       experiential design company helping brands elevate their visuals across
       both the physical and digital world. As a market first, Moodelier sells a
       range of immersive pieces as well as offers an accompanying set of
-      courses, which guide their community to utilise their creative skills.**"
+      courses, which guide their community to utilise their creative skills."
   - type: _section_image
     size: fill
     image: /assets/uploads/project_pages_all-01.jpg
