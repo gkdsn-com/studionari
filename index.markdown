@@ -5,13 +5,12 @@ title: Homepage
 order:
   - project: Mob
   - project: "Nike: Legacy Project"
-  - project: "D&AD: New Blood"
   - project: Charli XCX
+  - project: "D&AD: New Blood"
   - project: Bebe Vio Academy
   - project: HOME
   - project: Vogue Singapore
   - project: Drest
-  - project: Charli XCX
   - project: Positiva
   - project: HOME Celebrating Joy
   - project: Moodelier
