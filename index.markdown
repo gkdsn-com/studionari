@@ -11,9 +11,9 @@ order:
   - project: HOME
   - project: Vogue Singapore
   - project: Modular by Mensah
-  - project: Drest
-  - project: Positiva
   - project: HOME Celebrating Joy
+  - project: Positiva
+  - project: Drest
   - project: Charli XCX
   - project: Moodelier
   - project: Threads of Fate
