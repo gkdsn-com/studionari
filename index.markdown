@@ -9,9 +9,9 @@ order:
   - project: "Good Ones "
   - project: Bebe Vio Academy
   - project: HOME
+  - project: Charli XCX
   - project: Drest
   - project: Vogue Singapore
-  - project: Charli XCX
   - project: Positiva
   - project: HOME Celebrating Joy
   - project: Modular by Mensah
