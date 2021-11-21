@@ -75,12 +75,12 @@ projectBuilder:
     meaningful: In app icons
     desc: In app icons
   - type: _section_image
-    size: fill
+    size: fit
     image: /assets/uploads/drest_nari_01-04.jpg
     meaningful: App advert
     desc: App advert
   - type: _section_image
-    size: fill
+    size: fit
     image: /assets/uploads/drest_nari_01-06.jpg
     meaningful: In app
     desc: In app
