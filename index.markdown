@@ -8,9 +8,9 @@ order:
   - project: "D&AD: New Blood"
   - project: Bebe Vio Academy
   - project: Vogue Singapore
-  - project: HOME
   - project: Drest
   - project: Charli XCX
+  - project: HOME
   - project: Positiva
   - project: HOME Celebrating Joy
   - project: "Good Ones "
