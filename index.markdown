@@ -5,7 +5,7 @@ title: Homepage
 order:
   - project: Mob
   - project: "Nike: Legacy Project"
-  - project: Charli XCX
+  - project: Good Ones
   - project: "D&AD: New Blood"
   - project: Bebe Vio Academy
   - project: HOME
@@ -13,6 +13,7 @@ order:
   - project: Drest
   - project: Positiva
   - project: HOME Celebrating Joy
+  - project: Charli XCX
   - project: Moodelier
   - project: Modular by Mensah
   - project: Threads of Fate
