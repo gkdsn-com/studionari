@@ -4,22 +4,22 @@ footer: index
 title: Homepage
 order:
   - project: Mob
-  - project: Nike Legacy
+  - project: "Nike: Legacy Project"
   - project: Vogue Singapore
-  - project: D&AD New Blood
+  - project: "D&AD: New Blood"
   - project: Positiva
   - project: Modular by Mensah
-  - project: Home
+  - project: "HOME "
   - project: Charli XCX Good Ones
-  - project: "Celebrating Joy "
+  - project: HOME Celebrating Joy
   - project: Threads of Fate
   - project: Moodelier
-  - project: HOME Self Portrait
+  - project: HOME
   - project: Drest
-  - project: Charli XCX
+  - project: Bebe Vio Academy
   - project: Celia Burton
   - project: Selfridges & Co
-  - project: Bebe Vio Nike Acadmey
+  - project: Bebe Vio Academy
 intro:
   toggle: true
   text: Click to enter
