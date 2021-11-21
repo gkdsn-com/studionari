@@ -2,7 +2,7 @@
 layout: project
 footer: project
 title: Selfridges & Co
-featuredImage: /assets/uploads/cover765.jpg
+featuredImage: /assets/uploads/cover7365.jpg
 desc: Through Thick and Thin - A bespoke typeface to transmit togetherness
 client: Selfridges & Co
 sectors:
