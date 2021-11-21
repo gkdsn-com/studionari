@@ -3,7 +3,7 @@ layout: project
 footer: project
 title: "HOME "
 featuredImage: /assets/uploads/homecover.jpg
-desc: Self Portrait
+desc: A Catalogue for the Self Portrait exhibition
 client: HOME
 sectors:
   - Art
