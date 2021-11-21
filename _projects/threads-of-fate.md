@@ -3,7 +3,7 @@ layout: project
 footer: project
 title: Threads of Fate
 featuredImage: /assets/uploads/cover4.jpg
-desc: needs to be added
+desc: Lingua Ignota - reinventing an ancient mystical script
 client: Threads of Fate
 sectors:
   - Design
