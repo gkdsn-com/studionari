@@ -25,21 +25,21 @@ intro:
   text: Click to enter
   content:
     - type: introvideo
-      video: /assets/uploads/butterfly01_30s_intro_centred-perc-music-1-.mp4
+      video: /assets/uploads/20052021_butterfly_04_stage_03_widescreen-1-.mp4
       toggle: true
     - type: introimage
-      image: /assets/uploads/vogue_nari-14.jpg
+      image: /assets/uploads/homepage-03.jpg
       desc: Vogue
       toggle: true
     - type: introimage
-      image: /assets/uploads/project_placeholder1.jpg
+      image: /assets/uploads/homepage-01.jpg
       desc: Charli XCX
       toggle: true
-    - type: introvideo
-      video: /assets/uploads/m-logo-in-1_1.mp4
+    - type: introimage
+      image: /assets/uploads/homepage-02.jpg
       toggle: true
     - type: introimage
-      image: /assets/uploads/nike_legacy_nari-04.jpg
+      image: /assets/uploads/bebe_vio_passback_nike_nari-05.jpg
       toggle: true
 text:
   grid: Grid View
