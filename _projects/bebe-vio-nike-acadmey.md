@@ -2,7 +2,7 @@
 layout: project
 footer: project
 title: Bebe Vio Academy
-featuredImage: /assets/uploads/bebe_cover_nari.jpg
+featuredImage: /assets/uploads/cover765.jpg
 desc: One Team - An identity to incite change
 client: Nike
 sectors:
