@@ -39,7 +39,7 @@ intro:
       video: /assets/uploads/m-logo-in-1_1.mp4
       toggle: true
     - type: introimage
-      image: /assets/uploads/nike_legacy_nari-02.jpg
+      image: /assets/uploads/nike_legacy_nari-04.jpg
       toggle: true
 text:
   grid: Grid View
