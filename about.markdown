@@ -60,7 +60,7 @@ aboutBuilder:
       line "Senior Designer Position".
 
 
-      As part of the studio's offering we build bespoke teams tailored to the client and project, this means we are constantly looking for new partners to collaborate with. If you think your work, enthusiasm, and interest align with what we do at NARI please send your CV and Portfolio to [work@studionari.co.uk](mailto:work@studionari.co.uk), with the subject link "Freelance Position - Your title". We are looking for the following freelance positions;
+      As part of the studio's offering we build bespoke teams tailored to the client and project, this means we are constantly looking for new partners to collaborate with. If you think your work, enthusiasm, and interest align with what we do at NARI please send your CV and Portfolio to [work@studionari.co.uk](mailto:work@studionari.co.uk), with the subject line "Freelance Position - Your title". We are looking for the following freelance positions;
 
 
       Animator\
@@ -85,10 +85,11 @@ aboutBuilder:
       We are always looking for enthusiastic graduates to come and work with the
       team. If you think your work would be a good fit for the studio please
       email a CV and portfolio
-      to [work@studionari.co.uk](mailto:work@studionari.co.uk). 
+      to [work@studionari.co.uk](mailto:work@studionari.co.uk), with the subject
+      line "Internships".
 
 
-      ![This is an image](/assets/uploads/cover7365.jpg)
+      ![This is an image]()
   - title: Publications & Press
     body: |-
       dpi Magazine : 2018, 2019 (2)Taiwan
