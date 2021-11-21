@@ -2,7 +2,7 @@
 layout: project
 footer: project
 title: Positiva
-featuredImage: /assets/uploads/positivacover2.jpg
+featuredImage: /assets/uploads/positivacover3.jpg
 desc: "Music as Medicine - A refresh for a dance music veteran "
 client: Universal Music Group
 sectors:
