@@ -23,110 +23,171 @@ aboutBuilder:
       The best ideas come from conversations **\-** Whether it be in the form of workshops with our clients or internal sprints within our team, we try and structure our projects in a way that we can have as many of these moments as possible.
   - title: Clients
     body: |-
-      * Nike
+      * Adidas
+      * AmorePacific
       * Apple
-      * YouTube
-      * Google
-      * Vogue
-      * V&A
-      * Selfridges & Co
-      * D&AD
-      * Somerset House
+      * AppleMusic
       * Barbican
-      * Levi's
-      * Reebok
-      * Amore Pacific
-      * Mob
       * Boiler Room
+      * Champion
+      * Charli XCX
+      * Celia Burton
+      * D&AD
+      * Diesel
+      * Drest
+      * Google Creative Lab
+      * HOME
+      * Judith Lieber
+      * Levi's
+      * Mob
+      * Modular by Mensah
+      * Moodelier
+      * Nike (Global, US, Asia)
+      * Reebok
+      * Selfridges & Co
+      * Somerset House
+      * Sony Music
+      * SKP Beijing
+      * Threads of Fate
+      * Universal Music Group
+      * V&A
+      * Vogue (Condé Nast)
   - title: Jobs
     body: >-
-      Metus egestas turpis sapien a, nulla metus. Nec neque, pharetra, sit
-      blandit elementum cras. Orci sed justo risus quis quam sed molestie.
-      Libero sapien ornare pulvinar eget feugiat quis viverra in enim. Faucibus
-      amet bibendum ornare in. Mi quam mattis feugiat suspendisse venenatis,
-      nisi etiam nulla tincidunt.
+      We are currently looking for full-time Senior Designers to join the team
+      remotely in our London studio. Please send your CV & Portfolio to
+      [work@studionari.co.uk](mailto:work@studionari.co.uk), with the subject
+      line "Senior Designer Position".
 
 
-      Feugiat faucibus et faucibus tortor fringilla ac mi. Eget nunc nunc, nunc, pulvinar lorem eget egestas. Amet, urna amet interdum eu, sed feugiat interdum. Donec nisl enim, in ultrices amet. Dictum dignissim pellentesque tortor, nibh ultrices. Elit donec ac nam sed egestas. Scelerisque nibh eu, ac faucibus sit purus pretium. Sed nibh quisque magna sollicitudin luctus. Sodales nisi, nunc arcu, ultrices. Sodales id gravida tristique netus mattis nascetur. Sed maecenas fringilla ut vulputate tortor. Mauris fermentum morbi sit dignissim in suspendisse molestie. Et posuere bibendum lacus, molestie sed.
+      As part of the studio's offering we build bespoke teams tailored to the client and project, this means we are constantly looking for new partners to collaborate with. If you think your work, enthusiasm, and interest align with what we do at NARI please send your CV and Portfolio to [work@studionari.co.uk](mailto:work@studionari.co.uk), with the subject link "Freelance Position - Your title". We are looking for the following freelance positions;
 
 
-      Auctor nec cras molestie arcu mi et id sit ante. Adipiscing malesuada massa facilisi eros. Eu ut ut fermentum erat imperdiet nulla mauris consequat lorem. Platea risus tortor ultricies nunc. Eleifend fusce elementum nibh auctor. Cras lacus ipsum, orci hendrerit tellus. Mi morbi arcu suscipit elementum mauris mauris. Etiam egestas facilisis et eu tincidunt. Nisl tempor elit dui lectus pellentesque.
+      Animator\
+
+      Designer\
+
+      Typographer\
+
+      Project Manager\
+
+      Strategist\
+
+      Brand Designer\
+
+      CGI Artists\
+
+      3D Designers\
+
+      Packaging Designers
   - title: Internships
     body: >-
-      Metus egestas turpis sapien a, nulla metus. Nec neque, pharetra, sit
-      blandit elementum cras. Orci sed justo risus quis quam sed molestie.
-      Libero sapien ornare pulvinar eget feugiat quis viverra in enim. Faucibus
-      amet bibendum ornare in. Mi quam mattis feugiat suspendisse venenatis,
-      nisi etiam nulla tincidunt.
+      We are always looking for enthusiastic graduates to come and work with the
+      team. If you think your work would be a good fit for the studio please
+      email a CV and portfolio
+      to [work@studionari.co.uk](mailto:work@studionari.co.uk). 
 
 
-      ![This is an image](/assets/uploads/news_placeholder.jpg)
+      ![This is an image](/assets/uploads/cover7365.jpg)
+  - title: Publications & Press
+    body: |-
+      dpi Magazine : 2018, 2019 (2)Taiwan
 
+      Brand Culture : 2018, 2019 (2)Switzerland
 
-      Auctor nec cras molestie arcu mi et id sit ante. Adipiscing malesuada massa facilisi eros. Eu ut ut fermentum erat imperdiet nulla mauris consequat lorem. Platea risus tortor ultricies nunc. Eleifend fusce elementum nibh auctor. Cras lacus ipsum, orci hendrerit tellus. Mi morbi arcu suscipit elementum mauris mauris. Etiam egestas facilisis et eu tincidunt. Nisl tempor elit dui lectus pellentesque.
-  - title: Publications
-    body: >-
-      Metus egestas turpis sapien a, nulla metus. Nec neque, pharetra, sit
-      blandit elementum cras. Orci sed justo risus quis quam sed molestie.
-      Libero sapien ornare pulvinar eget feugiat quis viverra in enim. Faucibus
-      amet bibendum ornare in. Mi quam mattis feugiat suspendisse venenatis,
-      nisi etiam nulla tincidunt.
+      Vision:ary : 2018 Hong Kong
 
+      The Dieline : 2017 UK
 
-      Feugiat faucibus et faucibus tortor fringilla ac mi. Eget nunc nunc, nunc, pulvinar lorem eget egestas. Amet, urna amet interdum eu, sed feugiat interdum. Donec nisl enim, in ultrices amet. Dictum dignissim pellentesque tortor, nibh ultrices. Elit donec ac nam sed egestas. Scelerisque nibh eu, ac faucibus sit purus pretium. Sed nibh quisque magna sollicitudin luctus. Sodales nisi, nunc arcu, ultrices. Sodales id gravida tristique netus mattis nascetur. Sed maecenas fringilla ut vulputate tortor. Mauris fermentum morbi sit dignissim in suspendisse molestie. Et posuere bibendum lacus, molestie sed.
+      Sandu Publishing : 2017, 2018 China
 
+      BranD Magazine : 2018, 2019, 2020 (2) China
 
-      Auctor nec cras molestie arcu mi et id sit ante. Adipiscing malesuada massa facilisi eros. Eu ut ut fermentum erat imperdiet nulla mauris consequat lorem. Platea risus tortor ultricies nunc. Eleifend fusce elementum nibh auctor. Cras lacus ipsum, orci hendrerit tellus. Mi morbi arcu suscipit elementum mauris mauris. Etiam egestas facilisis et eu tincidunt. Nisl tempor elit dui lectus pellentesque.
-  - title: Awards
-    body: >-
-      Metus egestas turpis sapien a, nulla metus. Nec neque, pharetra, sit
-      blandit elementum cras. Orci sed justo risus quis quam sed molestie.
-      Libero sapien ornare pulvinar eget feugiat quis viverra in enim. Faucibus
-      amet bibendum ornare in. Mi quam mattis feugiat suspendisse venenatis,
-      nisi etiam nulla tincidunt.
+      It's Nice That, Various : 2017, 2018, 2019, 2020, 2021 (7) London
 
+      Art Power Publications : 2016, 2017 China
 
-      Feugiat faucibus et faucibus tortor fringilla ac mi. Eget nunc nunc, nunc, pulvinar lorem eget egestas. Amet, urna amet interdum eu, sed feugiat interdum. Donec nisl enim, in ultrices amet. Dictum dignissim pellentesque tortor, nibh ultrices. Elit donec ac nam sed egestas. Scelerisque nibh eu, ac faucibus sit purus pretium. Sed nibh quisque magna sollicitudin luctus. Sodales nisi, nunc arcu, ultrices. Sodales id gravida tristique netus mattis nascetur. Sed maecenas fringilla ut vulputate tortor. Mauris fermentum morbi sit dignissim in suspendisse molestie. Et posuere bibendum lacus, molestie sed.
+      C-Heads Magazine : 2017 Austria
 
+      Gestalten, Los Logos 8 : 2017 Germany
 
-      Auctor nec cras molestie arcu mi et id sit ante. Adipiscing malesuada massa facilisi eros. Eu ut ut fermentum erat imperdiet nulla mauris consequat lorem. Platea risus tortor ultricies nunc. Eleifend fusce elementum nibh auctor. Cras lacus ipsum, orci hendrerit tellus. Mi morbi arcu suscipit elementum mauris mauris. Etiam egestas facilisis et eu tincidunt. Nisl tempor elit dui lectus pellentesque.
+      Images Publishing : 2017, 2018 (2) Shanghai
+
+      Computer Arts : 2017, 2018 London
+
+      Counterprint, Packaging : 2018 London
+
+      Vision:ary, Flora & Fauna : 2018 Global
+
+      CBS, See You at the Dance : 2018 
+
+      Showroom Magazine : 2018 Poland
+
+      CRACK : 2018 (2) Bristol, London, Amsterdam, Berlin, Manchester
+
+      Niggli, Not a Muse :  2019 Global
+
+      Computer Arts (3) : 2018, 2019, 2020
+
+      Design Calendar, Women in Design : 2020 Global
+
+      DJ Mag, Modern Rave Art : 2020 Global
+
+      Page Magazine (3) : 2019, 2020, 2021 Germany
+
+      Viction:ar, Concept Stores & Pop-Ups : 2021 Global
+
+      Creative Review, Various (2) : 2020, 2021 London
   - title: Judging
-    body: >-
-      Metus egestas turpis sapien a, nulla metus. Nec neque, pharetra, sit
-      blandit elementum cras. Orci sed justo risus quis quam sed molestie.
-      Libero sapien ornare pulvinar eget feugiat quis viverra in enim. Faucibus
-      amet bibendum ornare in. Mi quam mattis feugiat suspendisse venenatis,
-      nisi etiam nulla tincidunt.
+    body: |-
+      Creative Circle, Gold judge
 
+      D&AD New Blood
 
-      Feugiat faucibus et faucibus tortor fringilla ac mi. Eget nunc nunc, nunc, pulvinar lorem eget egestas. Amet, urna amet interdum eu, sed feugiat interdum. Donec nisl enim, in ultrices amet. Dictum dignissim pellentesque tortor, nibh ultrices. Elit donec ac nam sed egestas. Scelerisque nibh eu, ac faucibus sit purus pretium. Sed nibh quisque magna sollicitudin luctus. Sodales nisi, nunc arcu, ultrices. Sodales id gravida tristique netus mattis nascetur. Sed maecenas fringilla ut vulputate tortor. Mauris fermentum morbi sit dignissim in suspendisse molestie. Et posuere bibendum lacus, molestie sed.
+      Creative Review, Annual
 
+      Brand Impact Awards, Craft judge (Typography)
 
-      Auctor nec cras molestie arcu mi et id sit ante. Adipiscing malesuada massa facilisi eros. Eu ut ut fermentum erat imperdiet nulla mauris consequat lorem. Platea risus tortor ultricies nunc. Eleifend fusce elementum nibh auctor. Cras lacus ipsum, orci hendrerit tellus. Mi morbi arcu suscipit elementum mauris mauris. Etiam egestas facilisis et eu tincidunt. Nisl tempor elit dui lectus pellentesque.
+      Behance Review
+
+      Creativepool
   - title: Talks
-    body: >-
-      Metus egestas turpis sapien a, nulla metus. Nec neque, pharetra, sit
-      blandit elementum cras. Orci sed justo risus quis quam sed molestie.
-      Libero sapien ornare pulvinar eget feugiat quis viverra in enim. Faucibus
-      amet bibendum ornare in. Mi quam mattis feugiat suspendisse venenatis,
-      nisi etiam nulla tincidunt.
+    body: |-
+      Semi - Permanent, Auckland : Keynote Speaker
 
+      Adobe Live Paris : Workshop alongside Erik Spiekermann
 
-      Feugiat faucibus et faucibus tortor fringilla ac mi. Eget nunc nunc, nunc, pulvinar lorem eget egestas. Amet, urna amet interdum eu, sed feugiat interdum. Donec nisl enim, in ultrices amet. Dictum dignissim pellentesque tortor, nibh ultrices. Elit donec ac nam sed egestas. Scelerisque nibh eu, ac faucibus sit purus pretium. Sed nibh quisque magna sollicitudin luctus. Sodales nisi, nunc arcu, ultrices. Sodales id gravida tristique netus mattis nascetur. Sed maecenas fringilla ut vulputate tortor. Mauris fermentum morbi sit dignissim in suspendisse molestie. Et posuere bibendum lacus, molestie sed.
+      D&AD The Future of Type 2019 : Speaker and Panelist
 
+      London Design Festival : In conversation with British Design Council
 
-      Auctor nec cras molestie arcu mi et id sit ante. Adipiscing malesuada massa facilisi eros. Eu ut ut fermentum erat imperdiet nulla mauris consequat lorem. Platea risus tortor ultricies nunc. Eleifend fusce elementum nibh auctor. Cras lacus ipsum, orci hendrerit tellus. Mi morbi arcu suscipit elementum mauris mauris. Etiam egestas facilisis et eu tincidunt. Nisl tempor elit dui lectus pellentesque.
-  - title: Press
-    body: >-
-      Metus egestas turpis sapien a, nulla metus. Nec neque, pharetra, sit
-      blandit elementum cras. Orci sed justo risus quis quam sed molestie.
-      Libero sapien ornare pulvinar eget feugiat quis viverra in enim. Faucibus
-      amet bibendum ornare in. Mi quam mattis feugiat suspendisse venenatis,
-      nisi etiam nulla tincidunt.
+      Nicer Tuesdays : December 2019
 
+      Apple x It's Nice That : New World Speaker & Workshop host
 
-      Feugiat faucibus et faucibus tortor fringilla ac mi. Eget nunc nunc, nunc, pulvinar lorem eget egestas. Amet, urna amet interdum eu, sed feugiat interdum. Donec nisl enim, in ultrices amet. Dictum dignissim pellentesque tortor, nibh ultrices. Elit donec ac nam sed egestas. Scelerisque nibh eu, ac faucibus sit purus pretium. Sed nibh quisque magna sollicitudin luctus. Sodales nisi, nunc arcu, ultrices. Sodales id gravida tristique netus mattis nascetur. Sed maecenas fringilla ut vulputate tortor. Mauris fermentum morbi sit dignissim in suspendisse molestie. Et posuere bibendum lacus, molestie sed.
+      Us By Night Festival 2019 : Keynote Speaker
 
+      Design Bridge 2019 : Spark Talk
 
-      Auctor nec cras molestie arcu mi et id sit ante. Adipiscing malesuada massa facilisi eros. Eu ut ut fermentum erat imperdiet nulla mauris consequat lorem. Platea risus tortor ultricies nunc. Eleifend fusce elementum nibh auctor. Cras lacus ipsum, orci hendrerit tellus. Mi morbi arcu suscipit elementum mauris mauris. Etiam egestas facilisis et eu tincidunt. Nisl tempor elit dui lectus pellentesque.
+      First Round, From Under Consideration LLC : Speaker
+
+      Type Thursday London x FemmeType : Speaker and Panelist
+
+      Swiss Interactive Media Design Day : Speaker
+
+      Monotype Brand Talks : Panelist
+
+      Protein Studios : 50 years of choice panelist\
+      \
+      Robert Gordon's University : Annual Guest Lecturer
+
+      Computer Arts Magazine : London Studio Showcase
+
+      Tumo Centre, Armenia : Two week branding workshop
+
+      Cass School of Design, London : Hot House Talk
+
+      Working Not Working : Design for good
+
+      Design Studio London : Smiling, Not Smiling event
 ---
