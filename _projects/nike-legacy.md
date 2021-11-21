@@ -57,12 +57,12 @@ projectBuilder:
     desc: Legacy ident
     video: /assets/uploads/05.mp4
   - type: _section_image
-    size: fit
+    size: fill
     meaningful: Extended editorial type lock ups
     desc: Extended editorial type lock ups
     image: /assets/uploads/nike_legacy_nari-02.jpg
   - type: _section_image
-    size: fill
+    size: fit
     image: /assets/uploads/nike_legacy_nari-05.jpg
     meaningful: Secondary mark
     desc: Secondary mark
@@ -82,11 +82,6 @@ projectBuilder:
     meaningful: Mark animation
     desc: Mark animation
   - type: _section_image
-    size: fill
-    image: /assets/uploads/nike_legacy_nari-09.jpg
-    meaningful: Type proposals
-    desc: Type proposals
-  - type: _section_image
     size: fit
     image: /assets/uploads/nike_legacy_nari-04.jpg
     meaningful: Out of Home
@@ -101,4 +96,9 @@ projectBuilder:
     video: /assets/uploads/02-curved-ticker-angled.mp4
     meaningful: Secondary mark loop animation
     desc: Secondary mark loop animation
+  - type: _section_image
+    size: fill
+    image: /assets/uploads/nike_legacy_nari-09.jpg
+    meaningful: Type proposals
+    desc: Type proposals
 ---
