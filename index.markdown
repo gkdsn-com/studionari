@@ -19,6 +19,7 @@ order:
   - project: Charli XCX
   - project: Celia Burton
   - project: Selfridges & Co
+  - project: Bebe Vio Nike Acadmey
 intro:
   toggle: true
   text: Click to enter
