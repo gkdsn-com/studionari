@@ -6,14 +6,14 @@ order:
   - project: Mob
   - project: "Nike: Legacy Project"
   - project: "D&AD: New Blood"
+  - project: "Good Ones "
   - project: Bebe Vio Academy
-  - project: Vogue Singapore
-  - project: Drest
-  - project: Charli XCX
   - project: HOME
+  - project: Drest
+  - project: Vogue Singapore
+  - project: Charli XCX
   - project: Positiva
   - project: HOME Celebrating Joy
-  - project: "Good Ones "
   - project: Modular by Mensah
   - project: Moodelier
   - project: Threads of Fate
