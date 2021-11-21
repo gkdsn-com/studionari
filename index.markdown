@@ -7,7 +7,7 @@ order:
   - project: "Nike: Legacy Project"
   - project: Vogue Singapore
   - project: "D&AD: New Blood"
-  - project: "HOME "
+  - project: HOME
   - project: Bebe Vio Academy
   - project: Positiva
   - project: Charli XCX
@@ -18,8 +18,7 @@ order:
   - project: Drest
   - project: Celia Burton
   - project: Selfridges & Co
-  - project: Bebe Vio Academy
-  - project: HOME
+  - project: "HOME "
 intro:
   toggle: true
   text: Click to enter
