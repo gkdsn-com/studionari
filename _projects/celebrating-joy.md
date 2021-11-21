@@ -43,6 +43,16 @@ projectBuilder:
     desc: Celebrating Joy bespoke lock up
   - type: _section_image
     size: fill
+    image: /assets/uploads/home_celebratingjoy_nari_21-11.jpg
+    meaningful: Out of home
+    desc: Out of home
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/lynncariou_home6_christina_ebenezer-1-.mp4
+    meaningful: Video
+    sound: true
+  - type: _section_image
+    size: fill
     image: /assets/uploads/home_celebratingjoy_nari_21-07.jpg
     meaningful: Out of home
     desc: Out of home
@@ -55,11 +65,6 @@ projectBuilder:
     size: fill
     meaningful: Out of home
     image: /assets/uploads/home_celebratingjoy_nari_21-06.jpg
-    desc: Out of home
-  - type: _section_image
-    size: fill
-    image: /assets/uploads/home_celebratingjoy_nari_21-11.jpg
-    meaningful: Out of home
     desc: Out of home
   - type: _section_image
     size: fill
