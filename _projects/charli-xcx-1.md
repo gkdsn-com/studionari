@@ -1,7 +1,7 @@
 ---
 layout: project
 footer: project
-title: Charli XCX Good Ones
+title: Charli XCX
 featuredImage: /assets/uploads/cover3.jpg
 desc: Good Ones
 client: Charli XCX
