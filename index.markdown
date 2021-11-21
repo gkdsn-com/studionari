@@ -5,6 +5,7 @@ title: Homepage
 order:
   - project: Mob
   - project: "Nike: Legacy Project"
+  - project: Charli XCX
   - project: "D&AD: New Blood"
   - project: Bebe Vio Academy
   - project: HOME
@@ -18,7 +19,6 @@ order:
   - project: Selfridges & Co
   - project: "HOME "
   - project: Celia Burton
-  - project: Charli XCX
 intro:
   toggle: true
   text: Click to enter
