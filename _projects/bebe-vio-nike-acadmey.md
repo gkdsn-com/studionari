@@ -61,7 +61,7 @@ projectBuilder:
       disability by positioning our characters in the mark and icons as heroes
       and champions in their field."
   - type: _section_image
-    size: fill
+    size: fit
     meaningful: Academy kits
     desc: Academy kits
     image: /assets/uploads/bebe_vio_passback_nike_nari-09.jpg
@@ -71,7 +71,7 @@ projectBuilder:
     meaningful: Icons
     desc: Discipline icons
   - type: _section_image
-    size: fill
+    size: fit
     image: /assets/uploads/bebe_vio_passback_nike_nari-06.jpg
     meaningful: Visual language
     desc: Visual language
