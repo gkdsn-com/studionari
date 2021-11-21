@@ -19,30 +19,28 @@ order:
   - project: Charli XCX
   - project: Celia Burton
   - project: Selfridges & Co
+  - project: Bebe Vio Nike Acadmey
 intro:
   toggle: true
   text: Click to enter
   content:
-    - type: introimage
-      image: /assets/uploads/feature-1.jpg
-      desc: First Image
-      toggle: false
     - type: introvideo
-      video: /assets/uploads/compressed.mp4
-      desc: Video
-      toggle: false
-    - type: introimage
-      image: /assets/uploads/feature-2.jpg
+      video: /assets/uploads/butterfly01_30s_intro_centred-perc-music-1-.mp4
       toggle: true
-      desc: Second Image
     - type: introimage
-      toggle: false
-      image: /assets/uploads/feature-1.jpg
-      desc: Image 3
+      image: /assets/uploads/vogue_nari-14.jpg
+      desc: Vogue
+      toggle: true
     - type: introimage
-      image: /assets/uploads/feature-2.jpg
-      desc: Image 4
-      toggle: false
+      image: /assets/uploads/project_placeholder1.jpg
+      desc: Charli XCX
+      toggle: true
+    - type: introvideo
+      video: /assets/uploads/m-logo-in-1_1.mp4
+      toggle: true
+    - type: introimage
+      image: /assets/uploads/nike_legacy_nari-02.jpg
+      toggle: true
 text:
   grid: Grid View
   client: Client
