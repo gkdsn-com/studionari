@@ -115,4 +115,9 @@ projectBuilder:
     video: /assets/uploads/m-positiva-tunnel-1.mp4
     meaningful: Mark ident
     desc: Mark ident
+  - type: _section_image
+    size: fill
+    image: /assets/uploads/positiva-page-layout-copy-02.jpg
+    meaningful: Brand tape
+    desc: Brand tape
 ---
