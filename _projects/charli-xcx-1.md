@@ -1,9 +1,9 @@
 ---
 layout: project
 footer: project
-title: "Good Ones "
+title: Charli XCX
 featuredImage: /assets/uploads/cover3.jpg
-desc: Good Ones
+desc: Creating a capsule collection for the Good Ones release
 client: Charli XCX
 sectors:
   - Fashion
