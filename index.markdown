@@ -11,14 +11,15 @@ order:
   - project: Bebe Vio Academy
   - project: Positiva
   - project: Charli XCX
+  - project: Drest
   - project: HOME Celebrating Joy
+  - project: "Good Ones "
   - project: Modular by Mensah
   - project: Moodelier
   - project: Threads of Fate
-  - project: Drest
-  - project: Celia Burton
   - project: Selfridges & Co
   - project: "HOME "
+  - project: Celia Burton
 intro:
   toggle: true
   text: Click to enter
