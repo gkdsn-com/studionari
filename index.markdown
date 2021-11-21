@@ -9,17 +9,17 @@ order:
   - project: "D&AD: New Blood"
   - project: Positiva
   - project: Modular by Mensah
-  - project: "HOME "
-  - project: Charli XCX Good Ones
   - project: HOME Celebrating Joy
   - project: Threads of Fate
   - project: Moodelier
-  - project: HOME
   - project: Drest
   - project: Bebe Vio Academy
   - project: Celia Burton
   - project: Selfridges & Co
   - project: Bebe Vio Academy
+  - project: "HOME "
+  - project: HOME
+  - project: Charli XCX
 intro:
   toggle: true
   text: Click to enter
