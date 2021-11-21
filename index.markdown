@@ -9,13 +9,13 @@ order:
   - project: Charli XCX
   - project: Bebe Vio Academy
   - project: HOME
-  - project: Charli XCX
-  - project: Drest
   - project: Vogue Singapore
+  - project: Drest
+  - project: Charli XCX
   - project: Positiva
   - project: HOME Celebrating Joy
-  - project: Modular by Mensah
   - project: Moodelier
+  - project: Modular by Mensah
   - project: Threads of Fate
   - project: Selfridges & Co
   - project: "HOME "
