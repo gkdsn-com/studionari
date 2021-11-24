@@ -25,7 +25,7 @@ projectBuilder:
       the viewer that one small action can catalyse a multitude of magnificent
       outcomes - *Your Butterfly Effect*."
   - type: _section_image
-    size: fit
+    size: fill
     meaningful: Bespoke New Blood type
     desc: Bespoke New Blood type
     image: /assets/uploads/newblood_nari-01.jpg
@@ -35,7 +35,7 @@ projectBuilder:
     meaningful: Call for entry animation
     desc: Call for entry animations
   - type: _section_image
-    size: fit
+    size: fill
     image: /assets/uploads/newblood_nari-05.jpg
     meaningful: Butterfly Effect objects
     desc: Butterfly Effect objects
