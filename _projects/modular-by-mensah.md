@@ -24,7 +24,7 @@ projectBuilder:
       pieces of furniture, providing a fun yet considered take on functional
       living environments."
   - type: _section_image
-    size: fill
+    size: fit
     image: /assets/uploads/modularbymensah_nari_21-08.jpg
     meaningful: Modular type specimen
     desc: Modular type specimen
@@ -49,12 +49,12 @@ projectBuilder:
       reflected this sentiment, acting as the *‘human’* connection between the
       modular consonants."
   - type: _section_image
-    size: fill
+    size: fit
     image: /assets/uploads/modularbymensah_nari_21-04.jpg
     meaningful: Modular type specimen and brand mark
     desc: Modular type specimen and brand mark
   - type: _section_image
-    size: fill
+    size: fit
     image: /assets/uploads/modularbymensah_nari_21-12.jpg
     meaningful: Stationery
     desc: Stationery
@@ -65,16 +65,11 @@ projectBuilder:
     desc: Shipping container
   - type: _section_image
     size: fill
-    image: /assets/uploads/modularbymensah_nari_21-09.jpg
-    meaningful: Stationery
-    desc: Stationery
-  - type: _section_image
-    size: fill
     image: /assets/uploads/modularbymensah_nari_21-13.jpg
     meaningful: Modular type Specimen
     desc: Modular type Specimen
   - type: _section_image
-    size: fill
+    size: fit
     image: /assets/uploads/modularbymensah_nari_21-05.jpg
     meaningful: Stationery
     desc: Stationery
