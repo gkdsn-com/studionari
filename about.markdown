@@ -30,6 +30,7 @@ aboutBuilder:
       * Barbican
       * Boiler Room
       * Champion
+      * Crack Magazine
       * Charli XCX
       * Celia Burton
       * D&AD
@@ -52,6 +53,7 @@ aboutBuilder:
       * Universal Music Group
       * V&A
       * Vogue (Condé Nast)
+      * Yoko Ono
   - title: Jobs
     body: >-
       We are currently looking for full-time Senior Designers to join the team
