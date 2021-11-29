@@ -83,15 +83,11 @@ aboutBuilder:
 
       Packaging Designers
   - title: Internships
-    body: >-
-      We are always looking for enthusiastic graduates to come and work with the
+    body: We are always looking for enthusiastic graduates to come and work with the
       team. If you think your work would be a good fit for the studio please
       email a CV and portfolio
       to [work@studionari.co.uk](mailto:work@studionari.co.uk), with the subject
       line "Internships".
-
-
-      ![This is an image]()
   - title: Publications & Press
     body: |-
       dpi Magazine : 2018, 2019 (2)Taiwan
