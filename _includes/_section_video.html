@@ -1,5 +1,5 @@
 <div class="video-section js-video">
-    <video loop playsinline {% if include.sound == false %}muted{% endif %} class="project-video js-project-video">
+    <video class="project-video js-project-video" controls="true" preload loop playsinline {% if include.sound == false %}muted{% endif %} >
         <source src="{{ include.video }}" type="video/mp4">
     </video>
 </div>
