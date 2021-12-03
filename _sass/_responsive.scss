@@ -19,6 +19,9 @@
     }
 }
 @include breakpoint(mobileLandscape) {
+    main.project {
+        overflow: hidden;
+    }
     // Projects Filters Layout
     .reset {
         display:none;
@@ -121,7 +124,7 @@
     .project-swiper-container {
         position: absolute;
         width:100%;
-        height:calc(100vh - 200px);
+        height:calc(100vh - 160px);
         top: 40px;
         .swiper-wrapper {
             .swiper-slide {
@@ -174,17 +177,7 @@
         }
     }
     .slide-description {
-        position:absolute;
-        bottom: 40px;
-        left: 0;
-        width: 100vw;
-        height: $ui-height;
-        border-top: 1px solid $black;
-        background-color: $white;
-        @include flex(center, center);
-        h3 {
-            margin: 0;
-        }
+        display:none;
     }
     // Secondary Page
     section.page-content {
