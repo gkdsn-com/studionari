@@ -124,11 +124,11 @@
     .project-swiper-container {
         position: absolute;
         width:100%;
-        height:calc(100vh - 160px);
+        height:calc(100vh - 160px - env(safe-area-inset-bottom));
         top: 40px;
         .swiper-wrapper {
             .swiper-slide {
-                padding: 0 32px;
+                padding: 0 32px 40px;
             }
         }
     }
