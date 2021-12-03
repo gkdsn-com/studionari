@@ -117,7 +117,7 @@
     }
     .project-swiper-container {
         width:100%;
-        height:calc(100% - 120px);
+        height:calc(100vh - 200px);
         margin-top: 80px;
         .swiper-wrapper {
             .swiper-slide {
@@ -183,6 +183,9 @@
     // Secondary Page
     section.page-content {
         margin: 40px 15vw;
+    }
+    .image-section.fill img {
+        object-fit: contain;
     }
 }
 @include breakpoint(mobilePortrait) {
