@@ -503,7 +503,7 @@ section.project-content {
     height:calc(100vh - 120px);
     width: 5vw;
     background-color:$white;
-    z-index:9999;
+    z-index:2;
     @include flex(center, center);
     cursor: pointer;
     &:before {

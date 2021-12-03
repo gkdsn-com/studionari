@@ -115,10 +115,14 @@
             }
         }
     }
+    .project-content {
+        position:relative;
+    }
     .project-swiper-container {
+        position: absolute;
         width:100%;
         height:calc(100vh - 200px);
-        margin-top: 80px;
+        top: 40px;
         .swiper-wrapper {
             .swiper-slide {
                 padding: 0 32px;
@@ -126,8 +130,9 @@
         }
     }
     .swiper-button {
-        top:120px;
-        height:calc(100vh - 200px);
+        position: absolute;
+        top:0px;
+        height:100%;
         width: 32px;
         .desktop-text {
             display: none;
