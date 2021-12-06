@@ -21,7 +21,7 @@ order:
   - project: Selfridges & Co
   - project: "HOME "
 intro:
-  toggle: false
+  toggle: true
   text: Click to enter
   content:
     - type: introvideo
