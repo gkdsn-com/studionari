@@ -22,6 +22,7 @@ swiper.on('transitionEnd', function () {
         if ($(this).parents('.swiper-slide-active').length) {
             let activeVideo = $('.swiper-slide-active video').get(0);
             activeVideo.play();
+            activeVideo.muted = false;
         }
     })
     // Change the description to the current slide
@@ -39,6 +40,7 @@ $(function() {
         if ($(this).parents('.swiper-slide-active').length) {
             let activeVideo = $('.swiper-slide-active video').get(0);
             activeVideo.play();
+            activeVideo.muted = false;
         }
     })
     $allVideos.each(function(){
@@ -52,5 +54,6 @@ swiper.on('transitionStart', function () {
     $allVideos.each(function(){
         let video = $(this).get(0);
         video.pause();
+        video.muted = true;
     })
 });
