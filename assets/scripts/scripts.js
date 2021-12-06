@@ -63,7 +63,6 @@ homepageFeature = function() {
     $('.homepage-feature').remove();
     $.cookie('feature', 'true', { expires: 1, path: '/' })
 }
-  
 
 $(document).on('click', '.js-colour-switch', colourSwitch);
 $(document).on('click', '.feature-item', homepageFeature);

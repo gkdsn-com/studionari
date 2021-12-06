@@ -18,6 +18,11 @@ const swiper = new Swiper('.project-swiper-container', {
 let $allVideos = $('.js-project-video');
 swiper.on('transitionEnd', function () {
     $allVideos.each(function(){
+        let video = $(this).get(0);
+        video.pause();
+        video.muted = true;
+    })
+    $allVideos.each(function(){
         // If the video is active, play it
         if ($(this).parents('.swiper-slide-active').length) {
             let activeVideo = $('.swiper-slide-active video').get(0);
@@ -40,7 +45,6 @@ $(function() {
         if ($(this).parents('.swiper-slide-active').length) {
             let activeVideo = $('.swiper-slide-active video').get(0);
             activeVideo.play();
-            activeVideo.muted = false;
         }
     })
     $allVideos.each(function(){
@@ -54,6 +58,5 @@ swiper.on('transitionStart', function () {
     $allVideos.each(function(){
         let video = $(this).get(0);
         video.pause();
-        video.muted = true;
     })
 });
