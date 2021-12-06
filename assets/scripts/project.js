@@ -27,7 +27,7 @@ swiper.on('transitionEnd', function () {
         if ($(this).parents('.swiper-slide-active').length) {
             let activeVideo = $('.swiper-slide-active video').get(0);
             activeVideo.play();
-            activeVideo.muted = false;
+            // activeVideo.muted = false;
         }
     })
     // Change the description to the current slide
