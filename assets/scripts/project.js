@@ -41,6 +41,10 @@ $(function() {
             activeVideo.play();
         }
     })
+    $allVideos.each(function(){
+        let video = $(this).get(0)
+        video.pause();
+    })
 });
 // Go through every video on the page and pause it when transition starts
 swiper.on('transitionStart', function () {
