@@ -15,7 +15,8 @@ const swiper = new Swiper('.project-swiper-container', {
     },
 });
 
-let $allVideos = $('.js-project-video');
+let $allVideos = $('.js-project-video'),
+    $desktopIndicator = $('.js-desktop-indicator');
 swiper.on('transitionEnd', function () {
     $allVideos.each(function(){
         let video = $(this).get(0);
@@ -27,7 +28,10 @@ swiper.on('transitionEnd', function () {
         if ($(this).parents('.swiper-slide-active').length) {
             let activeVideo = $('.swiper-slide-active video').get(0);
             activeVideo.play();
-            // activeVideo.muted = false;
+            if ($desktopIndicator.is(':visible')) {
+                activeVideo.muted = false;
+                console.log('desktop');
+            }
         }
     })
     // Change the description to the current slide
@@ -49,8 +53,8 @@ $(function() {
     })
     $allVideos.each(function(){
         let video = $(this).get(0)
-        video.play();
-        video.pause();
+        // video.play();
+        // video.pause();
     })
 });
 // Go through every video on the page and pause it when transition starts

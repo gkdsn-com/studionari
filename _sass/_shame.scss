@@ -1,0 +1,12 @@
+.desktop-indicator {
+    display: block;
+    height:0px;
+    width:0px;
+    position:fixed;
+    z-index: -1;
+}
+@include breakpoint(mobileLandscape) {
+    .desktop-indicator {
+        display:none;
+    }
+}
