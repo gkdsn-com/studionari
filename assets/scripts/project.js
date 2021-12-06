@@ -43,6 +43,7 @@ $(function() {
     })
     $allVideos.each(function(){
         let video = $(this).get(0)
+        video.play();
         video.pause();
     })
 });
