@@ -1,10 +1,10 @@
 <!doctype html>
 <html>
 <head>
-  <title>{% if site.data.seo.title %}{{ site.data.seo.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <title>{% if site.data.seo.title %}{{ site.data.seo.title }}{% unless page.title == 'Homepage' %} - {{ page.title }}{% endunless %}{% else %}{{ site.title }}{% unless page.title == 'Homepage' %} - {{ page.title }}{% endunless %}{% endif %}</title>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta name="description" content="{% if page.overall.seo-description %}{{ page.overall.seo-description }}{% elsif site.data.seo.description %}{{ site.data.seo.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="description" content="{% if page.desc %} {{ page.desc }} {% elsif page.overall.seo-description %}{{ page.overall.seo-description }}{% elsif site.data.seo.description %}{{ site.data.seo.description }}{% else %}{{ site.description }}{% endif %}">
   <link rel="canonical" href="{{ site.url }}{{ page.url}}">
   <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
   <link rel="shortcut icon" href="/assets/images/favicon/N.png" type="image/png" id="icon">
