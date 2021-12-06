@@ -20,14 +20,14 @@ swiper.on('transitionEnd', function () {
     $allVideos.each(function(){
         let video = $(this).get(0);
         video.pause();
-        // video.muted = true;
+        video.muted = true;
     })
     $allVideos.each(function(){
         // If the video is active, play it
         if ($(this).parents('.swiper-slide-active').length) {
             let activeVideo = $('.swiper-slide-active video').get(0);
             activeVideo.play();
-            // activeVideo.muted = false;
+            activeVideo.muted = false;
         }
     })
     // Change the description to the current slide
