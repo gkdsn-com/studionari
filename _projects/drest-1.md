@@ -40,8 +40,8 @@ projectBuilder:
       action for the user to play the game and be immersed in a ‘Drest fashion
       world’."
   - type: _section_image
-    size: fit
-    image: /assets/uploads/drest_nari_01-03.jpg
+    size: fill
+    image: /assets/uploads/drest_nari_01-01-03.png
     meaningful: In app
     desc: v
   - type: _section_image
@@ -71,12 +71,12 @@ projectBuilder:
     desc: Visual language
   - type: _section_image
     size: fill
-    image: /assets/uploads/drest_nari_01-09.jpg
+    image: /assets/uploads/drest_nari_01-01-09.png
     meaningful: In app icons
     desc: In app icons
   - type: _section_image
     size: fit
-    image: /assets/uploads/drest_nari_01-04.jpg
+    image: /assets/uploads/drest_nari_01-01-04.png
     meaningful: App advert
     desc: App advert
   - type: _section_image
@@ -89,4 +89,9 @@ projectBuilder:
     image: /assets/uploads/drest_nari_01-12.jpg
     meaningful: Ticker tape
     desc: Ticker tape
+  - type: _section_image
+    size: fill
+    meaningful: OOH
+    desc: OOH Posters
+    image: /assets/uploads/drest_nari_01-01-13.png
 ---
