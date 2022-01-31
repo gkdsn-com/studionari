@@ -138,6 +138,14 @@ aboutBuilder:
       Viction:ar, Concept Stores & Pop-Ups : 2021 Global
 
       Creative Review, Various (2) : 2020, 2021 London
+
+      It's Nice That : 2022 
+
+      Creative Review : 2022
+
+      Pages Magazine : 2022, Germany
+
+      Etapes : 2022, France
   - title: Judging
     body: |-
       Creative Circle, Gold judge
