@@ -4,4 +4,4 @@ title: Our founder Caterina host a live workshop with Apple & It's Nice That
 image: /assets/uploads/artboard-10.png
 date: 2021-03-15T18:49:26.257Z
 ---
-Check out the Creative Guide created as part of the session.
+# Check out the creative guide on It's Nice That's website.
