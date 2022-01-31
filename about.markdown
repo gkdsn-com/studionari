@@ -26,7 +26,7 @@ aboutBuilder:
       * Adidas
       * AmorePacific
       * Apple
-      * AppleMusic
+      * Apple Music
       * Barbican
       * Boiler Room
       * Champion
@@ -54,6 +54,7 @@ aboutBuilder:
       * V&A
       * Vogue (Condé Nast)
       * Yoko Ono
+      * YouTube
   - title: Jobs
     body: >-
       We are currently looking for full-time Senior Designers to join the team
