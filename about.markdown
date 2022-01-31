@@ -26,7 +26,7 @@ aboutBuilder:
       * Adidas
       * AmorePacific
       * Apple
-      * AppleMusic
+      * Apple Music
       * Barbican
       * Boiler Room
       * Champion
@@ -54,6 +54,7 @@ aboutBuilder:
       * V&A
       * Vogue (Condé Nast)
       * Yoko Ono
+      * YouTube
   - title: Jobs
     body: >-
       We are currently looking for full-time Senior Designers to join the team
@@ -137,6 +138,16 @@ aboutBuilder:
       Viction:ar, Concept Stores & Pop-Ups : 2021 Global
 
       Creative Review, Various (2) : 2020, 2021 London
+
+      It's Nice That : 2022 
+
+      Creative Review : 2022
+
+      Pages Magazine : 2022, Germany
+
+      Etapes : 2022, France
+
+      Pangram Pangram Paper : 2022
   - title: Judging
     body: |-
       Creative Circle, Gold judge
