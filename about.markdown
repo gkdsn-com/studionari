@@ -146,6 +146,8 @@ aboutBuilder:
       Pages Magazine : 2022, Germany
 
       Etapes : 2022, France
+
+      Pangram Pangram Paper : 2022
   - title: Judging
     body: |-
       Creative Circle, Gold judge
