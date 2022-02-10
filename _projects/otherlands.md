@@ -78,6 +78,11 @@ projectBuilder:
     image: /assets/uploads/otherlands_assets-02.jpg
     meaningful: colors
     desc: Brand colors
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/fjzf5xewyayja7o.jpeg
+    meaningful: Scone palace
+    desc: Scone palace
   - type: _section_video
     size: fit
     video: /assets/uploads/02-somethings-coming-wtrees-1080x1350-1.mp4
@@ -94,4 +99,20 @@ projectBuilder:
     video: /assets/uploads/leaves-01-1.mp4
     meaningful: frisson video
     desc: Frisson filter
+  - type: _section_image
+    size: fit
+    meaningful: OOH
+    desc: OOH
+    image: /assets/uploads/273503287_314020690778556_1923832720607102977_n.jpeg
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/271715243_295380345975924_2204568425970491009_n.jpeg
+    meaningful: Launch photography
+    desc: Launch photography
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/05-otherlands_wrose-1080x1350.mp4
+    meaningful: Launch video
+    sound: true
+    desc: Launch video
 ---
