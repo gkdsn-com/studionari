@@ -106,7 +106,7 @@ projectBuilder:
     desc: Series identity for Make it With Mob
   - type: _section_image
     size: fill
-    image: /assets/uploads/mob_vi_nari_21-09.jpg
+    image: /assets/uploads/mob_vi_nari_21-09_2.jpg
     meaningful: Mob Weekly newsletter
     desc: Mob Weekly newsletter
   - type: _section_image
