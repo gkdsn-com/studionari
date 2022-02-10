@@ -2,6 +2,7 @@
 layout: index
 footer: index
 title: Homepage
+seo-description: "London based creative consultancy and design studio. "
 order:
   - project: Otherlands
   - project: Mob
