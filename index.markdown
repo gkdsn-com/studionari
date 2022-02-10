@@ -20,6 +20,7 @@ order:
   - project: Celia Burton
   - project: Selfridges & Co
   - project: "HOME "
+  - project: Otherlands
 intro:
   toggle: true
   text: Click to enter
