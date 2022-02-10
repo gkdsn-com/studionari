@@ -71,4 +71,9 @@ projectBuilder:
     meaningful: Typography
     image: /assets/uploads/nike-dance_-nari-08.jpg
     desc: Typography
+  - type: _section_image
+    size: fill
+    image: /assets/uploads/nike-dance_-nari-09.jpg
+    meaningful: Amsterdam,OOHAmsterdam,OOH
+    desc: Amsterdam,OOH
 ---
