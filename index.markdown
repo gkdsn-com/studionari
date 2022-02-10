@@ -7,7 +7,7 @@ order:
   - project: Otherlands
   - project: Mob
   - project: "Nike: Legacy Project"
-  - project: "D&AD: New Blood"
+  - project: D&AD New Blood
   - project: Nike Dance
   - project: HOME
   - project: Good Ones
