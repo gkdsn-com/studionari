@@ -15,9 +15,9 @@ order:
   - project: Bebe Vio Academy
   - project: HOME Celebrating Joy
   - project: Positiva
-  - project: Drest
   - project: Charli XCX
   - project: Moodelier
+  - project: Drest
   - project: Threads of Fate
   - project: Celia Burton
   - project: Selfridges & Co
