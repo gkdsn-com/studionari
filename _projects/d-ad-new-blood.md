@@ -1,7 +1,7 @@
 ---
 layout: project
 footer: project
-title: "D&AD: New Blood"
+title: D&AD New Blood
 featuredImage: /assets/uploads/cover_2.jpg
 desc: Your Butterfly Effect -  Galvanising the creative spirit through uncertain
   times
