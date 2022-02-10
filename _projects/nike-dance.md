@@ -45,4 +45,9 @@ projectBuilder:
     meaningful: Opera, Paris OOH
     desc: Opera, Paris OOH
     image: /assets/uploads/nike-dance_-nari-04.jpg
+  - type: _section_image
+    size: fill
+    image: /assets/uploads/nike-dance_-nari-05.jpg
+    meaningful: Typography Typography
+    desc: Typography
 ---
