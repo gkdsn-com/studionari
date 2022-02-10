@@ -9,4 +9,11 @@ sectors:
   - Art
   - Music
   - Contemporary Culture
+services:
+  - Art Installation
+  - Naming
+  - Creative Direction
+  - Digital Curation
+  - Visual Identity
+  - Animation
 ---
