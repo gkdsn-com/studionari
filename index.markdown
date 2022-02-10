@@ -7,11 +7,12 @@ order:
   - project: Mob
   - project: "Nike: Legacy Project"
   - project: "D&AD: New Blood"
-  - project: Good Ones
+  - project: Nike Dance
   - project: HOME
+  - project: Good Ones
   - project: Vogue Singapore
-  - project: Bebe Vio Academy
   - project: Modular by Mensah
+  - project: Bebe Vio Academy
   - project: HOME Celebrating Joy
   - project: Positiva
   - project: Drest
