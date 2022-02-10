@@ -23,6 +23,11 @@ projectBuilder:
       Mensah’s artistic remedy comes in the form of her interlocking modular
       pieces of furniture, providing a fun yet considered take on functional
       living environments."
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/21_0063_nari_modular_motionvideo_v11_16x9_rz.mov
+    meaningful: Modular OTF
+    desc: Modular OTF
   - type: _section_image
     size: fit
     image: /assets/uploads/modularbymensah_nari_21-08.jpg
