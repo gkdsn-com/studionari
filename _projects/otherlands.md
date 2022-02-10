@@ -35,7 +35,7 @@ projectBuilder:
     sound: true
     desc: Launch asset
   - type: _section_duo
-    image: /assets/uploads/otherlands-cover.jpg
+    image: /assets/uploads/alewya.png
     imageTwo: /assets/uploads/logo-post.png
     meaningful: artist squares
     desc: Artist reveals social
