@@ -50,4 +50,10 @@ projectBuilder:
     image: /assets/uploads/nike-dance_-nari-05.jpg
     meaningful: Typography Typography
     desc: Typography
+  - type: _section_video
+    size: fill
+    video: /assets/uploads/10sec_16x9_master_berlin_full.mov
+    meaningful: Social video, Jilou
+    sound: true
+    desc: Social video, Jilou
 ---
