@@ -86,4 +86,9 @@ projectBuilder:
     meaningful: Typography
     desc: Typography
     image: /assets/uploads/nike-dance_-nari-11.jpg
+  - type: _section_image
+    size: fill
+    image: /assets/uploads/nike-dance_-nari-12.jpg
+    meaningful: London, OOH
+    desc: London, OOH
 ---
