@@ -13,4 +13,21 @@ services:
   - Campaign
   - Creative Direction
 year: 2022
+projectBuilder:
+  - type: _section_image
+    size: fill
+    image: /assets/uploads/nike-dance_-nari-14.jpg
+    meaningful: Type
+    desc: Typography
+  - type: _section_image
+    size: fill
+    image: /assets/uploads/nike-dance_-nari-01.jpg
+    meaningful: Piccadilly Circus OOH
+    desc: Piccadilly Circus OOH
+  - type: _section_video
+    size: fill
+    meaningful: "Social animation Michaela "
+    desc: "Social animation Michaela "
+    sound: true
+    video: /assets/uploads/10sec_16x9_master_nyc_full.mp4
 ---
