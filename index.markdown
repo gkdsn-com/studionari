@@ -3,13 +3,14 @@ layout: index
 footer: index
 title: Homepage
 order:
+  - project: Otherlands
   - project: Mob
   - project: "Nike: Legacy Project"
-  - project: Good Ones
   - project: "D&AD: New Blood"
-  - project: Bebe Vio Academy
+  - project: Good Ones
   - project: HOME
   - project: Vogue Singapore
+  - project: Bebe Vio Academy
   - project: Modular by Mensah
   - project: HOME Celebrating Joy
   - project: Positiva
@@ -20,7 +21,6 @@ order:
   - project: Celia Burton
   - project: Selfridges & Co
   - project: "HOME "
-  - project: Otherlands
 intro:
   toggle: true
   text: Click to enter
