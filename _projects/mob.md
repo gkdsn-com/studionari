@@ -56,7 +56,7 @@ projectBuilder:
     meaningful: Mob mark
     desc: Mob mark
   - type: _section_image
-    size: fill
+    size: fit
     image: /assets/uploads/mob_vi_nari_21-03.jpg
     meaningful: Type system
     desc: Type system
@@ -114,11 +114,6 @@ projectBuilder:
     image: /assets/uploads/mob_vi_nari_21-20.jpg
     meaningful: Stickers
     desc: Mob Stickers
-  - type: _section_video
-    size: fill
-    video: /assets/uploads/m-logo-in-2_1.mp4
-    meaningful: Mob ident
-    desc: Mob ident
   - type: _section_image
     size: fill
     image: /assets/uploads/mob_vi_nari_21-19.jpg
@@ -154,7 +149,7 @@ projectBuilder:
     meaningful: Instagram
     desc: Instagram
   - type: _section_image
-    size: fit
+    size: fill
     meaningful: Series identity for Street
     desc: Series identity for Street
     image: /assets/uploads/mob_vi_nari_21-22.jpg
