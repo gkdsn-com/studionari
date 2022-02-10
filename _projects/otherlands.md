@@ -73,4 +73,9 @@ projectBuilder:
     image: /assets/uploads/273472580_313368324177126_1234778335683277001_n.jpeg
     meaningful: Festival grounds
     desc: Festival Grounds
+  - type: _section_image
+    size: fill
+    image: /assets/uploads/otherlands_assets-02.jpg
+    meaningful: colors
+    desc: Brand colors
 ---
