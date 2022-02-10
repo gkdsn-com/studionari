@@ -20,18 +20,18 @@ projectBuilder:
     meaningful: Type
     desc: Typography
   - type: _section_image
-    size: fill
+    size: fit
     image: /assets/uploads/nike-dance_-nari-01.jpg
     meaningful: Piccadilly Circus OOH
     desc: Piccadilly Circus OOH
   - type: _section_video
-    size: fill
+    size: fit
     meaningful: "Social animation Michaela "
     desc: "Social animation Michaela "
     sound: true
     video: /assets/uploads/10sec_16x9_master_nyc_full.mp4
   - type: _section_image
-    size: fill
+    size: fit
     image: /assets/uploads/nike-dance_-nari-02.jpg
     meaningful: Typography
     desc: Typography
@@ -41,58 +41,58 @@ projectBuilder:
     desc: Typography
     image: /assets/uploads/nike-dance_-nari-03.jpg
   - type: _section_image
-    size: fill
+    size: fit
     meaningful: Opera, Paris OOH
     desc: Opera, Paris OOH
     image: /assets/uploads/nike-dance_-nari-04.jpg
   - type: _section_image
-    size: fill
+    size: fit
     image: /assets/uploads/nike-dance_-nari-05.jpg
     meaningful: Typography Typography
     desc: Typography
   - type: _section_video
-    size: fill
+    size: fit
     video: /assets/uploads/10sec_16x9_master_berlin_full.mov
     meaningful: Social video, Jilou
     sound: true
     desc: Social video, Jilou
   - type: _section_image
-    size: fill
+    size: fit
     meaningful: Typography
     image: /assets/uploads/nike-dance_-nari-06.jpg
     desc: Typography
   - type: _section_image
-    size: fill
+    size: fit
     meaningful: TypographyTypography
     desc: Typography
     image: /assets/uploads/nike-dance_-nari-07.jpg
   - type: _section_image
-    size: fill
+    size: fit
     meaningful: Typography
     image: /assets/uploads/nike-dance_-nari-08.jpg
     desc: Typography
   - type: _section_image
-    size: fill
+    size: fit
     image: /assets/uploads/nike-dance_-nari-09.jpg
     meaningful: Amsterdam,OOHAmsterdam,OOH
     desc: Amsterdam,OOH
   - type: _section_image
-    size: fill
+    size: fit
     image: /assets/uploads/nike-dance_-nari-10.jpg
     meaningful: Typography
     desc: Typography
   - type: _section_image
-    size: fill
+    size: fit
     meaningful: Typography
     desc: Typography
     image: /assets/uploads/nike-dance_-nari-11.jpg
   - type: _section_image
-    size: fill
+    size: fit
     image: /assets/uploads/nike-dance_-nari-12.jpg
     meaningful: London, OOH
     desc: London, OOH
   - type: _section_image
-    size: fill
+    size: fit
     image: /assets/uploads/nike-dance_-nari-13.jpg
     meaningful: Typography
     desc: Typography
