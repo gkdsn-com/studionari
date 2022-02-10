@@ -2,7 +2,7 @@
 layout: project
 footer: project
 title: Charli XCX
-featuredImage: /assets/uploads/cover.jpg
+featuredImage: /assets/uploads/charlicover.jpg
 desc: How Im Feeling Now - Documenting a lockdown album
 client: Charli XCX
 sectors:
