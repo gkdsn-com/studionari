@@ -99,4 +99,15 @@ projectBuilder:
     meaningful: OOH
     desc: OOH
     image: /assets/uploads/273503287_314020690778556_1923832720607102977_n.jpeg
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/271715243_295380345975924_2204568425970491009_n.jpeg
+    meaningful: Launch photography
+    desc: Launch photography
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/05-otherlands_wrose-1080x1350.mp4
+    meaningful: Launch video
+    sound: true
+    desc: Launch video
 ---
