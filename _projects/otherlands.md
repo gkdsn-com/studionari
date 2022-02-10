@@ -78,4 +78,15 @@ projectBuilder:
     image: /assets/uploads/otherlands_assets-02.jpg
     meaningful: colors
     desc: Brand colors
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/02-somethings-coming-wtrees-1080x1350-1.mp4
+    meaningful: insta video 2
+    sound: true
+    desc: Launch video
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/lineup-1080.png
+    meaningful: line up
+    desc: Poster
 ---
