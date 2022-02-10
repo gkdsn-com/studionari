@@ -54,4 +54,23 @@ projectBuilder:
     video: /assets/uploads/orange-blue-sky.mp4
     meaningful: frisson video
     desc: Frisson filter
+  - type: _section_text
+    size: one
+    textOne: The concept of ‘Frisson’ was actualised through the use of a bespoke
+      crafted filter that provided a ‘goosebump’ esque energy for all
+      photography and graphic language. This was then paired with a vibrant yet
+      dreamlike colour palette, which created an Otherlands landscape for the
+      brand to exist within. Finally the logotype and typography referenced
+      tales of time-gone-by, with a contemporary yet blackletter aesthetic.
+    meaningful: intro text 3
+  - type: _section_image
+    size: fill
+    image: /assets/uploads/otherlands_assets-01.jpg
+    meaningful: logotype
+    desc: Logotype
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/273472580_313368324177126_1234778335683277001_n.jpeg
+    meaningful: Festival grounds
+    desc: Festival Grounds
 ---
