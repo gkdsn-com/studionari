@@ -1,7 +1,7 @@
 ---
 layout: project
 footer: project
-title: "Nike: Legacy Project"
+title: Legacy Project
 featuredImage: /assets/uploads/cover33.jpg
 desc: Self Care is Community Care -  Championing BIPOC female role models in LA
   for Nike
