@@ -39,4 +39,19 @@ projectBuilder:
     imageTwo: /assets/uploads/logo-post.png
     meaningful: artist squares
     desc: Artist reveals social
+  - type: _section_text
+    size: one
+    textOne: Our overarching creative concept was ‘Frisson’ - which is an old
+      English word that means “a sudden strong feeling of excitement; a thrill”.
+      Frisson has more recently been coined as a ‘state’ in which you are at one
+      with an experience - such as your hairs standing on-end when listening to
+      music. This concept was derived from the brand strategy and naming, which
+      positioned the festival as an ethereal otherworldly experience that one
+      could escape the mundanities of everyday life - ‘Otherlands’
+    meaningful: "Intro 2 "
+  - type: _section_video
+    size: fill
+    video: /assets/uploads/orange-blue-sky.mp4
+    meaningful: frisson video
+    desc: Frisson filter
 ---
