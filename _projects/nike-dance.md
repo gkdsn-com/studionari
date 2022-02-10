@@ -56,4 +56,19 @@ projectBuilder:
     meaningful: Social video, Jilou
     sound: true
     desc: Social video, Jilou
+  - type: _section_image
+    size: fill
+    meaningful: Typography
+    image: /assets/uploads/nike-dance_-nari-06.jpg
+    desc: Typography
+  - type: _section_image
+    size: fill
+    meaningful: TypographyTypography
+    desc: Typography
+    image: /assets/uploads/nike-dance_-nari-07.jpg
+  - type: _section_image
+    size: fill
+    meaningful: Typography
+    image: /assets/uploads/nike-dance_-nari-08.jpg
+    desc: Typography
 ---
