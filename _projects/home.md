@@ -27,7 +27,7 @@ projectBuilder:
     meaningful: Home Logotype
     desc: Home Logotype
   - type: _section_image
-    size: fit
+    size: fill
     image: /assets/uploads/home_nari_21-02.jpg
     meaningful: Out of home
     desc: Out of home
@@ -51,7 +51,7 @@ projectBuilder:
     meaningful: Visual language
     desc: Visual language
   - type: _section_image
-    size: fit
+    size: fill
     image: /assets/uploads/home_nari_21-09.jpg
     meaningful: Out of home
     desc: Out of home
@@ -80,7 +80,7 @@ projectBuilder:
     image: /assets/uploads/home_nari_21-05.jpg
     meaningful: Big image
   - type: _section_image
-    size: fit
+    size: fill
     image: /assets/uploads/home_nari_21-07.jpg
     meaningful: Tote bags
     desc: Tote bags
