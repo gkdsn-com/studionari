@@ -89,4 +89,9 @@ projectBuilder:
     image: /assets/uploads/lineup-1080.png
     meaningful: line up
     desc: Poster
+  - type: _section_video
+    size: fill
+    video: /assets/uploads/leaves-01-1.mp4
+    meaningful: frisson video
+    desc: Frisson filter
 ---
