@@ -4,7 +4,7 @@ footer: project
 title: Modular by Mensah
 featuredImage: /assets/uploads/cove4r.jpg
 desc: Part of the Furniture -  An interchangeable rebrand for Ghanaian designer
-  Kusheda Mensah.
+  Kusheda Mensah
 client: Modular by Mensah
 sectors:
   - Design
