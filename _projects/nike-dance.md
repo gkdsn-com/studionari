@@ -31,7 +31,7 @@ projectBuilder:
     sound: true
     video: /assets/uploads/10sec_16x9_master_nyc_full.mp4
   - type: _section_image
-    size: fit
+    size: fill
     image: /assets/uploads/nike-dance_-nari-02.jpg
     meaningful: Typography
     desc: Typography
@@ -96,4 +96,10 @@ projectBuilder:
     image: /assets/uploads/nike-dance_-nari-13.jpg
     meaningful: Typography
     desc: Typography
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/short.mov
+    meaningful: Social Video, Trina
+    sound: true
+    desc: Social Video, Trina
 ---
