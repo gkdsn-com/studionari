@@ -9,16 +9,16 @@ order:
   - project: "Nike: Legacy Project"
   - project: D&AD New Blood
   - project: Nike Dance
-  - project: HOME
   - project: Good Ones
+  - project: HOME
   - project: Vogue Singapore
   - project: Modular by Mensah
   - project: Bebe Vio Academy
-  - project: HOME Celebrating Joy
   - project: Positiva
-  - project: Charli XCX
   - project: Moodelier
+  - project: Charli XCX
   - project: Drest
+  - project: HOME Celebrating Joy
   - project: Threads of Fate
   - project: Celia Burton
   - project: Selfridges & Co
