@@ -33,6 +33,11 @@ projectBuilder:
     meaningful: Logotype
     desc: Logotype
     image: /assets/uploads/project_pages_all-02.jpg
+  - type: _section_video
+    size: fill
+    video: /assets/uploads/105405652_977702029342063_2455103642141968718_n.mp4
+    meaningful: Products
+    desc: Products
   - type: _section_image
     size: fill
     image: /assets/uploads/project_pages_all-04.jpg
@@ -51,15 +56,15 @@ projectBuilder:
       point; which identifies Moodelier as a vibrant immersive world, one can
       explore and get lost within."
   - type: _section_image
+    size: fit
+    meaningful: Pieces
+    desc: Pieces
+    image: /assets/uploads/moodelier-claire-xue2.jpeg
+  - type: _section_image
     size: fill
     image: /assets/uploads/project_pages_all-05.jpg
     meaningful: Packaging
     desc: Packaging
-  - type: _section_video
-    size: fill
-    video: /assets/uploads/105405652_977702029342063_2455103642141968718_n.mp4
-    meaningful: Products
-    desc: Products
   - type: _section_image
     size: fill
     image: /assets/uploads/project_pages_all-03.jpg
@@ -87,9 +92,9 @@ projectBuilder:
     desc: Stationary
   - type: _section_video
     size: fit
-    video: /assets/uploads/refresh_coloursystem_moodelier_nari.mov
-    meaningful: Dual colour scheme website
-    desc: Dual colour scheme website
+    video: /assets/uploads/screen-recording-2022-02-09-at-11.45.56.mov
+    meaningful: Website
+    desc: Website
   - type: _section_image
     size: fill
     image: /assets/uploads/project_pages_all-10.jpg
@@ -110,4 +115,9 @@ projectBuilder:
     image: /assets/uploads/project_pages_all-12.jpg
     meaningful: Van
     desc: Van
+  - type: _section_image
+    size: fit
+    meaningful: Digital
+    desc: Digital
+    image: /assets/uploads/moodelier.jpeg
 ---
