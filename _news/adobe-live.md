@@ -5,9 +5,3 @@ image: /assets/uploads/adobe_live_insta-01.jpg
 date: 2018-03-12T00:00:00.000Z
 ---
 # Join Caterina and Erik Spiekermann for a three day type focused Adobe Live.
-
-
-
-
-
-In 2018 Caterina worked alongside Erik Spiekermann for a three day type focused Adobe live.
