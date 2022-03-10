@@ -425,6 +425,7 @@ section.about {
         .about-item-body {
             padding: 24px;
             white-space:normal;
+            overflow-y: scroll;
             ul {
                 list-style-type: none;
                 padding: 0;
