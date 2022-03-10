@@ -25,14 +25,19 @@ projectBuilder:
     textTwo: ""
   - type: _section_image
     size: fill
+    image: /assets/uploads/celiaburton-page-layout-01.jpg
+    meaningful: Logotype
+    desc: Logotype
+  - type: _section_image
+    size: fill
     image: /assets/uploads/celiaburton-page-layout-02.png
     meaningful: Brand mark
     desc: Brand mark
-  - type: _section_image
+  - type: _section_video
     size: fill
-    image: /assets/uploads/celiaburton-page-layout2-05.jpg
-    meaningful: Out of home
-    desc: Out of home
+    video: /assets/uploads/cb_youtube-slides-01.mp4
+    meaningful: Brand mark animation
+    desc: Brand mark animation
   - type: _section_text
     size: one
     meaningful: Text Block 2
@@ -43,46 +48,36 @@ projectBuilder:
       different structures or ‘faces’ across different environments."
   - type: _section_image
     size: fill
+    image: /assets/uploads/celiaburton-page-layout2-05.jpg
+    meaningful: Out of home
+    desc: Out of home
+  - type: _section_image
+    size: fill
     image: /assets/uploads/louve-mockup-kit.jpg
     meaningful: Stationery
     desc: Stationery
-  - type: _section_image
-    size: fill
-    image: /assets/uploads/youtube-slides-01.gif
-    meaningful: Brand marks
-    desc: Brand marks
   - type: _section_video
     size: fill
-    video: /assets/uploads/celiaburton-page-layout2-04.jpg
-    meaningful: Socials
-    desc: Socials
-  - type: _section_video
-    size: fill
-    video: /assets/uploads/celiaburton-page-layout-03.png
-    meaningful: Brand marks
-    desc: Brand marks
-  - type: _section_video
-    size: fit
-    video: /assets/uploads/youtube-slides-02.gif
+    video: /assets/uploads/cb_youtube-slides-04.mp4
     meaningful: Brand mark animation
-    desc: Brand mark animation
-  - type: _section_image
-    size: fit
-    meaningful: Brand mark animation
-    desc: Brand mark animation
-    image: /assets/uploads/youtube-slides-04.gif
+    desc: SocialsBrand mark animation
   - type: _section_image
     size: fill
     image: /assets/uploads/celiaburton-page-layout2-07.jpg
     meaningful: Totes
     desc: Totes
   - type: _section_image
-    size: fill
-    image: /assets/uploads/celiaburton-page-layout2-09.jpg
-    meaningful: Brand stickers
-    desc: Brand stickers
+    size: fit
+    image: /assets/uploads/celiaburton-page-layout2-04.jpg
+    meaningful: Social
+    desc: Social
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/cb_youtube-slides-02.mp4
+    meaningful: Brand mark animation
+    desc: Brand mark animation
   - type: _section_image
-    size: fill
+    size: fit
     image: /assets/uploads/celiaburton-insta-flat-1-15.png
     meaningful: Brand language
     desc: Brand language
@@ -93,7 +88,17 @@ projectBuilder:
     desc: Social
   - type: _section_image
     size: fit
+    meaningful: Brand mark animation
+    desc: Brand mark animation
+    image: /assets/uploads/youtube-slides-04.gif
+  - type: _section_image
+    size: fill
     meaningful: Website
     desc: Website
     image: /assets/uploads/celiaburton-page-layout2-08.jpg
+  - type: _section_video
+    size: fill
+    video: /assets/uploads/cb_youtube-slides-04.mp4
+    meaningful: Brand mark animation
+    desc: Brand mark animation
 ---
