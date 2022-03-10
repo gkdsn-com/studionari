@@ -24,7 +24,7 @@ projectBuilder:
       pieces of furniture, providing a fun yet considered take on functional
       living environments."
   - type: _section_video
-    size: fit
+    size: fill
     video: /assets/uploads/21_0063_nari_modular_motionvideo_v11_16x9_rz-1-.mp4
     meaningful: Modular OTF
     desc: Modular OTF
