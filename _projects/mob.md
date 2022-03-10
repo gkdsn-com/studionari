@@ -47,7 +47,7 @@ projectBuilder:
   - type: _section_video
     size: fit
     sound: true
-    video: /assets/uploads/m-reel.mp4
+    video: /assets/uploads/m-reel-1-.mp4
     meaningful: Brand recap
     desc: Brand recap
   - type: _section_image
