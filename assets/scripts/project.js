@@ -28,10 +28,10 @@ swiper.on('slideChangeTransitionEnd', function () {
         if ($(this).parents('.swiper-slide-active').length) {
             let activeVideo = $('.swiper-slide-active video').get(0);
             activeVideo.play();
-            if ($desktopIndicator.is(':visible')) {
-                activeVideo.muted = false;
-                console.log('desktop');
-            }
+            // if ($desktopIndicator.is(':visible')) {
+            //     activeVideo.muted = false;
+            //     console.log('desktop');
+            // }
         }
     })
     // Change the description to the current slide
