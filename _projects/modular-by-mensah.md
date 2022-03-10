@@ -25,7 +25,7 @@ projectBuilder:
       living environments."
   - type: _section_video
     size: fit
-    video: /assets/uploads/21_0063_nari_modular_motionvideo_v11_16x9_rz.mov
+    video: /assets/uploads/21_0063_nari_modular_motionvideo_v11_16x9_rz-1-.mp4
     meaningful: Modular OTF
     desc: Modular OTF
   - type: _section_image
