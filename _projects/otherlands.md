@@ -30,7 +30,7 @@ projectBuilder:
     meaningful: intro
   - type: _section_video
     size: fit
-    video: /assets/uploads/01-otherlands-worchid-1080x1350-1.mp4
+    video: /assets/uploads/01-otherlands-worchid-1080x1350-1-1-.mp4
     meaningful: frisson orchid
     sound: true
     desc: Launch asset
