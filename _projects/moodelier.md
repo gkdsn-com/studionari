@@ -107,7 +107,7 @@ projectBuilder:
     image: /assets/uploads/project_pages_all-11.jpg
   - type: _section_video
     size: fill
-    video: /assets/uploads/inspiration_page_nari_moodelier.mov
+    video: /assets/uploads/inspiration_page_nari_moodelier-1-.mp4
     meaningful: Website inspiration page
     desc: Website inspiration page
   - type: _section_image
