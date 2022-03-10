@@ -57,7 +57,7 @@ projectBuilder:
     desc: Out of home
   - type: _section_video
     size: fill
-    video: /assets/uploads/spacw-1-.mov
+    video: /assets/uploads/spacw-1-.mp4
     meaningful: Home website
     desc: Home website
   - type: _section_image
