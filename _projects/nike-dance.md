@@ -27,9 +27,9 @@ projectBuilder:
   - type: _section_video
     size: fit
     meaningful: "Social animation Michaela "
-    desc: "Social animation Michaela "
+    desc: "Social video, Michaela "
     sound: true
-    video: /assets/uploads/10sec_16x9_master_nyc_full.mp4
+    video: /assets/uploads/10sec_16x9_master_nyc_full-1-.mp4
   - type: _section_image
     size: fill
     image: /assets/uploads/nike-dance_-nari-02.jpg
@@ -98,7 +98,7 @@ projectBuilder:
     desc: Typography
   - type: _section_video
     size: fit
-    video: /assets/uploads/short.mov
+    video: /assets/uploads/short-1-.mp4
     meaningful: Social Video, Trina
     sound: true
     desc: Social Video, Trina
