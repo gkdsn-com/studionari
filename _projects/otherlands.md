@@ -81,7 +81,7 @@ projectBuilder:
   - type: _section_image
     size: fill
     image: /assets/uploads/otherlands_assets-02.jpg
-    meaningful: colors
+    meaningful: Colors
     desc: Brand colors
   - type: _section_image
     size: fit
@@ -90,7 +90,7 @@ projectBuilder:
     desc: Scone palace
   - type: _section_video
     size: fit
-    video: /assets/uploads/02-somethings-coming-wtrees-1080x1350-1.mp4
+    video: /assets/uploads/02-somethings-coming-wtrees-1080x1350-1-1-.mp4
     meaningful: insta video 2
     sound: true
     desc: Launch video
