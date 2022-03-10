@@ -100,5 +100,5 @@ projectBuilder:
     size: fit
     meaningful: Vanda in motion
     desc: Vanda in motion
-    video: /assets/uploads/00-arise-comp.mov
+    video: /assets/uploads/00-arise-master-1-1-.mp4
 ---
