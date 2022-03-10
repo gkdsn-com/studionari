@@ -51,7 +51,7 @@ projectBuilder:
     meaningful: "Intro 2 "
   - type: _section_video
     size: fill
-    video: /assets/uploads/orange-blue-sky.mp4
+    video: /assets/uploads/orange-blue-sky-1-.mp4
     meaningful: frisson video
     desc: Frisson filter
   - type: _section_text
@@ -75,7 +75,7 @@ projectBuilder:
     desc: Festival Grounds
   - type: _section_video
     size: fit
-    video: /assets/uploads/otherlands-homepage3.mov
+    video: /assets/uploads/otherlands-homepage3-1-.mp4
     meaningful: Website landing page
     desc: Website landing page
   - type: _section_image
