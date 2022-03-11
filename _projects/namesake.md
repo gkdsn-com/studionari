@@ -38,13 +38,13 @@ projectBuilder:
   - type: _section_text
     size: one
     meaningful: intro text 2
-    textOne: The logotype was drawn to feel clean, with sharp edges and elongated
-      characters. This represented the idea of a stripped back beauty regime. We
-      then further integrated the use of a small repeated graphic motif in each
-      of the characters to create a link between each of them - representing the
-      bond between mother and daughter and the inception of Namesake. The mark
-      mimicked an almost 'Coat of Arms' aesthetic, further channeling the brand
-      story and heritage.
+    textOne: "## The logotype was drawn to feel clean, with sharp edges and
+      elongated characters. This represented the idea of a stripped back beauty
+      regime. We then further integrated the use of a small repeated graphic
+      motif in each of the characters to create a link between each of them -
+      representing the bond between mother and daughter and the inception of
+      Namesake. The mark mimicked an almost 'Coat of Arms' aesthetic, further
+      channeling the brand story and heritage."
   - type: _section_image
     size: fit
     image: /assets/uploads/namesake-01.jpg
