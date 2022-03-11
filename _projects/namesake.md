@@ -15,10 +15,10 @@ year: 2022
 projectBuilder:
   - type: _section_text
     size: one
-    textOne: We partnered with Los Angeles based Namesake to define a visual
-      identity that represented and advocated the radical simplicity of a one
-      step beauty regime. A concept passed from a dermatologist mother to
-      daughter.
+    textOne: "## We partnered with Nike Los Angeles based Namesake to define a
+      visual identity that represented and advocated the radical simplicity of a
+      one step beauty regime. A concept passed from a dermatologist mother to
+      daughter."
     meaningful: intro
   - type: _section_image
     size: fit
