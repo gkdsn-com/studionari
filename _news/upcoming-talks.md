@@ -1,6 +1,6 @@
 ---
 linkURL: https://underconsideration.com/firstround/2022-london/
-title: Upcoming Talks
+title: Upcoming talks
 image: /assets/uploads/mob_vi_nari_21-07.jpg
 date: 2022-04-25T14:55:33.878Z
 ---
