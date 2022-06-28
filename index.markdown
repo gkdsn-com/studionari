@@ -6,8 +6,8 @@ seo-description: "London based creative consultancy and design studio. "
 order:
   - project: Namesake
   - project: Otherlands
+  - project: Legacy Project
   - project: Mob
-  - project: "Nike: Legacy Project"
   - project: D&AD New Blood
   - project: Nike Dance
   - project: Good Ones
