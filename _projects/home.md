@@ -93,4 +93,19 @@ projectBuilder:
     size: fit
     image: /assets/uploads/home_nari_21-08.jpg
     meaningful: rm photography
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/home_catalogue_1.jpg
+    desc: "HOME Self Portrait Catalogue "
+    meaningful: "Home Catalgoue 1 "
+  - type: _section_image
+    size: fit
+    meaningful: Home Catalogue 2
+    image: /assets/uploads/home_catalogue.jpg
+    desc: "HOME Self Portrait Catalogue "
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/home_catalogue_3.jpg
+    meaningful: Home Catalogue 3
+    desc: "HOME Self Portrait Catalogue "
 ---
