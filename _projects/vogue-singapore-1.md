@@ -2,7 +2,7 @@
 layout: project
 footer: project
 title: Vogue Singapore
-featuredImage: /assets/uploads/cover_image.jpg
+featuredImage: /assets/uploads/cover_image_new.png
 desc: Strange is Beautiful - Redefining conventions of beauty through type
 client: Vogue
 sectors:
