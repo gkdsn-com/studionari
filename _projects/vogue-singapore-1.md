@@ -101,4 +101,9 @@ projectBuilder:
     meaningful: Vanda in motion
     desc: Vanda in motion
     video: /assets/uploads/00-arise-master-1-1-.mp4
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/img_3522.jpeg
+    meaningful: "boxes "
+    desc: Launch boxes
 ---
