@@ -3,7 +3,8 @@ layout: project
 footer: project
 title: Nike Dance
 featuredImage: /assets/uploads/screen-shot-2022-02-10-at-5.04.17-pm.png
-desc: Move You - A gestural typographic system for Nike's Dance campaign
+desc: Own the Floor - Championing self expression as a means for change for Nike
+  Dance
 client: Nike
 sectors:
   - Contemporary Culture
@@ -102,4 +103,15 @@ projectBuilder:
     meaningful: Social Video, Trina
     sound: true
     desc: Social Video, Trina
+  - type: _section_text
+    size: one
+    meaningful: intro
+    textOne: >-
+      It isn’t just their skills as athletes that make Dancers incredible.
+
+
+      It’s the ability to use Dance as a platform to challenge, create and expand culture and the communities around them. The overarching concept for the campaign was to champion dance and self expression as a means to stand for what you believe in. The sentiment being a call to action to harness the power behind standing strong, taking up space and owning the floor.
+
+
+      To bring this idea to life, we heroed each protagonist on the floor they ‘own’ - showing them in the dance context they represent.
 ---
