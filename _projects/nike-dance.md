@@ -42,6 +42,18 @@ projectBuilder:
     desc: "Social video, Michaela "
     sound: true
     video: /assets/uploads/10sec_16x9_master_nyc_full-1-.mp4
+  - type: _section_text
+    size: one
+    meaningful: Type
+    textOne: >-
+      ## We combined two principles to translate this idea further into the
+      creative - Expressive Movement & Graphic Narrative. 
+
+
+      ## The art direction dictated the ‘Expressive Movement’, showing each protagonist truly highlight their dance skills and athleticism through movement, expressing themselves in their own unique way.
+
+
+      ## This was layered with the Graphic Narrative, which drew on athlete insights using bespoke graphics to represent the ways in which each of them has made their voice heard and pushed the world forward.
   - type: _section_image
     size: fill
     image: /assets/uploads/nike-dance_-nari-02.jpg
