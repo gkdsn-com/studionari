@@ -28,4 +28,9 @@ projectBuilder:
     image: /assets/uploads/nari_bunch-02.jpg
     meaningful: Photography
     desc: Photography
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/nari_bunch-03.jpg
+    meaningful: Brand Colours
+    desc: Brand Colours
 ---
