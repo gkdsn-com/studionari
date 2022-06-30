@@ -57,10 +57,7 @@ aboutBuilder:
       * YouTube
   - title: Jobs
     body: >-
-      We are currently looking for full-time Senior Designers to join the team
-      remotely in our London studio. Please send your CV & Portfolio to
-      [work@studionari.co.uk](mailto:work@studionari.co.uk), with the subject
-      line "Senior Designer Position".
+      We are currently have no permanent openings.
 
 
       As part of the studio's offering we build bespoke teams tailored to the client and project, this means we are constantly looking for new partners to collaborate with. If you think your work, enthusiasm, and interest align with what we do at NARI please send your CV and Portfolio to [work@studionari.co.uk](mailto:work@studionari.co.uk), with the subject line "Freelance Position - Your title". We are looking for the following freelance positions;
@@ -68,21 +65,11 @@ aboutBuilder:
 
       Animator\
 
-      Designer\
-
-      Typographer\
-
-      Project Manager\
-
       Strategist\
-
-      Brand Designer\
 
       CGI Artists\
 
-      3D Designers\
-
-      Packaging Designers
+      3D Designers
   - title: Internships
     body: We are always looking for enthusiastic graduates to come and work with the
       team. If you think your work would be a good fit for the studio please
@@ -162,42 +149,70 @@ aboutBuilder:
 
       Creativepool
   - title: Talks
-    body: |-
-      Semi - Permanent, Auckland : Keynote Speaker
+    body: >-
+      Otherlands Music & Arts Festival, Scotland: Panelist I 2022
 
-      Adobe Live Paris : Workshop alongside Erik Spiekermann
 
-      D&AD The Future of Type 2019 : Speaker and Panelist
+      Experience Valencia, Valencia : Keynote Speaker | 2022 
 
-      London Design Festival : In conversation with British Design Council
 
-      Nicer Tuesdays : December 2019
+      First Round, From Under Consideration LLC, London: Keynote Speaker | 2022\
 
-      Apple x It's Nice That : New World Speaker & Workshop host
-
-      Us By Night Festival 2019 : Keynote Speaker
-
-      Design Bridge 2019 : Spark Talk
-
-      First Round, From Under Consideration LLC : Speaker
-
-      Type Thursday London x FemmeType : Speaker and Panelist
-
-      Swiss Interactive Media Design Day : Speaker
-
-      Monotype Brand Talks : Panelist
-
-      Protein Studios : 50 years of choice panelist\
       \
-      Robert Gordon's University : Annual Guest Lecturer
 
-      Computer Arts Magazine : London Studio Showcase
+      Apple x It's Nice That : New World Speaker & Workshop host  | 2021
 
-      Tumo Centre, Armenia : Two week branding workshop
 
-      Cass School of Design, London : Hot House Talk
+      Us By Night Festival 2019, Belgium : Keynote Speaker | 2019
 
-      Working Not Working : Design for good
 
-      Design Studio London : Smiling, Not Smiling event
+      Semi - Permanent, Auckland : Keynote Speaker | 2019
+
+
+      Swiss Interactive Media Design Day, Switzerland : Speaker | 2019
+
+
+      It's Nice That: Nicer Tuesdays, London  | 2019
+
+
+      Monotype Brand Talks : Panelist, London | 2019
+
+
+      D&AD The Future of Type 2019 : Speaker and Panelist, London | 2019
+
+
+      London Design Festival : In conversation with British Design Council  | 2019\
+
+      \
+
+      Adobe Live Paris : Workshop alongside Erik Spiekermann, France | 2018
+
+
+      Design Bridge 2019 : Spark Talk, London | 2018
+
+
+      Protein Studios : 50 years of choice panelist, London | 2017
+
+
+      Cass School of Design, London : Hot House Talk | 2017\
+
+      \
+
+      Type Thursday London x FemmeType : Speaker and Panelist | 2017\
+
+      \
+
+      Robert Gordon's University, Scotland : Annual Guest Lecturer
+
+
+      Computer Arts Magazine : London Studio Showcase | 2016
+
+
+      Tumo Centre : Two week branding workshop, Armenia | 2016
+
+
+      Working Not Working : Design for good, London  | 2016
+
+
+      Design Studio London : Smiling, Not Smiling event, London | 2016
 ---
