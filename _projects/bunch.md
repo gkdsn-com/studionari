@@ -43,6 +43,11 @@ projectBuilder:
     image: /assets/uploads/nari_bunch-04.jpg
     meaningful: Out of home
     desc: Out of home
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/nari_bunch_motion02.mp4
+    meaningful: Ident
+    desc: Ident
   - type: _section_image
     size: fit
     image: /assets/uploads/nari_bunch-05.jpg
@@ -88,9 +93,4 @@ projectBuilder:
     image: /assets/uploads/nari_bunch-13.jpg
     meaningful: Tote
     desc: Tote
-  - type: _section_video
-    size: fit
-    video: /assets/uploads/nari_bunch_motion02.mp4
-    meaningful: Ident
-    desc: Ident
 ---
