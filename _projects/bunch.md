@@ -19,12 +19,12 @@ services:
 year: 2022
 projectBuilder:
   - type: _section_image
-    size: fit
+    size: fill
     image: /assets/uploads/nari_bunch-01.jpg
     meaningful: Logotype
     desc: Bespoke Logotype
   - type: _section_image
-    size: fit
+    size: fill
     image: /assets/uploads/nari_bunch-02.jpg
     meaningful: Photography
     desc: Photography
@@ -34,12 +34,12 @@ projectBuilder:
     meaningful: Launch Video
     desc: Launch Video
   - type: _section_image
-    size: fit
+    size: fill
     image: /assets/uploads/nari_bunch-03.jpg
     meaningful: Brand Colours
     desc: Brand Colours
   - type: _section_image
-    size: fit
+    size: fill
     image: /assets/uploads/nari_bunch-04.jpg
     meaningful: Out of home
     desc: Out of home
@@ -49,12 +49,12 @@ projectBuilder:
     meaningful: Ident
     desc: Ident
   - type: _section_image
-    size: fit
+    size: fill
     image: /assets/uploads/nari_bunch-05.jpg
     meaningful: Brand typography
     desc: Brand typography
   - type: _section_image
-    size: fit
+    size: fill
     image: /assets/uploads/nari_bunch-06.jpg
     meaningful: Website
     desc: Website
@@ -64,12 +64,12 @@ projectBuilder:
     meaningful: Marque ident
     desc: Marque ident
   - type: _section_image
-    size: fit
+    size: fill
     image: /assets/uploads/nari_bunch-07.jpg
     meaningful: Brand world
     desc: Brand world
   - type: _section_image
-    size: fit
+    size: fill
     image: /assets/uploads/nari_bunch-08.jpg
     meaningful: Brand world
     desc: Brand world
@@ -79,12 +79,12 @@ projectBuilder:
     meaningful: Colour ident
     desc: Colour ident
   - type: _section_image
-    size: fit
+    size: fill
     image: /assets/uploads/nari_bunch-09.jpg
     meaningful: Brand world
     desc: Brand world
   - type: _section_image
-    size: fit
+    size: fill
     image: /assets/uploads/nari_bunch-10.jpg
     meaningful: Brand world
     desc: Brand world
@@ -94,17 +94,17 @@ projectBuilder:
     meaningful: Ident
     desc: Ident
   - type: _section_image
-    size: fit
+    size: fill
     image: /assets/uploads/nari_bunch-11.jpg
     meaningful: Brand world
     desc: Brand world
   - type: _section_image
-    size: fit
+    size: fill
     image: /assets/uploads/nari_bunch-12.jpg
     meaningful: Illustrations
     desc: Illustrations
   - type: _section_image
-    size: fit
+    size: fill
     image: /assets/uploads/nari_bunch-13.jpg
     meaningful: Tote
     desc: Tote
