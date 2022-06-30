@@ -68,16 +68,16 @@ projectBuilder:
     image: /assets/uploads/nari_bunch-07.jpg
     meaningful: Brand world
     desc: Brand world
-  - type: _section_video
-    size: fit
-    video: /assets/uploads/nari_bunch_motion03.mp4
-    meaningful: Colour ident
-    desc: Colour ident
   - type: _section_image
     size: fit
     image: /assets/uploads/nari_bunch-08.jpg
     meaningful: Brand world
     desc: Brand world
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/nari_bunch_motion03.mp4
+    meaningful: Colour ident
+    desc: Colour ident
   - type: _section_image
     size: fit
     image: /assets/uploads/nari_bunch-09.jpg
@@ -88,6 +88,11 @@ projectBuilder:
     image: /assets/uploads/nari_bunch-10.jpg
     meaningful: Brand world
     desc: Brand world
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/nari_bunch_motion04.mp4
+    meaningful: Ident
+    desc: Ident
   - type: _section_image
     size: fit
     image: /assets/uploads/nari_bunch-11.jpg
