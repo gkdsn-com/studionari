@@ -28,6 +28,11 @@ projectBuilder:
     image: /assets/uploads/nari_bunch-02.jpg
     meaningful: Photography
     desc: Photography
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/nari_bunch_launchvideo.mp4
+    meaningful: Launch Video
+    desc: Launch Video
   - type: _section_image
     size: fit
     image: /assets/uploads/nari_bunch-03.jpg
@@ -85,7 +90,7 @@ projectBuilder:
     desc: Tote
   - type: _section_video
     size: fit
-    video: /assets/uploads/nari_bunch_launchvideo.mp4
-    meaningful: Launch Video
-    desc: Launch Video
+    video: /assets/uploads/nari_bunch_motion02.mp4
+    meaningful: Ident
+    desc: Ident
 ---
