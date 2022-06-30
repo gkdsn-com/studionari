@@ -58,6 +58,11 @@ projectBuilder:
     image: /assets/uploads/nari_bunch-06.jpg
     meaningful: Website
     desc: Website
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/new_mark.mp4
+    meaningful: Marque ident
+    desc: Marque ident
   - type: _section_image
     size: fit
     image: /assets/uploads/nari_bunch-07.jpg
