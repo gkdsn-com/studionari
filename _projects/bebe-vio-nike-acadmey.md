@@ -81,22 +81,22 @@ projectBuilder:
     meaningful: OOH
     desc: OOH
   - type: _section_image
-    size: fill
+    size: fit
     image: /assets/uploads/bebe_vio_passback_nike_nari-07.jpg
     meaningful: Typography
     desc: Typography
   - type: _section_image
-    size: fill
+    size: fit
     image: /assets/uploads/bebe_vio_passback_nike_nari-10.jpg
     meaningful: Water bottle
     desc: Water bottle
   - type: _section_image
-    size: fill
+    size: fit
     image: /assets/uploads/bebe_vio_passback_nike_nari-08.jpg
     meaningful: Visual language
     desc: Visual language
   - type: _section_image
-    size: fill
+    size: fit
     image: /assets/uploads/bebe_vio_passback_nike_nari-13.jpg
     meaningful: Design Proposals
     desc: Design Proposals
