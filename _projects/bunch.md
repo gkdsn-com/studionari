@@ -23,4 +23,9 @@ projectBuilder:
     image: /assets/uploads/nari_bunch-01.jpg
     meaningful: Logotype
     desc: Bespoke Logotype
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/nari_bunch-02.jpg
+    meaningful: Photography
+    desc: Photography
 ---
