@@ -83,4 +83,9 @@ projectBuilder:
     image: /assets/uploads/nari_bunch-13.jpg
     meaningful: Tote
     desc: Tote
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/nari_bunch_launchvideo.mp4
+    meaningful: Launch Video
+    desc: Launch Video
 ---
