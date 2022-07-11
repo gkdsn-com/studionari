@@ -5,12 +5,12 @@ title: Homepage
 seo-description: "London based creative consultancy and design studio. "
 order:
   - project: Bunch
-  - project: Namesake
+  - project: Nike Dance
   - project: Otherlands
   - project: Mob
   - project: Legacy Project
   - project: D&AD New Blood
-  - project: Nike Dance
+  - project: Namesake
   - project: Good Ones
   - project: HOME
   - project: Vogue Singapore
