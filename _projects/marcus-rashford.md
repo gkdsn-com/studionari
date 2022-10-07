@@ -64,4 +64,19 @@ projectBuilder:
     video: /assets/uploads/01-arrows-tiled.mp4
     desc: Brand motion
     meaningful: Brand motion
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/rashford_nari_-02.png
+    desc: Brand Overview
+    meaningful: Brand Overview
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/rashford_ooh_nari_4.png
+    meaningful: Event application
+    desc: Event application
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/rashford_ooh_nari_3.png
+    meaningful: Poster
+    desc: Poster
 ---
