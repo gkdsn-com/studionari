@@ -34,4 +34,9 @@ projectBuilder:
     video: /assets/uploads/06-arrows-stretch.mp4
     desc: Brand motion
     meaningful: motion arrows
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/rashford_nari_-03.png
+    meaningful: brand colours
+    desc: Brand colours
 ---
