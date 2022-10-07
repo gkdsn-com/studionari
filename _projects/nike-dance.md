@@ -3,8 +3,7 @@ layout: project
 footer: project
 title: Nike Dance
 featuredImage: /assets/uploads/screen-shot-2022-02-10-at-5.04.17-pm.png
-desc: Own the Floor - Championing self expression as a means for change for Nike
-  Dance
+desc: Championing self expression as a means for change for Nike Dance
 client: Nike
 sectors:
   - Contemporary Culture
