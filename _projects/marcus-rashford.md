@@ -84,4 +84,18 @@ projectBuilder:
     image: /assets/uploads/rashford_nari_-07.png
     meaningful: Brand overview
     desc: Brand overview
+  - type: _section_text
+    size: one
+    textOne: >-
+      ## Changing the game.
+
+
+      ## Continuing our relationship with Nike Passback, our identity for the initiative’s new programme, Play Forward, led by footballing superstar Marcus Rashford, sets to unite Nike and Rashford’s shared commitment to change.
+
+
+      ## Illustrating the footballer’s renowned dedication to the UK’s most vulnerable, Play Forward goes beyond the confines of the pitch – giving disadvantaged kids a communal space for sport and support.
+
+
+      ## Representing Rashford and his uplifting community-focused mentality, our visual identity for the academy embraces the joyful connection between people and players. Using the brand as an opportunity to show the game as something greater than the sum of its parts.
+    meaningful: Intro type
 ---
