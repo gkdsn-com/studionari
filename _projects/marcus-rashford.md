@@ -59,4 +59,9 @@ projectBuilder:
     image: /assets/uploads/rashford_nari_-06.png
     meaningful: Typography
     desc: Typography
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/01-arrows-tiled.mp4
+    desc: Brand motion
+    meaningful: Brand motion
 ---
