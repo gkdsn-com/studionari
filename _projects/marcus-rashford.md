@@ -29,4 +29,9 @@ projectBuilder:
     image: /assets/uploads/rashford_nari_-04.png
     meaningful: photo
     desc: Brand photography
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/06-arrows-stretch.mp4
+    desc: Brand motion
+    meaningful: motion arrows
 ---
