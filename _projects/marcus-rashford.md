@@ -24,4 +24,9 @@ projectBuilder:
     image: /assets/uploads/rashford_ooh_nari_2.png
     meaningful: OOH
     desc: OOH Posters
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/rashford_nari_-04.png
+    meaningful: photo
+    desc: Brand photography
 ---
