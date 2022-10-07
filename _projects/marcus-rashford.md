@@ -19,4 +19,9 @@ projectBuilder:
     video: /assets/uploads/06-logo-linedrawin-extrastretchy.mp4
     desc: Logo ident
     meaningful: Logo motion
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/rashford_ooh_nari_2.png
+    meaningful: OOH
+    desc: OOH Posters
 ---
