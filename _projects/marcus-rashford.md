@@ -13,4 +13,10 @@ services:
   - Visual Identity
   - Animation
 year: 2022
+projectBuilder:
+  - type: _section_video
+    size: fill
+    video: /assets/uploads/06-logo-linedrawin-extrastretchy.mp4
+    desc: Logo ident
+    meaningful: Logo motion
 ---
