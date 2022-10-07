@@ -44,4 +44,19 @@ projectBuilder:
     image: /assets/uploads/rashford_nari_-05.png
     desc: Brand Overview
     meaningful: Brand Overview
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/03-swoosh-3d-scribble-multi.mp4
+    desc: Brand motion
+    meaningful: Brand motion
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/rashford_ooh_nari_1.png
+    meaningful: OOH Posters
+    desc: OOH Posters
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/rashford_nari_-06.png
+    meaningful: Typography
+    desc: Typography
 ---
