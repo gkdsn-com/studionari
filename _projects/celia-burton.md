@@ -2,7 +2,7 @@
 layout: project
 footer: project
 title: Celia Burton
-featuredImage: /assets/uploads/cover578.jpg
+featuredImage: /assets/uploads/cover578.png
 desc: Making Faces - A humanist identity for one of Beauty's most charismatic
   personalities
 client: Celia Burton
