@@ -4,6 +4,7 @@ footer: index
 title: Homepage
 seo-description: "London based creative consultancy and design studio. "
 order:
+  - project: "Marcus Rashford "
   - project: Bunch
   - project: Nike Dance
   - project: Otherlands
@@ -20,10 +21,8 @@ order:
   - project: Drest
   - project: Charli XCX
   - project: Moodelier
-  - project: HOME Celebrating Joy
   - project: Threads of Fate
   - project: Celia Burton
-  - project: Selfridges & Co
 intro:
   toggle: true
   text: Click to enter
