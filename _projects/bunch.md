@@ -2,7 +2,7 @@
 layout: project
 footer: project
 title: Bunch
-featuredImage: /assets/uploads/cover.png
+featuredImage: /assets/uploads/bunch_casestudy-01.jpg
 desc: "Best of the Bunch - Creating an inclusive space for vegan cooking
   inspiration "
 client: Mob
