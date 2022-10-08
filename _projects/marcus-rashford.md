@@ -2,7 +2,7 @@
 layout: project
 footer: project
 title: "Marcus Rashford "
-featuredImage: /assets/uploads/cover_2.png
+featuredImage: /assets/uploads/cover.png
 desc: Bringing life to Marcus Rashford’s progressive youth programme with Nike.
 client: Nike
 sectors:
