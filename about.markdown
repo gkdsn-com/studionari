@@ -5,31 +5,23 @@ permalink: /about/
 footer: default
 aboutBuilder:
   - title: Studio
-    body: >-
-      Hello, we’re NARI, a design practice established to put character back in
+    body: Hello, we’re NARI, a design practice established to put character back in
       creativity, placing people and play at the forefront of what we do.
       Through this mindful approach, we bring humanity and personality to the
       commercial landscape while defining critical expertise within artistic
-      spaces.  \
-
-      \
-
-      Fundamentally led by our namesake (Not Always Right Ideas), we use our mantra to push people and projects into unexpected new directions, grounded by an expertise defined by challenging ideas and daring to go where others dare not. Together, we pilot our clients down paths that are similarly anti-prescriptive and adventurous—crafting ideas and aesthetics that set new artistic standards.\
+      spaces.
+  - title: Approach
+    body: >-
+      Fundamentally led by our namesake (Not Always Right Ideas), we use our
+      mantra to push people and projects into unexpected new directions,
+      grounded by an expertise defined by challenging ideas and daring to go
+      where others dare not. Together, we pilot our clients down paths that are
+      similarly anti-prescriptive and adventurous—crafting ideas and aesthetics
+      that set new artistic standards.\
 
       \
 
       At NARI, we are as proud of our imperfect expression as we are powered by strategic thinking, founding the work we do with branding and psychological theory before the pen touches the page. Collaborative at our core, we work alongside our expansive NARI network of multi-disciplinary specialists, ensuring that each and every project is uniquely tailored to its specific needs.
-  - title: Approach
-    body: >-
-      Art x Science - We combine artistic practice with branding, strategic and
-      psychological theory. This allows us to ensure any outcome is grounded in
-      truth, yet transmits those all-important humanistic and artistic values. 
-
-
-      Our extended family - Something we pride ourself on is building bespoke teams for every project from our growing network of multi-disciplinary creatives. This ensures we have the right people on the right job and teams comprising of the most talented creatives in the industry
-
-
-      The best ideas come from conversations **\-** Whether it be in the form of workshops with our clients or internal sprints within our team, we try and structure our projects in a way that we can have as many of these moments as possible.
   - title: Clients
     body: |-
       * Adidas
@@ -40,6 +32,7 @@ aboutBuilder:
       * Boiler Room
       * Champion
       * Crack Magazine
+      * Coach
       * Charli XCX
       * Celia Burton
       * D&AD
@@ -53,8 +46,10 @@ aboutBuilder:
       * Modular by Mensah
       * Moodelier
       * Nike (Global, US, Asia)
+      * Rapha
       * Reebok
       * Selfridges & Co
+      * Snipfeed
       * Somerset House
       * Sony Music
       * SKP Beijing
