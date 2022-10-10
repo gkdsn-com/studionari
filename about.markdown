@@ -36,12 +36,14 @@ aboutBuilder:
       * Charli XCX
       * Celia Burton
       * D&AD
+      * DeepMind
       * Diesel
       * Drest
       * Google Creative Lab
       * HOME
       * Judith Lieber
       * Levi's
+      * Marcus Rashford
       * Mob
       * Modular by Mensah
       * Moodelier
