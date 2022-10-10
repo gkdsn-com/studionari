@@ -132,7 +132,7 @@ aboutBuilder:
 
       Creative Review, Various (2) : 2020, 2021 London
 
-      It's Nice That : 2022 
+      It's Nice That, Various : 2022 
 
       Creative Review : 2022
 
@@ -141,6 +141,10 @@ aboutBuilder:
       Etapes : 2022, France
 
       Pangram Pangram Paper : 2022
+
+      Creative Review : (2) 2022
+
+      Intern Magazine : 2022
   - title: Judging
     body: |-
       Creative Circle, Gold judge
