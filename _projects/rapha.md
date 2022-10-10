@@ -19,7 +19,7 @@ projectBuilder:
   - type: _section_video
     size: fit
     meaningful: Launch Video
-    video: /assets/uploads/y2mate.is-rapha-women-s-100-celebrating-10-years-wu1tniirhlw-1080p-1655515920055.mp4
+    video: /assets/uploads/y2mate.is-rapha-women-s-100-celebrating-10-years-wu1tniirhlw-1080p-1655515920055-1-.mp4
     sound: true
     desc: Launch Video
 ---
