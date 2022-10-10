@@ -104,7 +104,7 @@ projectBuilder:
     meaningful: Event application
     desc: Event application
   - type: _section_image
-    size: fill
+    size: fit
     image: /assets/uploads/rashford_ooh_nari_3.png
     meaningful: Poster
     desc: Poster
