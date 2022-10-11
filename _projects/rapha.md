@@ -27,4 +27,14 @@ projectBuilder:
     image: /assets/uploads/rapha_womens-100_agnes-lloyd-platt-23.jpg
     meaningful: Campaign image
     desc: Campaign image
+  - type: _section_image
+    size: fill
+    image: /assets/uploads/artboard-1.png
+    meaningful: Top design, front
+    desc: Top design, front
+  - type: _section_image
+    size: fill
+    image: /assets/uploads/artboard-2.png
+    meaningful: Top design, back
+    desc: Top design, back
 ---
