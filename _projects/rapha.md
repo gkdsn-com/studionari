@@ -71,4 +71,24 @@ projectBuilder:
     image: /assets/uploads/rapha_womens-100_agnes-lloyd-platt-25.jpg
     meaningful: Campaign imagery
     desc: Campaign imagery
+  - type: _section_image
+    size: fill
+    image: /assets/uploads/artboard-6.png
+    meaningful: Bespoke type
+    desc: Bespoke type
+  - type: _section_image
+    size: fill
+    image: /assets/uploads/rapha_womens-100_agnes-lloyd-platt-16.jpg
+    meaningful: Campaign imagery
+    desc: Campaign imagery
+  - type: _section_image
+    size: fill
+    meaningful: Short sleeve front
+    image: /assets/uploads/artboard-3.jpg
+    desc: Short sleeve front
+  - type: _section_image
+    size: fit
+    meaningful: Short sleeve back
+    desc: Short sleeve back
+    image: /assets/uploads/artboard-4.jpg
 ---
