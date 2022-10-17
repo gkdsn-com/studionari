@@ -91,4 +91,19 @@ projectBuilder:
     meaningful: Short sleeve back
     desc: Short sleeve back
     image: /assets/uploads/artboard-4.jpg
+  - type: _section_image
+    size: fill
+    image: /assets/uploads/rapha_womens-100_agnes-lloyd-platt-19.jpg
+    meaningful: Campaign imagery
+    desc: Campaign imagery
+  - type: _section_image
+    size: fill
+    image: /assets/uploads/artboard-7.jpg
+    meaningful: Shorts
+    desc: Shorts
+  - type: _section_image
+    size: fill
+    image: /assets/uploads/artboard-8.jpg
+    meaningful: Hat
+    desc: Hat
 ---
