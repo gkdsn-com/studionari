@@ -33,6 +33,14 @@ projectBuilder:
     video: /assets/uploads/y2mate.is-rapha-women-s-100-celebrating-10-years-wu1tniirhlw-1080p-1655515920055-1-.mp4
     sound: true
     desc: Launch Video
+  - type: _section_text
+    size: one
+    textOne: >-
+      ## Pedal, play and people.
+
+
+      ## To convey the coming together of a community, we led the kit’s creative with whimsical, intertwining moments of typography – creating an uplifting aesthetic that mirrors the 100 Community’s support for one another. Unapologetically expressive, the kit moves as the rider does, with energy, play and people at its very heart.
+    meaningful: type two
   - type: _section_image
     size: fill
     image: /assets/uploads/rapha_womens-100_agnes-lloyd-platt-23.jpg
@@ -117,12 +125,4 @@ projectBuilder:
     image: /assets/uploads/artboard-8.jpg
     meaningful: Hat
     desc: Hat
-  - type: _section_text
-    size: one
-    textOne: >-
-      ## Pedal, play and people.
-
-
-      ## To convey the coming together of a community, we led the kit’s creative with whimsical, intertwining moments of typography – creating an uplifting aesthetic that mirrors the 100 Community’s support for one another. Unapologetically expressive, the kit moves as the rider does, with energy, play and people at its very heart.
-    meaningful: type two
 ---
