@@ -16,6 +16,17 @@ services:
   - Product
 year: 2022
 projectBuilder:
+  - type: _section_text
+    size: one
+    textOne: >-
+      ## Good rides and great vibes.
+
+
+      ## Working closely alongside Rapha’s creative team, we designed a complete cycling kit to celebrate the 10th anniversary of Rapha Women’s 100 Community. Embodying the spirit and unstoppably drive of the cycling sisterhood. 
+
+
+      ## Inspired by their unrivalled determination, we turned to the notion of play, people and participation, creating work that represented the unity of the community and marked the club with a uniform to be proud of.
+    meaningful: Intro
   - type: _section_video
     size: fit
     meaningful: Launch Video
@@ -109,12 +120,9 @@ projectBuilder:
   - type: _section_text
     size: one
     textOne: >-
-      ## Good rides and great vibes.
+      ## Pedal, play and people.
 
 
-      ## Working closely alongside Rapha’s creative team, we designed a complete cycling kit to celebrate the 10th anniversary of Rapha Women’s 100 Community. Embodying the spirit and unstoppably drive of the cycling sisterhood. 
-
-
-      ## Inspired by their unrivalled determination, we turned to the notion of play, people and participation, creating work that represented the unity of the community and marked the club with a uniform to be proud of.
-    meaningful: Intro
+      ## To convey the coming together of a community, we led the kit’s creative with whimsical, intertwining moments of typography – creating an uplifting aesthetic that mirrors the 100 Community’s support for one another. Unapologetically expressive, the kit moves as the rider does, with energy, play and people at its very heart.
+    meaningful: type two
 ---
