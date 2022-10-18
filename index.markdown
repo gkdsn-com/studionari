@@ -23,7 +23,6 @@ order:
   - project: Charli XCX
   - project: Moodelier
   - project: Threads of Fate
-  - project: Celia Burton
 intro:
   toggle: true
   text: Click to enter
