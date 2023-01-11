@@ -11,4 +11,9 @@ services:
   - Brand Strategy
   - Visual Identity
   - Website
+  - App Design
+  - Tone of Voice
+  - UX Design
+  - Bespoke Typography
+year: 2022
 ---
