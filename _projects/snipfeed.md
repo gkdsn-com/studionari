@@ -32,6 +32,20 @@ projectBuilder:
     size: fit
     image: /assets/uploads/snipfeed_nari_casestudy_9.jpg
     meaningful: OOH
+  - type: _section_text
+    size: one
+    textOne: >-
+      ## To infinity and beyond!
+
+
+      ## **As Snipfeed acts as a portal to greater opportunity for its audience, so too does its identity transport you to something (and somewhere) else.**
+
+
+      ## **Through its exuberant and aesthetically-contrasting otherworldly realm, Snipfeed embodies the individuality at the brand’s core. Populating ‘The Universe of You’ with the character and charisma instrumental to the platform.**
+
+
+      ## **Playfully combining 2D and 3D illustrations, textures and type, the result is a brand that is truly distinct and representative of Snipfeed’s eclectic community. A brand, fundamentally, without limits. An identity that takes its users wherever they need to be.**
+    meaningful: Text two
   - type: _section_video
     size: fit
     video: /assets/uploads/snipfeed_nari_wordmarkreveal.mp4
@@ -60,6 +74,10 @@ projectBuilder:
     size: fit
     video: /assets/uploads/snipfeed_nari_website.mp4
     meaningful: Website
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/snipfeed_nari_illustrationmotion.mp4
+    meaningful: Illustration moving
   - type: _section_image
     size: fit
     image: /assets/uploads/snipfeed_nari_casestudy_5.jpg
@@ -76,4 +94,8 @@ projectBuilder:
     size: fit
     video: /assets/uploads/snipfeed_nari_meetcreators.mp4
     meaningful: Meet the creators
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/snipfeed_nari_smarkanimation.mp4
+    meaningful: marque
 ---
