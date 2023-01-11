@@ -12,8 +12,8 @@ order:
   - project: Nike Dance
   - project: Otherlands
   - project: Mob
-  - project: Vogue Singapore
   - project: Legacy Project
+  - project: Vogue Singapore
   - project: D&AD New Blood
   - project: Good Ones
   - project: Namesake
