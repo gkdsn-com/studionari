@@ -52,4 +52,12 @@ projectBuilder:
     size: fit
     video: /assets/uploads/snipfeed_nari_phone.mp4
     meaningful: "Phone motion "
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/snipfeed_nari_casestudy_6.jpg
+    meaningful: Icons
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/snipfeed_nari_website.mp4
+    meaningful: Website
 ---
