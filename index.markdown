@@ -5,9 +5,9 @@ title: Homepage
 seo-description: "London based creative consultancy and design studio. "
 order:
   - project: Snipfeed
-  - project: Rapha
-  - project: Bunch
   - project: "Marcus Rashford "
+  - project: Bunch
+  - project: Rapha
   - project: Nike Dance
   - project: Otherlands
   - project: Mob
