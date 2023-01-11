@@ -5,22 +5,22 @@ title: Homepage
 seo-description: "London based creative consultancy and design studio. "
 order:
   - project: Snipfeed
-  - project: Rapha
-  - project: Bunch
   - project: "Marcus Rashford "
+  - project: Bunch
+  - project: Rapha
   - project: Nike Dance
   - project: Otherlands
   - project: Mob
+  - project: Vogue Singapore
   - project: Legacy Project
   - project: D&AD New Blood
-  - project: Namesake
   - project: Good Ones
+  - project: Namesake
   - project: HOME
-  - project: Vogue Singapore
-  - project: Modular by Mensah
-  - project: Positiva
   - project: Bebe Vio Academy
+  - project: Modular by Mensah
   - project: Drest
+  - project: Positiva
   - project: Charli XCX
   - project: Moodelier
   - project: Threads of Fate
