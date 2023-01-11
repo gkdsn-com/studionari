@@ -7,6 +7,7 @@ order:
   - project: Snipfeed
   - project: "Marcus Rashford "
   - project: Bunch
+  - project: "Coach x Lil Nas X "
   - project: Rapha
   - project: Nike Dance
   - project: Otherlands
