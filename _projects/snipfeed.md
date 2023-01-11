@@ -60,4 +60,20 @@ projectBuilder:
     size: fit
     video: /assets/uploads/snipfeed_nari_website.mp4
     meaningful: Website
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/snipfeed_nari_casestudy_5.jpg
+    meaningful: Billboard
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/snipfeed_nari_illustration.mp4
+    meaningful: emoji
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/snipfeed_nari_casestudy_4.jpg
+    meaningful: imagery
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/snipfeed_nari_meetcreators.mp4
+    meaningful: Meet the creators
 ---
