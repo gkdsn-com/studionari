@@ -4,11 +4,11 @@ footer: index
 title: Homepage
 seo-description: "London based creative consultancy and design studio. "
 order:
-  - project: Wildcat
   - project: Snipfeed
   - project: "Marcus Rashford "
   - project: Bunch
   - project: "Coach x Lil Nas X "
+  - project: Wildcat
   - project: Rapha
   - project: Nike Dance
   - project: Otherlands
