@@ -58,4 +58,12 @@ projectBuilder:
     size: fill
     image: /assets/uploads/01_wildcat_casestudy_8.png
     meaningful: typespecimen 10
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/untitled.mp4
+    meaningful: poster motion
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/01_wildcat_casestudy_.png
+    meaningful: title
 ---
