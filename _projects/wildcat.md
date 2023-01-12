@@ -54,4 +54,8 @@ projectBuilder:
     size: fill
     image: /assets/uploads/01_wildcat_casestudy_9.png
     meaningful: credits
+  - type: _section_image
+    size: fill
+    image: /assets/uploads/01_wildcat_casestudy_8.png
+    meaningful: typespecimen 10
 ---
