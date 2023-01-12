@@ -4,6 +4,7 @@ footer: index
 title: Homepage
 seo-description: "London based creative consultancy and design studio. "
 order:
+  - project: Wildcat
   - project: Snipfeed
   - project: "Marcus Rashford "
   - project: Bunch
