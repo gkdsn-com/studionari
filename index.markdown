@@ -27,7 +27,7 @@ order:
   - project: Moodelier
   - project: Threads of Fate
 intro:
-  toggle: true
+  toggle: false
   text: Click to enter
   content:
     - type: introvideo
