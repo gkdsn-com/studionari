@@ -25,4 +25,24 @@ projectBuilder:
     size: fit
     image: /assets/uploads/01_tara_hakin_case_study-14.png
     meaningful: "5"
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/01_tara_hakin_case_study-15.png
+    meaningful: "6"
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/01_tara_hakin_case_study-32.png
+    meaningful: "7"
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/01_tara_hakin_case_study-17.png
+    meaningful: "8"
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/01_tara_hakin_case_study-25.png
+    meaningful: "9"
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/01_tara_hakin_case_study-28.png
+    meaningful: "10"
 ---
