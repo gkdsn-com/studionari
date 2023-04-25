@@ -23,6 +23,10 @@ projectBuilder:
     meaningful: "24"
   - type: _section_image
     size: fit
+    meaningful: "11"
+    image: /assets/uploads/case_study_nari-01.png
+  - type: _section_image
+    size: fit
     image: /assets/uploads/01_tara_hakin_case_study-03.png
     meaningful: "4"
   - type: _section_image
@@ -35,20 +39,12 @@ projectBuilder:
     meaningful: "7"
   - type: _section_image
     size: fit
-    meaningful: "11"
-    image: /assets/uploads/case_study_nari-01.png
+    image: /assets/uploads/01_tara_hakin_case_study-25.png
+    meaningful: "9"
   - type: _section_image
     size: fit
     image: /assets/uploads/01_tara_hakin_case_study-17.png
     meaningful: "8"
-  - type: _section_image
-    size: fit
-    image: /assets/uploads/01_tara_hakin_case_study-14.png
-    meaningful: "5"
-  - type: _section_image
-    size: fit
-    image: /assets/uploads/01_tara_hakin_case_study-25.png
-    meaningful: "9"
   - type: _section_image
     size: fit
     image: /assets/uploads/01_tara_hakin_case_study-28.png
@@ -57,10 +53,22 @@ projectBuilder:
     size: fit
     meaningful: "12"
     image: /assets/uploads/case_study_nari-03.png
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/tara_hakin_insta_square.mp4
+    meaningful: "23"
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/typespread_1.mp4
+    meaningful: "22"
   - type: _section_image
     size: fit
     meaningful: "13"
     image: /assets/uploads/case_study_nari-04.png
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/typespread_6-1-.mp4
+    meaningful: "19"
   - type: _section_image
     size: fit
     meaningful: "14"
@@ -71,34 +79,26 @@ projectBuilder:
     image: /assets/uploads/case_study_nari-06.png
   - type: _section_image
     size: fit
-    meaningful: "16"
-    image: /assets/uploads/case_study_nari-07.png
+    image: /assets/uploads/01_tara_hakin_case_study-14.png
+    meaningful: "5"
   - type: _section_image
     size: fit
-    meaningful: "17"
-    image: /assets/uploads/case_study_nari-08.png
+    meaningful: "16"
+    image: /assets/uploads/case_study_nari-07.png
   - type: _section_image
     size: fit
     meaningful: "18"
     image: /assets/uploads/case_study_nari-09.png
   - type: _section_video
     size: fit
-    video: /assets/uploads/typespread_6-1-.mp4
-    meaningful: "19"
-  - type: _section_video
-    size: fit
     meaningful: "20"
     video: /assets/uploads/typespread_4.mp4
+  - type: _section_image
+    size: fit
+    meaningful: "17"
+    image: /assets/uploads/case_study_nari-08.png
   - type: _section_video
     size: fit
     video: /assets/uploads/typespread_2.mp4
     meaningful: "21"
-  - type: _section_video
-    size: fit
-    video: /assets/uploads/typespread_1.mp4
-    meaningful: "22"
-  - type: _section_video
-    size: fit
-    video: /assets/uploads/tara_hakin_insta_square.mp4
-    meaningful: "23"
 ---
