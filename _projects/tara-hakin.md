@@ -45,4 +45,36 @@ projectBuilder:
     size: fit
     image: /assets/uploads/01_tara_hakin_case_study-28.png
     meaningful: "10"
+  - type: _section_image
+    size: fit
+    meaningful: "11"
+    image: /assets/uploads/case_study_nari-01.png
+  - type: _section_image
+    size: fit
+    meaningful: "12"
+    image: /assets/uploads/case_study_nari-03.png
+  - type: _section_image
+    size: fit
+    meaningful: "13"
+    image: /assets/uploads/case_study_nari-04.png
+  - type: _section_image
+    size: fit
+    meaningful: "14"
+    image: /assets/uploads/case_study_nari-05.png
+  - type: _section_image
+    size: fit
+    meaningful: "15"
+    image: /assets/uploads/case_study_nari-06.png
+  - type: _section_image
+    size: fit
+    meaningful: "16"
+    image: /assets/uploads/case_study_nari-07.png
+  - type: _section_image
+    size: fit
+    meaningful: "17"
+    image: /assets/uploads/case_study_nari-08.png
+  - type: _section_image
+    size: fit
+    meaningful: "18"
+    image: /assets/uploads/case_study_nari-09.png
 ---
