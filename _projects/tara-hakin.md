@@ -85,4 +85,20 @@ projectBuilder:
     size: fit
     meaningful: "20"
     video: /assets/uploads/typespread_4.mp4
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/typespread_2.mp4
+    meaningful: "21"
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/typespread_1.mp4
+    meaningful: "22"
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/tara_hakin_insta_square.mp4
+    meaningful: "23"
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/th_marque_latex_2.mp4
+    meaningful: "24"
 ---
