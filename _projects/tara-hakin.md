@@ -77,4 +77,12 @@ projectBuilder:
     size: fit
     meaningful: "18"
     image: /assets/uploads/case_study_nari-09.png
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/typespread_6-1-.mp4
+    meaningful: "19"
+  - type: _section_video
+    size: fit
+    meaningful: "20"
+    video: /assets/uploads/typespread_4.mp4
 ---
