@@ -17,14 +17,14 @@ projectBuilder:
     size: fit
     image: /assets/uploads/01_tara_hakin_case_study-01.png
     meaningful: "3"
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/th_marque_latex_2.mp4
+    meaningful: "24"
   - type: _section_image
     size: fit
     image: /assets/uploads/01_tara_hakin_case_study-03.png
     meaningful: "4"
-  - type: _section_image
-    size: fit
-    image: /assets/uploads/01_tara_hakin_case_study-14.png
-    meaningful: "5"
   - type: _section_image
     size: fit
     image: /assets/uploads/01_tara_hakin_case_study-15.png
@@ -35,8 +35,16 @@ projectBuilder:
     meaningful: "7"
   - type: _section_image
     size: fit
+    meaningful: "11"
+    image: /assets/uploads/case_study_nari-01.png
+  - type: _section_image
+    size: fit
     image: /assets/uploads/01_tara_hakin_case_study-17.png
     meaningful: "8"
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/01_tara_hakin_case_study-14.png
+    meaningful: "5"
   - type: _section_image
     size: fit
     image: /assets/uploads/01_tara_hakin_case_study-25.png
@@ -45,10 +53,6 @@ projectBuilder:
     size: fit
     image: /assets/uploads/01_tara_hakin_case_study-28.png
     meaningful: "10"
-  - type: _section_image
-    size: fit
-    meaningful: "11"
-    image: /assets/uploads/case_study_nari-01.png
   - type: _section_image
     size: fit
     meaningful: "12"
@@ -97,8 +101,4 @@ projectBuilder:
     size: fit
     video: /assets/uploads/tara_hakin_insta_square.mp4
     meaningful: "23"
-  - type: _section_video
-    size: fit
-    video: /assets/uploads/th_marque_latex_2.mp4
-    meaningful: "24"
 ---
