@@ -13,4 +13,16 @@ projectBuilder:
     size: fit
     image: /assets/uploads/case_study_nari-02.png
     meaningful: "2"
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/01_tara_hakin_case_study-01.png
+    meaningful: "3"
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/01_tara_hakin_case_study-03.png
+    meaningful: "4"
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/01_tara_hakin_case_study-14.png
+    meaningful: "5"
 ---
