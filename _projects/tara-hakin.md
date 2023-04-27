@@ -4,6 +4,17 @@ footer: project
 title: Tara Hakin
 featuredImage: /assets/uploads/tara_cover.png
 desc: Brand Identity for the coveted fashion designer
+client: Tara Hakin
+sectors:
+  - Fashion
+services:
+  - Packaging
+  - Creative Direction
+  - Bespoke Typography
+  - Visual Identity
+  - 3D Design
+  - Animation
+year: 2023
 projectBuilder:
   - type: _section_image
     size: fill
