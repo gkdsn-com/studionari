@@ -2,7 +2,7 @@
 layout: project
 footer: project
 title: Tara Hakin
-featuredImage: /assets/uploads/tara_cover_3.png
+featuredImage: /assets/uploads/cover_-.png
 desc: Sensual Armour - Celebrating the intimate connection between body & clothing
 client: Tara Hakin
 sectors:
