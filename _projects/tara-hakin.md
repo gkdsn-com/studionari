@@ -3,7 +3,7 @@ layout: project
 footer: project
 title: Tara Hakin
 featuredImage: /assets/uploads/tara_cover_3.png
-desc: Brand Identity for the coveted fashion designer
+desc: Sensual Armour - Celebrating the intimate connection between body & clothing
 client: Tara Hakin
 sectors:
   - Fashion
@@ -29,6 +29,15 @@ projectBuilder:
     size: fill
     image: /assets/uploads/case_study_nari-10.png
     meaningful: "1"
+  - type: _section_text
+    size: one
+    textOne: "### Our creative concept celebrates the interaction between the human
+      body and the garment, exploring the intimate and sensual experience of
+      wearing clothing. Emphasising the importance of natural form and
+      materiality, our approach explores how the clothing can act as an
+      extension of the individual and offer protection to the outside world,
+      like a suit of armor."
+    meaningful: intro text two
   - type: _section_image
     size: fit
     image: /assets/uploads/case_study_nari-02.png
