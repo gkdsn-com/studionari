@@ -27,7 +27,7 @@ projectBuilder:
       ## Beyond simply a tool for sharing links, Snipfeed takes the link-in-bio in a whole new direction – offering economic empowerment and the opportunity to turn their creative output into something effortlessly monetisable.
 
 
-      ## **By providing an easily accessible digital storefront, Snipfeed puts all of a creator’s touchpoints (or snips) into one unified area. Ensuring that no matter the following, scale or scope, they’re here to turn passion into profession.**
+      ## By providing an easily accessible digital storefront, Snipfeed puts all of a creator’s touchpoints (or snips) into one unified area. Ensuring that no matter the following, scale or scope, they’re here to turn passion into profession.
   - type: _section_image
     size: fit
     image: /assets/uploads/snipfeed_nari_casestudy_9.jpg
@@ -38,13 +38,13 @@ projectBuilder:
       ## To infinity and beyond!
 
 
-      ## **As Snipfeed acts as a portal to greater opportunity for its audience, so too does its identity transport you to something (and somewhere) else.**
+      ## As Snipfeed acts as a portal to greater opportunity for its audience, so too does its identity transport you to something (and somewhere) else.
 
 
-      ## **Through its exuberant and aesthetically-contrasting otherworldly realm, Snipfeed embodies the individuality at the brand’s core. Populating ‘The Universe of You’ with the character and charisma instrumental to the platform.**
+      ## Through its exuberant and aesthetically-contrasting otherworldly realm, Snipfeed embodies the individuality at the brand’s core. Populating ‘The Universe of You’ with the character and charisma instrumental to the platform.
 
 
-      ## **Playfully combining 2D and 3D illustrations, textures and type, the result is a brand that is truly distinct and representative of Snipfeed’s eclectic community. A brand, fundamentally, without limits. An identity that takes its users wherever they need to be.**
+      ## Playfully combining 2D and 3D illustrations, textures and type, the result is a brand that is truly distinct and representative of Snipfeed’s eclectic community. A brand, fundamentally, without limits. An identity that takes its users wherever they need to be.
     meaningful: Text two
   - type: _section_video
     size: fit
