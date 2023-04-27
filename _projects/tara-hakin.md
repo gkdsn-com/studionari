@@ -2,7 +2,7 @@
 layout: project
 footer: project
 title: Tara Hakin
-featuredImage: /assets/uploads/tara_cover.png
+featuredImage: /assets/uploads/tara_cover_3.png
 desc: Brand Identity for the coveted fashion designer
 client: Tara Hakin
 sectors:
