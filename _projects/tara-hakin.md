@@ -18,8 +18,8 @@ year: 2023
 projectBuilder:
   - type: _section_text
     size: one
-    textOne: "### Fashion designer Tara Hakin aimed to enhance her visual identity
-      to reflect the expressive and luxurious nature of her clothing, while also
+    textOne: "## Fashion designer Tara Hakin aimed to enhance her visual identity to
+      reflect the expressive and luxurious nature of her clothing, while also
       appealing to her fashion-forward audience. However, we aimed to avoid the
       common trend of creating ‘blanding’ visuals seen in the fashion industry
       and instead incorporated the rich human character that is present in
@@ -31,7 +31,7 @@ projectBuilder:
     meaningful: "1"
   - type: _section_text
     size: one
-    textOne: "### Our creative concept celebrates the interaction between the human
+    textOne: "## Our creative concept celebrates the interaction between the human
       body and the garment, exploring the intimate and sensual experience of
       wearing clothing. Emphasising the importance of natural form and
       materiality, our approach explores how the clothing can act as an
