@@ -33,4 +33,12 @@ projectBuilder:
     size: fit
     image: /assets/uploads/4-2x.png
     meaningful: "4"
+  - type: _section_video
+    size: fit
+    meaningful: "5"
+    video: /assets/uploads/5-rafa_wayfind-star_4.mp4
+  - type: _section_image
+    size: fit
+    meaningful: "6"
+    image: /assets/uploads/6-2x.png
 ---
