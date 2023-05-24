@@ -16,4 +16,9 @@ services:
   - Visual Identity
   - Website
 year: 2023
+projectBuilder:
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/1-rafa_mascot_animation_5.mp4
+    meaningful: "1"
 ---
