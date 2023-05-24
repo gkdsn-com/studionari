@@ -21,4 +21,8 @@ projectBuilder:
     size: fit
     video: /assets/uploads/1-rafa_mascot_animation_5.mp4
     meaningful: "1"
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/2-rafa_playallwordmark_3.mp4
+    meaningful: "2"
 ---
