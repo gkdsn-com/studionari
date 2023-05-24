@@ -41,4 +41,28 @@ projectBuilder:
     size: fit
     meaningful: "6"
     image: /assets/uploads/6-2x.png
+  - type: _section_video
+    size: fit
+    meaningful: "8"
+    video: /assets/uploads/8-rafa_datecards_2.mp4
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/9-2x.png
+    meaningful: "9"
+  - type: _section_image
+    size: fit
+    meaningful: "10"
+    image: /assets/uploads/10-2x.png
+  - type: _section_video
+    size: fit
+    meaningful: "11"
+    video: /assets/uploads/11-rafa_values_3.mp4
+  - type: _section_image
+    size: fit
+    meaningful: "12"
+    image: /assets/uploads/12-2x.png
+  - type: _section_video
+    size: fit
+    meaningful: "13"
+    video: /assets/uploads/13-rafa_togetherspin_and-phone_2.mp4
 ---
