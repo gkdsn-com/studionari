@@ -65,4 +65,16 @@ projectBuilder:
     size: fit
     meaningful: "13"
     video: /assets/uploads/13-rafa_togetherspin_and-phone_2.mp4
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/14-2x.png
+    meaningful: "14"
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/15-rafa_wristband_animation_2.mp4
+    meaningful: "15"
+  - type: _section_image
+    size: fit
+    meaningful: "16"
+    image: /assets/uploads/16-2x.png
 ---
