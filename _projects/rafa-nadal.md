@@ -77,4 +77,17 @@ projectBuilder:
     size: fit
     meaningful: "16"
     image: /assets/uploads/16-2x.png
+  - type: _section_text
+    size: one
+    textOne: >-
+      ### Nike and the Rafa Nadal Foundation partnered to create Play All, an
+      innovative initiative that helps kids and young adults build confidence
+      through the power of tennis, movement, and play. NARI was tasked with
+      developing a visual identity for Play All that would embody Rafa Nadal’s
+      four pillars: Esfuerzo (Effort), Compañerismo (Companionship),
+      Deportividad (Sportsmanship), and Compromiso (Commitment).
+
+
+      ### To capture the essence of these pillars, we created a playful graphic language that showcases the individuality and optimism of the young participants. Our dynamic, evolving set of mascots provides a near-infinite range of possibilities, ensuring that each child feels seen and celebrated.
+    meaningful: intro
 ---
