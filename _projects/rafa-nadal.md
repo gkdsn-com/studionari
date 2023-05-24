@@ -29,4 +29,8 @@ projectBuilder:
     size: fit
     meaningful: "3"
     video: /assets/uploads/3-rafa_calendar_2.mp4
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/4-2x.png
+    meaningful: "4"
 ---
