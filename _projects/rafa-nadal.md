@@ -25,4 +25,8 @@ projectBuilder:
     size: fit
     video: /assets/uploads/2-rafa_playallwordmark_3.mp4
     meaningful: "2"
+  - type: _section_video
+    size: fit
+    meaningful: "3"
+    video: /assets/uploads/3-rafa_calendar_2.mp4
 ---
