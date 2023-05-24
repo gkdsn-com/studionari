@@ -3,7 +3,7 @@ layout: project
 footer: project
 title: Rafa Nadal
 featuredImage: /assets/uploads/cover_rafanadal.png
-desc: "Harnessing the power of play - "
+desc: Harnessing the power of play - an identity capturing the joy of movement
 client: Nike
 sectors:
   - Contemporary Culture
