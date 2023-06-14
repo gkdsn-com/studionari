@@ -34,4 +34,12 @@ projectBuilder:
     size: fit
     image: /assets/uploads/coachtopia_casestudy-05.jpg
     meaningful: Green bubble
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/coachtopia_casestudy-06.jpg
+    meaningful: "Rainbow "
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/coachtopia_casestudy-07.jpg
+    meaningful: "bags "
 ---
