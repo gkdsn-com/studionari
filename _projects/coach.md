@@ -12,5 +12,14 @@ services:
   - Creative Direction
   - "Merchandise "
 year: 2023
-projectBuilder: []
+projectBuilder:
+  - type: _section_video
+    size: fit
+    video: /assets/uploads/coachtopia-a-new-world-of-circular-craft-from-coach.mp4
+    meaningful: Intro video
+    sound: true
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/coachtopia_casestudy-01.jpg
+    meaningful: Coach clouds
 ---
