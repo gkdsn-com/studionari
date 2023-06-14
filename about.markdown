@@ -163,6 +163,15 @@ aboutBuilder:
       Otherlands Music & Arts Festival, Scotland: Panelist I 2022
 
 
+      Experience Valencia, Valencia : Keynote Speaker | 2022 London College of Communication: Lecture 2023
+
+
+      London Design Festival, London: Keynote Speaker 2023
+
+
+      Otherlands Music & Arts Festival, Scotland: Panelist I 2022
+
+
       Experience Valencia, Valencia : Keynote Speaker | 2022 
 
 
