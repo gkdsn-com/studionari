@@ -22,4 +22,16 @@ projectBuilder:
     size: fit
     image: /assets/uploads/coachtopia_casestudy-01.jpg
     meaningful: Coach clouds
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/coachtopia_casestudy-02.jpg
+    meaningful: images & dice
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/coachtopia_casestudy-04.jpg
+    meaningful: Billboard
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/coachtopia_casestudy-05.jpg
+    meaningful: Green bubble
 ---
