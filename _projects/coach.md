@@ -54,4 +54,8 @@ projectBuilder:
     size: fit
     image: /assets/uploads/coachtopia_casestudy-10.jpg
     meaningful: bags x3
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/coachtopia_casestudy-11.jpg
+    meaningful: split sky & orange
 ---
