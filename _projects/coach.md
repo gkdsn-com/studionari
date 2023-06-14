@@ -58,4 +58,8 @@ projectBuilder:
     size: fit
     image: /assets/uploads/coachtopia_casestudy-11.jpg
     meaningful: split sky & orange
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/coachtopia_casestudy-12.jpg
+    meaningful: "green "
 ---
