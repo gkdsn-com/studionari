@@ -42,4 +42,16 @@ projectBuilder:
     size: fit
     image: /assets/uploads/coachtopia_casestudy-07.jpg
     meaningful: "bags "
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/coachtopia_casestudy-08.jpg
+    meaningful: bags full bleed
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/coachtopia_casestudy-09.jpg
+    meaningful: "brown design "
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/coachtopia_casestudy-10.jpg
+    meaningful: bags x3
 ---
