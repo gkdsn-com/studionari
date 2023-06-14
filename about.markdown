@@ -167,9 +167,16 @@ aboutBuilder:
       Creativepool
   - title: Talks
     body: >-
-      
+      H﻿uipuit Creative Festival: Keynote Speaker I 2023 
 
-      London Design Festival, London: Keynote Speaker 2023
+
+      L﻿ondon College of Communication: Lecture I 2023
+
+
+      L﻿DF, London: Keynote Speaker I 2023
+
+
+      London Design Festival, London: Keynote Speaker I 2023
 
 
       Otherlands Music & Arts Festival, Scotland: Panelist I 2022
