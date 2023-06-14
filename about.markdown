@@ -43,11 +43,14 @@ aboutBuilder:
       * HOME
       * Judith Lieber
       * Levi's
+      * L﻿il Nas X
       * Marcus Rashford
       * Mob
       * Modular by Mensah
       * Moodelier
+      * N﻿etflix
       * Nike (Global, US, Asia)
+      * N﻿ike Kids
       * Rapha
       * Reebok
       * Selfridges & Co
@@ -63,13 +66,15 @@ aboutBuilder:
       * YouTube
   - title: Jobs
     body: >-
-      We are currently have no permanent openings.
+      We currently have no permanent openings.
 
 
       As part of the studio's offering we build bespoke teams tailored to the client and project, this means we are constantly looking for new partners to collaborate with. If you think your work, enthusiasm, and interest align with what we do at NARI please send your CV and Portfolio to [work@studionari.co.uk](mailto:work@studionari.co.uk), with the subject line "Freelance Position - Your title". We are looking for the following freelance positions;
 
 
       Animator\
+
+      S﻿enior Brand Designer\
 
       Strategist\
 
@@ -144,7 +149,9 @@ aboutBuilder:
 
       Creative Review : (2) 2022
 
-      Intern Magazine : 2022
+      Intern Magazine : 2022\
+      \
+      C﻿reative Review: (2) 2023
   - title: Judging
     body: |-
       Creative Circle, Gold judge
@@ -160,6 +167,18 @@ aboutBuilder:
       Creativepool
   - title: Talks
     body: >-
+      H﻿uipuit Creative Festival: Keynote Speaker I 2023 
+
+
+      L﻿ondon College of Communication: Lecture I 2023
+
+
+      L﻿DF, London: Keynote Speaker I 2023
+
+
+      London Design Festival, London: Keynote Speaker I 2023
+
+
       Otherlands Music & Arts Festival, Scotland: Panelist I 2022
 
 
