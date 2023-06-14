@@ -18,6 +18,21 @@ projectBuilder:
     video: /assets/uploads/coachtopia-a-new-world-of-circular-craft-from-coach.mp4
     meaningful: Intro video
     sound: true
+  - type: _section_text
+    size: one
+    textOne: >-
+      ### Coachtopia is a dynamic innovation hub within Coach, driven by a
+      shared purpose to propel the transition towards a circular economy in the
+      fashion industry. With a steadfast commitment to rapid prototyping, our
+      collaborative lab strives to develop groundbreaking products, pioneering
+      processes, and visionary ideas. By harnessing the transformative power of
+      circular craft, Coachtopia brings to life a visionary product ecosystem
+      that propels us towards a brighter, more sustainable future for our
+      planet.
+
+
+      ### We aimed to craft a captivating visual universe that beautifully reflects an optimistic outlook on sustainability. Our intention was to intertwine natural elements, including rainbows, flowers, and trees, with a vibrant and youthful energy embodied through our distinctive and carefully crafted typography. This vibrant graphic world seamlessly permeated every aspect of our collection, spanning across garments and bags alike.
+    meaningful: intro type
   - type: _section_image
     size: fit
     image: /assets/uploads/coachtopia_casestudy-01.jpg
@@ -66,19 +81,4 @@ projectBuilder:
     size: fit
     image: /assets/uploads/coachtopia_casestudy-13.jpg
     meaningful: full bleed image
-  - type: _section_text
-    size: one
-    textOne: >-
-      ### Coachtopia is a dynamic innovation hub within Coach, driven by a
-      shared purpose to propel the transition towards a circular economy in the
-      fashion industry. With a steadfast commitment to rapid prototyping, our
-      collaborative lab strives to develop groundbreaking products, pioneering
-      processes, and visionary ideas. By harnessing the transformative power of
-      circular craft, Coachtopia brings to life a visionary product ecosystem
-      that propels us towards a brighter, more sustainable future for our
-      planet.
-
-
-      ### We aimed to craft a captivating visual universe that beautifully reflects an optimistic outlook on sustainability. Our intention was to intertwine natural elements, including rainbows, flowers, and trees, with a vibrant and youthful energy embodied through our distinctive and carefully crafted typography. This vibrant graphic world seamlessly permeated every aspect of our collection, spanning across garments and bags alike.
-    meaningful: intro type
 ---
