@@ -149,7 +149,9 @@ aboutBuilder:
 
       Creative Review : (2) 2022
 
-      Intern Magazine : 2022
+      Intern Magazine : 2022\
+      \
+      C﻿reative Review: (2) 2023
   - title: Judging
     body: |-
       Creative Circle, Gold judge
@@ -165,11 +167,7 @@ aboutBuilder:
       Creativepool
   - title: Talks
     body: >-
-      Otherlands Music & Arts Festival, Scotland: Panelist I 2022
-
-
-      Experience Valencia, Valencia : Keynote Speaker | 2022 London College of Communication: Lecture 2023
-
+      
 
       London Design Festival, London: Keynote Speaker 2023
 
