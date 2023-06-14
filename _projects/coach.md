@@ -62,4 +62,8 @@ projectBuilder:
     size: fit
     image: /assets/uploads/coachtopia_casestudy-12.jpg
     meaningful: "green "
+  - type: _section_image
+    size: fit
+    image: /assets/uploads/coachtopia_casestudy-13.jpg
+    meaningful: full bleed image
 ---
